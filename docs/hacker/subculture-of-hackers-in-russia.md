@@ -4,7 +4,27 @@ title: Subculture of Hackers in Russia
 parent: Hacker 
 nav_order: 9860409 
 ---
+<style>
+.dont-break-out {
+  /* These are technically the same, but use both */
+  overflow-wrap: break-word;
+  word-wrap: break-word;
 
+  -ms-word-break: break-all;
+  /* This is the dangerous one in WebKit, as it breaks things wherever */
+  word-break: break-all;
+  /* Instead use this non-standard one: */
+  word-break: break-word;
+
+  /* Adds a hyphen where the word breaks, if supported (No Blink) */
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+}
+</style>
+
+<div class="dont-break-out" markdown="1">
 This is the mobile-friendly web version of the [original article](http://www.ccsenet.org/journal/index.php/ass/article/view/39698).
 # Subculture of Hackers in Russia
 {: .no_toc }
@@ -113,3 +133,4 @@ Copyright for this article is retained by the author(s), with first publication 
 This is an open-access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/).
 
 ***
+</div>
