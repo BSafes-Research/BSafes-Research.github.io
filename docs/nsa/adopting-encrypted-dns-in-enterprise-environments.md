@@ -62,7 +62,7 @@ DNS translates domain names to their corresponding Internet Protocol (IP) addres
 
 1. The user wants to visit a website they do not know is malicious and types the domain name into the web browser.
 2. The request for the domain name is sent to the enterprise DNS resolver with a plaintext packet on port 53. Queries that violate DNS monitoring policies may generate alerts and/or be blocked.
-3. IftheIPaddressforthedomainisnotintheenterpriseDNSresolver’scacheofdomainsandthedomainisnotfiltered,itwillsendaDNSquerythrough the enterprise gateway.
+3. If the IP address for the domain is not in the enterprise DNS resolver’s cache of domains and the domain is not filtered, it will send a DNS query through the enterprise gateway.
 4. The enterprise gateway forwards the plaintext DNS request to an external DNS server. It also blocks DNS requests not from the enterprise DNS resolver.
 5. The response to the query with the IP address of the domain, the address of another DNS server with more information, or an error is returned in plaintext back through the enterprise gateway.
 6. The enterprise gateway forwards the response back to the enterprise DNS resolver. Steps 3-6 repeat until either the IP address for the requested domain name is found or there is an error.
