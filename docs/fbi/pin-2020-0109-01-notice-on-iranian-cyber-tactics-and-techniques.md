@@ -20,6 +20,9 @@ nav_order: 980112299
 
 <div class="dont-break-out" markdown="1">
 This is the mobile-friendly web version of the [original article](https://www.aha.org/system/files/media/file/2020/03/fbi-pin-20200109-001-notice-on-iranian-cyber-tactics-and-techniques-jan-9-2020.pdf).
+
+<img src="https://statics.bsafes.com/images/publications/fbi-pin-20200109-001-notice-on-iranian-cyber-tactics-and-techniques-jan-9-2020.png" alt="Notice on Iranian Cyber Tactics and Techniques" style="display:block; margin:0 auto">
+
 ### 09 January 2020
 {: .no_toc }
 #### PIN Number
@@ -28,6 +31,9 @@ This is the mobile-friendly web version of the [original article](https://www.ah
 {: .no_toc }  
 # Notice on Iranian Cyber Tactics and Techniques 
 {: .no_toc }
+
+1. TOC
+{:toc}
 
 ## Summary
 The FBI assesses foreign cyber actors operating in the Islamic Republic of Iran, one of two nation-states known to have conducted destructive cyber attacks inside the United States, could potentially use a range of Computer Network Operations (CNO) against US-based networks in retaliation for last week’s strikes against Iranian military leadership.  The FBI has observed an increase in Iranian cyber reconnaissance activity since last week’s strike. Among the most common and effective methods Iranian cyber actors use to conduct CNO are spearphishing, virtual private network (VPN) vulnerability targeting, and password spray attacks, which enable remote access and allow Iran to gather information to counter perceived threats to their regime.  Businesses and individuals in the United States whom this activity may target include those involved in industries of interest to Iran, including academia, government, cleared defense contractors, and nongovernmental organizations focusing on Iranian issues.  
@@ -81,7 +87,7 @@ For mitigation, the FBI recommends reviewing the information and recommendations
 in National Security Agency Cybersecurity Advisory: Mitigating VPN Vulnerabilities. (Release No:
 PA-010-19, 7 October 2019)  
 
-## Password Spray Attack Activity
+### Password Spray Attack Activity
 In March 2018, the FBI disseminated the FLASH message “Malicious Cyber Activity of Iran-based
 Mabna Institute” (Alert Number ME-000092-TT). The FLASH detailed coordinated and broadly
 targeted password spray attacks against organizations in the United States and abroad. Victims
@@ -90,7 +96,7 @@ alerts, and allow easy-to-guess passwords (e.g., “Winter2018”, “Password12
 recommends reviewing the information and mitigation recommendations provided in the
 FLASH, as it assesses these techniques continue to be used with success.  
 
-### Defense
+## Defense
 * Be aware of unsolicited contact on social media from any individual you do not know
 personally.
 * Be aware of attempts to pass links or files via social media from anyone whom you do
