@@ -25,7 +25,7 @@ This is the mobile-friendly web version of the [original article](https://media.
 
 # Adopting Encrypted DNS in Enterprise Environments 
 {: .no_toc }
-
+January 15, 2021
 1. TOC
 {:toc}
 

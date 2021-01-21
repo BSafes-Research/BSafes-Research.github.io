@@ -25,6 +25,7 @@ This is the mobile-friendly web version of the [original article](https://media.
 
 # Russian State-Sponsored Actors Exploiting Vulnerability in VMware® Workspace ONE Access Using Compromised Credentials 
 {: .no_toc }
+December 07, 2020
 
 1. TOC
 {:toc}
