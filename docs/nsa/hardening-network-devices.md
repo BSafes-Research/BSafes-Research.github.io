@@ -29,7 +29,6 @@ August 18, 2020
 1. TOC
 {:toc}
 
-# Hardening Network Devices
 Hardening network devices reduces the risk of unauthorized access into a network's infrastructure. Vulnerabilities in device management and configurations present weaknesses for a malicious cyber actor to exploit in order to gain presence and maintain persistence within a network. Adversaries have shifted their focus from exclusively exploiting traditional endpoints to increasingly exploiting specialized and embedded devices, including routers and switches. They do this through manipulating weaknesses in configurations, controlling routing protocols, and implanting malware in the operating systems.
 
 ##  Service Security Recommendations
