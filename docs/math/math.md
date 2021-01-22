@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Math 
+title: Math
+has_children:true
 nav_order: 130
 ---
 
