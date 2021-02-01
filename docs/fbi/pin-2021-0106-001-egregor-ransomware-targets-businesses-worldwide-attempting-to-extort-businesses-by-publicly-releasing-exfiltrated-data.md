@@ -1,8 +1,8 @@
 ---
 layout: default
-title: . PIN# 20210106-001 - Egregor Ransomware Targets Businesses Worldwide, Attempting to Extort Businesses by Publicly Releasing Exfiltrated Data  
+title: . 1/6/2021 - Egregor Ransomware Targets Businesses Worldwide, Attempting to Extort Businesses by Publicly Releasing Exfiltrated Data  
 parent: FBI 
-nav_order: 980010699 
+nav_order: 979112599 
 ---
 <style>
 .dont-break-out {

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: . FBI FLASH - Indicators of Compromise Pertaining to Iranian Interference in the 2020 US Presidential Election  
+title: . 10/29/2020 - Indicators of Compromise Pertaining to Iranian Interference in the 2020 US Presidential Election  
 parent: FBI 
 nav_order: 980020299 
 ---

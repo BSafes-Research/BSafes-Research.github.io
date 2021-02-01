@@ -1,6 +1,6 @@
 ---
 layout: default
-title: . PIN# 20200109-001 -  Notice on Iranian Cyber Tactics and Techniques 
+title: . 1/9/2020 -  Notice on Iranian Cyber Tactics and Techniques 
 parent: FBI 
 nav_order: 980112299 
 ---

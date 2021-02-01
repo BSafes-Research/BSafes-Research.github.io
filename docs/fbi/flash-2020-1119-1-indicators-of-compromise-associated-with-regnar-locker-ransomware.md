@@ -1,6 +1,6 @@
 ---
 layout: default
-title: . FBI FLASH - Indicators of Compromise Associated with Ragnar Locker Ransomware  
+title: . 11/19/2020 - Indicators of Compromise Associated with Ragnar Locker Ransomware  
 parent: FBI 
 nav_order: 980011299 
 ---
@@ -23,7 +23,7 @@ This is the mobile-friendly web version of the [original article](https://www.ab
 
 <img src="https://statics.bsafes.com/images/publications/FBI-Flash-Indicators-of-Compromise-Ragnar-Locker-Ransomware.png" alt="Indicators of Compromise Associated with Ragnar Locker Ransomware" style="display:block; margin:0 auto">
 
-### 19 NOV 2020 2020
+### 19 NOV 2020
 {: .no_toc }
 #### Alert Number
 {: .no_toc }

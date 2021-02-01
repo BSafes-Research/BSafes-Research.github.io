@@ -1,6 +1,6 @@
 ---
 layout: default
-title: . PIN# 20200917-001 - IRGC-Associated Cyber Operations Against US Company Networks  
+title: . 9/17/2020 - IRGC-Associated Cyber Operations Against US Company Networks  
 parent: FBI 
 nav_order: 980031499 
 ---

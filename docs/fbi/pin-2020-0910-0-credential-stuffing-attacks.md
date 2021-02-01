@@ -1,6 +1,6 @@
 ---
 layout: default
-title: . PIN# 20200910-001 - Cyber Actors Conduct Credential Stuffing Attacks Against US Financial Sector 
+title: . 9/10/2020 - Cyber Actors Conduct Credential Stuffing Attacks Against US Financial Sector 
 parent: FBI 
 nav_order: 980032199 
 ---

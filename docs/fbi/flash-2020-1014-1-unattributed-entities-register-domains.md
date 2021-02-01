@@ -1,6 +1,6 @@
 ---
 layout: default
-title: . FBI FLASH - Unattributed Entities Register Domains Spoofing the US Census Bureau’s Websites, Likely for Malicious Use  
+title: . 10/14/2020 - Unattributed Entities Register Domains Spoofing the US Census Bureau’s Websites, Likely for Malicious Use  
 parent: FBI 
 nav_order: 980021799 
 ---

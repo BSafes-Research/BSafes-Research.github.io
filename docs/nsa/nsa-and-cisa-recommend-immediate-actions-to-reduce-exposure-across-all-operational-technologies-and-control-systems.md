@@ -1,6 +1,6 @@
 ---
 layout: default
-title: . NSA and CISA Recommend Immediate Actions to Reduce Exposure Across all Operational Technologies and Control Systems 
+title: . 7/23/2020 - NSA and CISA Recommend Immediate Actions to Reduce Exposure Across all Operational Technologies and Control Systems 
 parent: NSA 
 nav_order: 980050899 
 ---

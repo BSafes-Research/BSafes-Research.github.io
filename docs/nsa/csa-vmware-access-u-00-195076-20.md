@@ -1,6 +1,6 @@
 ---
 layout: default
-title: . Russian State-Sponsored Actors Exploiting Vulnerability in VMware® Workspace ONE Access Using Compromised Credentials 
+title: . 12/7/2020 - Russian State-Sponsored Actors Exploiting Vulnerability in VMware® Workspace ONE Access Using Compromised Credentials 
 parent: NSA 
 nav_order: 980002499 
 ---

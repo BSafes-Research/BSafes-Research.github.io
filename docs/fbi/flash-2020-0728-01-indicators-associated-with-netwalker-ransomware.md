@@ -1,6 +1,6 @@
 ---
 layout: default
-title: . FBI FLASH - Indicators Associated with Netwalker Ransomware  
+title: . 7/28/2020 - Indicators Associated with Netwalker Ransomware  
 parent: FBI 
 nav_order: 980050399 
 ---
