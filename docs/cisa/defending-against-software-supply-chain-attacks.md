@@ -108,8 +108,10 @@ Many common, third-party software products require elevated system privileges to
 ***
 management servers, vulnerabilities or malware inserted into those software products could provide malicious actors with privileged access to the most critical systems within a network.
 
+<div style="border:3px solid #448c0d;padding:20px" markdown="1">
 > **Software Supply Chain Compromise in the News: SolarWinds Orion**  
 > In December 2020, the cybersecurity firm FireEye discovered a backdoor – subsequently named SUNBURST - in the SolarWinds Orion platform. Researchers later discovered that a threat actor used an implant, referred to as SUNSPOT, to access the build server and insert the backdoor. After spreading the backdoor to many customers via routine updates, the threat actor targeted select victim networks for follow-on actions, including the use of additional malware. This software supply chain attack provided the threat actor access to systems and data on numerous government and private sector networks. The threat actor was patient, thorough, and maintained excellent operational security throughout the process, making their presence very hard to detect. Overall, the threat actor maintaied a light malware footprint, using legimate credentials and remote access when possible. While the SolarWinds Orion platform compromise provided access to most of the threat actor's victims, the threat actor used non-supply chain compromises techniques to gain access to a limited number of victims. The software supply chain attack conducted against Solarwinds and its customers serves as a recent example of how effective a software supply chain attack can be.
+</div>
 
 #### *Frequent Communication*
 Third-party software products typically require frequent communication with the vendor in order to update the software, fix known vulnerabilities, and provide security against new and evolving cybersecurity threats. This connectivity could allow malicious actors to send illegitimate software updates containing malware to the customer. Conversely, malicious actors could also intentionally prevent an update from reaching customers, ensuring those customers remain vulnerable to certain types of malware. Malicious actors can then exploit those vulnerabilities.
@@ -122,6 +124,7 @@ Network defenders are limited in their ability to quickly mitigate consequences 
 
 ### Recommendations for Customers
 
+<div style="border:3px solid #448c0d;padding:20px" markdown="1">
 > **Risk Management Program**  
 > *Some Simple Steps*
 > 1. Identify your key mission or business processes—what essential services do you provide or what drives your revenue?
@@ -129,6 +132,7 @@ Network defenders are limited in their ability to quickly mitigate consequences 
 3. Research and document how each software license is supported by its supplier (e.g., Are patches provided? Does the supplier offer periodic email updates about the product?)
 4. Understand how your software (current or future purchases) supports or otherwise relates to your key processes
 5. Document how you would plan to address software for which a vulnerability is disclosed
+</div>
 
 Organizations acquiring software should consider its use, as with other ICT products and services, in the context of a risk management program. Such a program should use an operationalized systems security engineering framework<sup>12</sup> and a formal C-SCRM approach across organization, mission/business, and system tiers.<sup>13</sup> A mature risk management program enables an organization to understand risks presented by ICT products and services, including software, in the context of the mission or business processes they support. Organizations can manage such risks through a variety of technical and non-technical activities, including those focused on C-SCRM for software and the associated full software lifecycle.
 
@@ -160,7 +164,9 @@ SP 800-161 (April 2015), http://dx.doi.org/10.6028/NIST.SP.800-161.
 (February 2021), https://doi.org/10.6028/NIST.IR.8276.
 {: .fs-2}
 ***
->  **Prevention**  
+
+<div style="border:3px solid #448c0d;padding:20px" markdown="1">
+> **Prevention**  
 > *Some Simple Steps*
 1. Ask your software supplier/vendor (or check the vendor’s website) whether the supplier:
     - Uses a software development lifecycle incorporating secure software development practices
@@ -170,6 +176,7 @@ SP 800-161 (April 2015), http://dx.doi.org/10.6028/NIST.SP.800-161.
 2. Request a software component inventory with each contemplated software purchase
     - If a vendor cannot provide a component inventory, consider using that as a differentiator when selecting among competing products
     - Post-purchase, incorporate that information into your software inventory 
+</div>
 
 - Establish a set of security requirements or controls for all suppliers varied based on the criticality of the supplier and the permissions granded to the ICT.
 - Use supplier certifications to ascertain whether a supplier:
@@ -227,7 +234,8 @@ For example, monitoring can identify unauthorized changes to Trusted Platform Mo
 ***
 should monitor configurations that establish a vendor- or user-defined hardened state and whether unauthorized changes to those configurations occur.
 
->  **Mitigation**  
+<div style="border:3px solid #448c0d;padding:20px" markdown="1">
+> **Mitigation**  
 > *Some Simple Steps*
 > 1. Implement a documented vulnerability management program
 management program
@@ -237,7 +245,7 @@ management program
 2. If vendor specifies URLs or IP ranges and ports to and from which software should communicate, consider establishing firewall rules to ensure such communications do not occur outside of those parameters
 3. Where feasible, apply basic network segmentation to isolate different parts of the enterprise (e.g., maintain a separate network for guest users, separate the networks used by different functional areas of the organization, etc.)
 4. Monitor endpoints and/or servers for unexplained deviations from your software inventory; remove or isolate unauthorized software
-	
+</div>	
 	
 Additionally, limiting external and internal connections to only those on an approved list for each software deployment can help mitigate risk. Using expected software behavior—such as expected vendor URLs or IP ranges and ports with which a software package will periodically communicate—security engineering can implement information controls (e.g., firewalls, intrusion detection/prevention) to prevent and detect unexpected behaviors.<sup>23</sup> However, limiting connections based on static set of URLs or IP ranges may not be feasible or effective because many vendors have highly dynamic environments and use cloud service providers to host vendor resources. For many reasons, organizations should consider applying an identity- and object-based approach to baseline normal behavior. Organizations should also consider using machine learning or artificial intelligence to identify anomalies and deny abnormal information flows.
 
@@ -259,7 +267,8 @@ If a threat actor successfully exploits vulnerable software, organizations can u
 
 Where feasible, this planning includes pre-identifying and establishing alternative suppliers for software capabilities. It also includes establishing failover processes to follow when software capabilities and the processes they support become unavailable.
 
->  **Resilience**  
+<div style="border:3px solid #448c0d;padding:20px" markdown="1">
+> **Resilience**  
 > *Some Simple Steps*
 1. Pre-identify and establish alternative suppliers for the critical software you use
     - Have plans in place to switch to a new supplier, if feasible, when critical software becomes unavailable or presents an increased risk
@@ -267,6 +276,7 @@ Where feasible, this planning includes pre-identifying and establishing alternat
     - Prepare written failover processes for critical software
     - Periodically conduct table-top exercises or walk-throughs to ensure your organization understands the steps in its failover processes
     - Where possible, coordinate failover processes with vendors and other external stakeholders
+</div>
 
 Establishing failover processes requires a strong understanding of how each piece of software is used within an organization—the mission or business it supports, the associated processes of which it is a part, and the anticipated mission or business impact if those processes are interrupted. Having this understanding enables the organization to assess the criticality of its various mission or business processes and associated software dependencies. Within that context, the organization can then identify failover options.
 
