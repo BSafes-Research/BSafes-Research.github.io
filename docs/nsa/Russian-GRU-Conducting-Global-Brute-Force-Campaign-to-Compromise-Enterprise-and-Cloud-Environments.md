@@ -38,6 +38,9 @@ nav_order: 9790500
 This is the mobile-friendly web version of the [original article](https://media.defense.gov/2021/Jul/01/2002753896/-1/-1/1/CSA_GRU_GLOBAL_BRUTE_FORCE_CAMPAIGN_UOO158036-21.PDF).
 {: .no_toc }
 
+# Russian GRU Conducting Global Brute Force Campaign to Compromise Enterprise and Cloud Environments
+{: .no_toc}
+
 ![Russian GRU Conducting Global Brute Force Campaign to Compromise Enterprise and Cloud Environments](https://statics.bsafes.com/images/publications/CSA_GRU_GLOBAL_BRUTE_FORCE_CAMPAIGN_UOO158036-21-8.png)
 
 
