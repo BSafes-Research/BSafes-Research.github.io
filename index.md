@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Cybersecurity Publications 
+title: Cybersecurity Research 
 nav_order: 1
-description: "Cybersecurity Publications"
+description: "Cybersecurity Research"
 permalink: /
 ---
 
-# Cybersecurity Publications 
+# Cybersecurity Research
