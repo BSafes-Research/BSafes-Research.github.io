@@ -8,6 +8,18 @@ permalink: /
 
 # Cybersecurity Research
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+Pending December 15, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Bullying in the C-Suite - A Nurse Leader Perspective [HTML](https://archive-1.bsafes.com/docs/B/bullying-in-the-c-suite-a-nurse-leader-perspective/)
+</p>
+<details>
+  <summary>Abstract</summary>
+An estimated 35% of American workers have experienced bullying, and in 80% of those situations, the perpetrator was a supervisor or boss. However, the reality is that bullying can come from anyone in the workplace, including subordinates.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 28, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -44,6 +56,18 @@ For much of the 21st century, the United States and China have been competing to
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Grief is love with nowhere to go [HTML](https://papers.bsafes.com/docs/behavior/grief-is-love-with-nowhere-to-go/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Your absence has gone through me Like thread through a needle. Everything I do is stitched with its color.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -52,5 +76,17 @@ March, 2021<br>
 <details>
   <summary>Abstract</summary>
 Artificial intelligence (AI) has been a widely used buzzword for the past couple of years. If there is a technology that works without human interaction, it is labeled as AI. But what is AI, and should individuals be concerned? The following research aims to define what artificial intelligence is, specifically machine learning (ML) and neural networks.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+Spring, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Dating App Facilitated Sexual Violence: The Prevalence and Mental Health Effects [HTML](https://papers.bsafes.com/docs/behavior/dating-app-facilitated-sexual-violence-the-prevalence-and-mental-health-effects/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Dating apps are in growing popularity, with 48% of dating app users in the United States being adults under 30 (Pew Research Center, 2020
 </details>
 </div>
