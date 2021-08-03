@@ -7,6 +7,29 @@ permalink: /
 ---
 
 # Cybersecurity Research
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• The Problem of Pornography [HTML](https://archive-1.bsafes.com/docs/T/The-Problem-of-Pornography/)
+</p>
+<details>
+  <summary>Abstract</summary>
+His eyes met mine as he scoffed, “It’s just videos. It’s not like it’s real or anything. It’s not that big of a deal!” It should not have surprised me then, that our relationship would end with his gaze trailing another woman, as he had spent so much of the years we dated with his eyes lingering on other women on screens, pages, and incognito tabs on his phone.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Behavioral Skills Training to Teach Online Safety Responses to Youth with Autism Spectrum Disorder [HTML](https://papers.bsafes.com/docs/behavior/behavioral-sklls-training-to-teach-online-safety-responses-to-youth-with-autism-spectrum-disorder/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Youth with autism spectrum disorder (ASD) frequently play video games. Social deficits underlying the disorder make this population more vulnerable to safety threats online than neurotypical children.
+</details>
+</div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 1, 2021<br>

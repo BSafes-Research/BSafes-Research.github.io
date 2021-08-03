@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Artificial Intelligence 
-nav_order: 100 
+nav_order: 650 
 ---
 
 # Artificial Intelligence 
