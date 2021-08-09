@@ -71,6 +71,18 @@ Your absence has gone through me Like thread through a needle. Everything I do i
 March, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• Pornography Its Harms and a New Legal Strategy: Research and Experience in Japan [HTML](https://archive-p.bsafes.com/docs/Pornography-Its-Harms-and-a-New-Legal-Strategy-Research-and-Experience-in-Japan/)
+</p>
+<details>
+  <summary>Abstract</summary>
+In this article we describe pornography’s harms in Japan, which are known about from surveys and research, and from the outreach and consulting activities of Japanese feminist-abolitionist groups.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Artificial Intelligence and the Ethics Behind It [HTML](https://archive-1.bsafes.com/docs/A/artificial-intelligence-and-the-ethics-behind-it/)
 </p>
 <details>
@@ -88,5 +100,17 @@ Spring, 2021<br>
 <details>
   <summary>Abstract</summary>
 Dating apps are in growing popularity, with 48% of dating app users in the United States being adults under 30 (Pew Research Center, 2020
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Impact of Information Breaches on Health Care Records [HTML](https://papers.bsafes.com/docs/breaches/impact-of-information-breaches-on-health-care-records/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Although there were almost 3.5 million reported information breaches of health care data in the first quarter of 2019, health care providers do not know the extent of digital and nondigital breaches of patient medical recordsi ...
 </details>
 </div>
