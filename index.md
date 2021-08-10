@@ -11,7 +11,7 @@ permalink: /
 Pending December 15, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-• Bullying in the C-Suite - A Nurse Leader Perspective [HTML](https://archive-1.bsafes.com/docs/B/bullying-in-the-c-suite-a-nurse-leader-perspective/)
+• Bullying in the C-Suite - A Nurse Leader Perspective [HTML](https://archive-b-v2.bsafes.com/docs/B/bullying-in-the-c-suite-a-nurse-leader-perspective/)
 </p>
 <details>
   <summary>Abstract</summary>
@@ -35,7 +35,7 @@ His eyes met mine as he scoffed, “It’s just videos. It’s not like it’s r
 May 6, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-• Behavioral Skills Training to Teach Online Safety Responses to Youth with Autism Spectrum Disorder [HTML](https://papers.bsafes.com/docs/behavior/behavioral-sklls-training-to-teach-online-safety-responses-to-youth-with-autism-spectrum-disorder/)
+• Behavioral Skills Training to Teach Online Safety Responses to Youth with Autism Spectrum Disorder [HTML](https://archive-b-v2.bsafes.com/docs/B/behavioral-sklls-training-to-teach-online-safety-responses-to-youth-with-autism-spectrum-disorder/)
 </p>
 <details>
   <summary>Abstract</summary>
@@ -44,10 +44,22 @@ Youth with autism spectrum disorder (ASD) frequently play video games. Social de
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Art and Eco Therapies: Benefifits to Motor Development of Preschool-Age Children in the Screen Era [HTML](https://archive-a.bsafes.com/docs/A/art-and-eco-therapies-benefits-to-motor-development-of-preschool-age-children-in-the-screen-era/)
+</p>
+<details>
+  <summary>Abstract</summary>
+In the highly technological society we currently live in, children are spending more time in front of screens instead of engaging in play or spending time in nature.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 1, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-• 5G Technology, U.S. - China Race, And the Competition for Dominance [HTML](https://archive-1.bsafes.com/docs/5/5g-technology-us-china-race-and-the-competition-for-dominan/)
+• 5G Technology, U.S. - China Race, And the Competition for Dominance [HTML](https://archive-5.bsafes.com/docs/5/5g-technology-us-china-race-and-the-competition-for-dominan/)
 </p>
 <details>
   <summary>Abstract</summary>
@@ -71,7 +83,7 @@ Your absence has gone through me Like thread through a needle. Everything I do i
 March, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-• Pornography Its Harms and a New Legal Strategy: Research and Experience in Japan [HTML](https://archive-p.bsafes.com/docs/Pornography-Its-Harms-and-a-New-Legal-Strategy-Research-and-Experience-in-Japan/)
+• Pornography Its Harms and a New Legal Strategy: Research and Experience in Japan [HTML](https://archive-p.bsafes.com/docs/P/Pornography-Its-Harms-and-a-New-Legal-Strategy-Research-and-Experience-in-Japan/)
 </p>
 <details>
   <summary>Abstract</summary>
@@ -83,7 +95,7 @@ In this article we describe pornography’s harms in Japan, which are known abou
 March, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-• Artificial Intelligence and the Ethics Behind It [HTML](https://archive-1.bsafes.com/docs/A/artificial-intelligence-and-the-ethics-behind-it/)
+• Artificial Intelligence and the Ethics Behind It [HTML](https://archive-a.bsafes.com/docs/A/artificial-intelligence-and-the-ethics-behind-it/)
 </p>
 <details>
   <summary>Abstract</summary>
