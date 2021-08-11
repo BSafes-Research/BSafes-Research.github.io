@@ -23,7 +23,7 @@ An estimated 35% of American workers have experienced bullying, and in 80% of th
 July 28, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-• The Problem of Pornography [HTML](https://archive-1.bsafes.com/docs/T/The-Problem-of-Pornography/)
+• The Problem of Pornography [HTML](https://archive-t.bsafes.com/docs/T/The-Problem-of-Pornography/)
 </p>
 <details>
   <summary>Abstract</summary>
@@ -71,7 +71,7 @@ For much of the 21st century, the United States and China have been competing to
 April 29, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-• Grief is love with nowhere to go [HTML](https://papers.bsafes.com/docs/behavior/grief-is-love-with-nowhere-to-go/)
+• Grief is love with nowhere to go [HTML](https://archive-g.bsafes.com/docs/G/grief-is-love-with-nowhere-to-go/)
 </p>
 <details>
   <summary>Abstract</summary>
@@ -107,7 +107,7 @@ Artificial intelligence (AI) has been a widely used buzzword for the past couple
 Spring, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-• Dating App Facilitated Sexual Violence: The Prevalence and Mental Health Effects [HTML](https://papers.bsafes.com/docs/behavior/dating-app-facilitated-sexual-violence-the-prevalence-and-mental-health-effects/)
+• Dating App Facilitated Sexual Violence: The Prevalence and Mental Health Effects [HTML](https://archive-d.bsafes.com/docs/D/dating-app-facilitated-sexual-violence-the-prevalence-and-mental-health-effects/)
 </p>
 <details>
   <summary>Abstract</summary>
@@ -119,7 +119,7 @@ Dating apps are in growing popularity, with 48% of dating app users in the Unite
 February, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-• Impact of Information Breaches on Health Care Records [HTML](https://papers.bsafes.com/docs/breaches/impact-of-information-breaches-on-health-care-records/)
+• Impact of Information Breaches on Health Care Records [HTML](https://archive-i.bsafes.com/docs/I/impact-of-information-breaches-on-health-care-records/)
 </p>
 <details>
   <summary>Abstract</summary>

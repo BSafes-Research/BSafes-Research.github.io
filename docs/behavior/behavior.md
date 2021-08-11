@@ -9,6 +9,6 @@ nav_order: 660
 
 § December 15, 2021 [Bullying in the C-Suite - A Nurse Leader Perspective](https://archive-b-v2.bsafes.com/docs/B/bullying-in-the-c-suite-a-nurse-leader-perspective/)
 
-§[Dating App Facilitated Sexual Violence: The Prevalence and Mental Health Effects](https://archive-1.bsafes.com/docs/D/dating-app-facilitated-sexual-violence-the-prevalence-and-mental-health-effects/)
+§ Spring 2021 [Dating App Facilitated Sexual Violence: The Prevalence and Mental Health Effects](https://archive-d.bsafes.com/docs/D/dating-app-facilitated-sexual-violence-the-prevalence-and-mental-health-effects/)
 
-§[Grief is love with nowhere to go](https://archive-1.bsafes.com/docs/G/grief-is-love-with-nowhere-to-go/)
+§ April 29, 2021 [Grief is love with nowhere to go](https://archive-g.bsafes.com/docs/G/grief-is-love-with-nowhere-to-go/)
