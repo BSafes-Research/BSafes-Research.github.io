@@ -32,6 +32,30 @@ His eyes met mine as he scoffed, “It’s just videos. It’s not like it’s r
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Is There a Relationship Between the Number of Female Students Who Were Cyberbullied and the Number of Female Students Who Seriously Considered Attempting Suicide? [HTML](https://archive-i.bsafes.com/docs/I/Is-There-a-Relationship-Between-the-Number-of-Female-Students-Who-Were-Cyberbullied-and-the-Number-of-Female-Students-Who-Seriously-Considered-Attempting-Suicide/)
+</p>
+<details>
+  <summary>Abstract</summary>
+In the United States, cyberbullying has become a major public health concern. Indeed, many people who are victims of cyberbullying consider harming themselves.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Evaluating Security in Cryptocurrency Wallets [HTML](https://archive-e.bsafes.com/docs/E/evaluating-security-in-cryptocurrency-wallets/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The number of users who are interested in trading Cryptocurrency is tremendously increasing, however, some users of cryptocurrency wallets do not know how to protect themselves or how to use a wallet with high protection.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 6, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -80,6 +104,18 @@ Your absence has gone through me Like thread through a needle. Everything I do i
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Cyberbullying and Punishments (Concentrating on Kerala Women) [HTML](https://archive-c.bsafes.com/docs/C/Cyberbullying-and-Punishments-Concentrating-on-Kerala-Women/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Kerala is a south Indian state, where the literacy rate is 100%. Kerala also has the highest Human Development Index rate in India. In Kerala, from past years, women who are open about their opinion are the easy targets of cyberbullies.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -112,6 +148,18 @@ Spring, 2021<br>
 <details>
   <summary>Abstract</summary>
 Dating apps are in growing popularity, with 48% of dating app users in the United States being adults under 30 (Pew Research Center, 2020
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 7 , 2020
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Who Owns Bitcoin? Private Law Facing the Blockchain [HTML](https://archive-w.bsafes.com/docs/W/who-owns-bitcoin-private-law-facing-the-blockchain/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Blockchain, or “distributed ledger technology” (DLT), has been devised as an alternative to the law of finance. While it has become clear by now that regulation in the public interest is necessary—for example to avoid money laundering, drug dealing, or tax evasion—the particularly thorny issues of private law have been less discussed. These include, for instance, the right to reverse an erroneous transfer, the ownership of stolen coins, and the effects of succession or bankruptcy of a bitcoin holder. All of these questions require answers from a legal perspective because the technology does not answer them.
 </details>
 </div>
 
@@ -151,3 +199,26 @@ Licensing is one of the essential means of exploiting the monetary value of a mu
 </details>
 </div>
 
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February, 2020
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• TOKEN TAXONOMY [HTML](https://archive-t.bsafes.com/docs/T/token-taxonomy-the-need-for-open-source-standards-around-digital-assets/)
+</p>
+<details>
+  <summary>Abstract</summary>
+In 1994, Don Tapscott coined the phrase, “the digital economy,” with his book of that title. It discussed how the Web and the Internet of information would bring important changes in business and society. Today the Internet of value creates profound new possibilities.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June, 2018
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• U.S. Regulation of Blockchain Currencies: A Policy Overview [HTML](https://archive-u.bsafes.com/docs/U/us-regulation-of-blockchain-currencies-a-policy-overview/)
+</p>
+<details>
+  <summary>Abstract</summary>
+With its increasing significance in real-world financial transactions, blockchain currency has risen to a level of significance that regulators and policymakers can no longer ignore. Cryptocurrency has developed so fast. It is outpacing the regulatory and legislative developments necessary to address the issues that it has stirred up. Although cryptocurrency regulations have been in place for the past several years, already, lawmakers have struggled to keep up with the increasing popularity and technical complexity of cryptocurrency market activity.
+</details>
+</div>
