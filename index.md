@@ -44,18 +44,6 @@ In the United States, cyberbullying has become a major public health concern. In
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 1, 2021<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-• Evaluating Security in Cryptocurrency Wallets [HTML](https://archive-e.bsafes.com/docs/E/evaluating-security-in-cryptocurrency-wallets/)
-</p>
-<details>
-  <summary>Abstract</summary>
-The number of users who are interested in trading Cryptocurrency is tremendously increasing, however, some users of cryptocurrency wallets do not know how to protect themselves or how to use a wallet with high protection.
-</details>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 6, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -83,11 +71,35 @@ In the highly technological society we currently live in, children are spending 
 May 1, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• Evaluating Security in Cryptocurrency Wallets [HTML](https://archive-e.bsafes.com/docs/E/evaluating-security-in-cryptocurrency-wallets/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The number of users who are interested in trading Cryptocurrency is tremendously increasing, however, some users of cryptocurrency wallets do not know how to protect themselves or how to use a wallet with high protection.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • 5G Technology, U.S. - China Race, And the Competition for Dominance [HTML](https://archive-5.bsafes.com/docs/5/5g-technology-us-china-race-and-the-competition-for-dominan/)
 </p>
 <details>
   <summary>Abstract</summary>
 For much of the 21st century, the United States and China have been competing to determine which world superpower will have the upper-hand for decades to come.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• When Does a Cyber Crime Become an Act of Cyber Warfare [HTML](https://archive-w.bsafes.com/docs/W/when-does-a-cyber-crime-become-an-act-of-cyber-warfare/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Since the existence of the online world, cyber attacks have been a threat. As the online world has developed and evolved so have the attacks on them. The advancement of technology has meant the advancement and increased complexity of cyber attacks.
 </details>
 </div>
 
@@ -114,6 +126,32 @@ March 30, 2021<br>
 Kerala is a south Indian state, where the literacy rate is 100%. Kerala also has the highest Human Development Index rate in India. In Kerala, from past years, women who are open about their opinion are the easy targets of cyberbullies.
 </details>
 </div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 3, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• CYBER AND TRIA: EXPANDING THE DEFINITION OF AN “ACT OF TERRORISM” TO INCLUDE CYBER ATTACKS [HTML](https://archive-a.bsafes.com/docs/C/cyber-and-tria-expand-the-definition-of-an-act-of-terrorism-to-include-cyber-attacks/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The 9/11 terrorist attacks brought on financial losses that caused insurers and Congress to reevaluate how the United States approaches terrorism risk coverage. Congress quelled concerns of insurers evading coverage of future terrorist attacks by enacting the Terrorism Risk Insurance Act in 2002. This Note considers the difficulties presented by the out-of-date language employed by Congress in 2002 and proposes amendments so that the Act more clearly covers acts of cyberterrorism, which are ever-growing in their destructive potential.
+</details>
+</div>
+
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Are Terrorist Networks Just Glorifified Criminal Cells? [HTML](https://archive-a.bsafes.com/docs/A/are-terrorist-networks-just-glorified-criminal-cells/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The notions of organized crime and terrorism have an old and rich history around the globe. Researchers and practitioners have been studying events and phenomena related to these notions for a long time. There are pointers in the literature in which it is misleading to see the unfair comparison between terrorist and criminal networks with the argument that all actors involved in these networks are simply evil individuals.
+</details>
+</div>
+
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March, 2021<br>
@@ -164,6 +202,30 @@ Blockchain, or “distributed ledger technology” (DLT), has been devised as an
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 1, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Illicit Activity Detection in Large-Scale Dark and Opaque Web Social Networks [HTML](https://archive-i.bsafes.com/docs/I/illicit-activity-detection-in-large-scale-dark-and-opaque-web-social-networks/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Many online chat applications live in a grey area between the legitimate web and the dark net. The Telegram network in particular can aid criminal activities. Telegram hosts “chats” which consist of varied conversations and advertisements. These chats take place among automated “bots” and human users. Classifying legitimate activity from illegitimate activity can aid law enforcement in finding criminals. Social network analysis of Telegram chats presents a difficult problem. Users can change their username or create new accounts. Users involved in criminal activity often do this to obscure their identity. This makes establishing the unique identity behind a given username challenging. Thus we explored classifying users from their language usage in their chat messages.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Deterrence and Response Improvements for a Large-Scale Cyberterrorism Attack [HTML](https://archive-d.bsafes.com/docs/D/deterrence-and-response-improvements-for-large-scale-cyberterrorism-attack/)
+</p>
+<details>
+  <summary>Abstract</summary>
+A successful large-scale cyberterrorism attack has never been conducted against the United States, yet cyberterrorism is a real and evolving threat.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -172,6 +234,18 @@ February, 2021<br>
 <details>
   <summary>Abstract</summary>
 Although there were almost 3.5 million reported information breaches of health care data in the first quarter of 2019, health care providers do not know the extent of digital and nondigital breaches of patient medical recordsi ...
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 16, 2020
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Book Review - Industry of Anonymity: Inside the Business of Cybercrime, by Jonathan Lusthaus [HTML](https://archive-i.bsafes.com/docs/I/industry-of-anonymity-inside-the-business-of-cybercrime-by-jonathan-lusthaus/)
+</p>
+<details>
+  <summary>Abstract</summary>
+In Industry of Anonymity: Inside the Business of Cybercrime, Jonathan Lusthaus attempts to demystify the increasingly sophisticated business of cybercrime and examine how it has matured into a large, profit-driven industry. Through interviews with hundreds of subjects involved in the cybercrime industry in varying capacities, Lusthaus has sought to draw a map that, by showing how seemingly disparate elements in the industry relate to one another, can better explain how the cybercrime industry functions. In particular, Lusthaus strives to produce a better understanding of the people behind cybercrime and the contexts in which they operate. By doing so, the book endeavors to lift the veil of anonymity that has historically hidden cybercrime offenders and their activities from public view.
 </details>
 </div>
 
@@ -212,6 +286,18 @@ In 1994, Don Tapscott coined the phrase, “the digital economy,” with his boo
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 6, 2019
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• The Future of Cybercrime Prevention Strategies: Human Factors and A Holistic Approach to Cyber Intelligence [HTML](https://archive-t.bsafes.com/docs/T/the-future-of-cybercrime-prevention-strategies-human-factors-and-a-holistic-approach-to-cyber-intelligence/)
+</p>
+<details>
+  <summary>Abstract</summary>
+New technology is rapidly emerging to fight increasing cybercrime threats, however, there is one important component of a cybercrime that technology cannot always impact and that is human behavior.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June, 2018
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -222,3 +308,16 @@ June, 2018
 With its increasing significance in real-world financial transactions, blockchain currency has risen to a level of significance that regulators and policymakers can no longer ignore. Cryptocurrency has developed so fast. It is outpacing the regulatory and legislative developments necessary to address the issues that it has stirred up. Although cryptocurrency regulations have been in place for the past several years, already, lawmakers have struggled to keep up with the increasing popularity and technical complexity of cryptocurrency market activity.
 </details>
 </div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January, 2016<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Anti-Money Laundering [HTML](https://archive-a.bsafes.com/docs/A/anti-money-laundering/)
+</p>
+<details>
+  <summary>Abstract</summary>
+This past year has seen continued activity in money laundering ("ML") regulation and enforcement involving "cryptocurrency," terrorist finance ("TF"), and forfeiture law.
+</details>
+</div>
+

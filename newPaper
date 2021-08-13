@@ -1,0 +1,3 @@
+git add --all
+git commit -m "Add new papers"
+git push origin master
