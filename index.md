@@ -44,6 +44,18 @@ In the United States, cyberbullying has become a major public health concern. In
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July , 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Utilizing Web Data to Detect Harmful Application Software [HTML](https://archive-u.bsafes.com/docs/U/Utilizing-Web-Data-to-Detect-Harmful-Application-Software/)
+</p>
+<details>
+  <summary>Abstract</summary>
+This publication describes techniques that enable a developer of an operating system (OS) to protect a user(s) and/or an electronic device(s) (e.g., a smartphone) by detecting, disabling, and/or removing a third-party application(s) that may be a potentially harmful application (PHA).
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 6, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
