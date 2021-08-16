@@ -250,18 +250,6 @@ Dating apps are in growing popularity, with 48% of dating app users in the Unite
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 7 , 2020
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-• Who Owns Bitcoin? Private Law Facing the Blockchain [HTML](https://archive-w.bsafes.com/docs/W/who-owns-bitcoin-private-law-facing-the-blockchain/)
-</p>
-<details>
-  <summary>Abstract</summary>
-Blockchain, or “distributed ledger technology” (DLT), has been devised as an alternative to the law of finance. While it has become clear by now that regulation in the public interest is necessary—for example to avoid money laundering, drug dealing, or tax evasion—the particularly thorny issues of private law have been less discussed. These include, for instance, the right to reverse an erroneous transfer, the ownership of stolen coins, and the effects of succession or bankruptcy of a bitcoin holder. All of these questions require answers from a legal perspective because the technology does not answer them.
-</details>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 1, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -310,6 +298,31 @@ In Industry of Anonymity: Inside the Business of Cybercrime, Jonathan Lusthaus a
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December, 2020
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Cybersecurity Best Practices for the Safety of Modern Vehicles [HTML](https://archive-c.bsafes.com/docs/C/cybersecurity-best-practices-for-the-safety-of-modern-vehicles/)
+</p>
+<details>
+  <summary>Abstract</summary>
+In Industry of Anonymity: Inside the Business of Cybercrime, Jonathan Lusthaus attempts to demystify the increasingly sophisticated business of cybercrime and examine how it has matured into a large, profit-driven industry. Through interviews with hundreds of subjects involved in the cybercrime industry in varying capacities, Lusthaus has sought to draw a map that, by showing how seemingly disparate elements in the industry relate to one another, can better explain how the cybercrime industry functions. In particular, Lusthaus strives to produce a better understanding of the people behind cybercrime and the contexts in which they operate. By doing so, the book endeavors to lift the veil of anonymity that has historically hidden cybercrime offenders and their activities from public view.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October, 2020<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Electric Vehicle Charging Infrastructure Trends from the Alternative Fueling Station Locator: First Quarter 2020 [HTML](https://archive-e.bsafes.com/docs/E/electric-vehicle-charging-infrastructure-trends-from-the-alternative-fueling-station-locator-first-quarter-2020/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The US. Department of Energy’s (DOE’s) Alternative Fueling Station Locator contains information on public and private non-residential alternative fueling stations in the United States and Canada and currently tracks ethanol (E85), biodiesel, compressed natural gas, electric vehicle (EV) charging, hydrogen, liquefied natural gas, and propane stations. Of these fuels, EV charging continues to experience rapidly changing technology and growing infrastructure. This report provides a snapshot of the state of EV charging infrastructure in the United States in the first calendar quarter of 2020 (Q1). Using data from the Station Locator, this report breaks down the growth of public and private charging infrastructure by charging level, network, and location. Additionally, this report measures the current state of charging infrastructure compared with the amount projected to meet charging demand for an estimated 15 million plug-in electric vehicles by 2030. This information is intended to help transportation planners, policymakers, researchers, infrastructure developers, and others understand the rapidly changing landscape for EV charging.
+</details>
+</div>
+
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August, 2020
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -330,6 +343,18 @@ July 8, 2020
 <details>
   <summary>Abstract</summary>
 Licensing is one of the essential means of exploiting the monetary value of a musical work, and yet it is an area fraught with many issues and transactional costs which make it a di cult process for individuals and organizations.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 7 , 2020
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Who Owns Bitcoin? Private Law Facing the Blockchain [HTML](https://archive-w.bsafes.com/docs/W/who-owns-bitcoin-private-law-facing-the-blockchain/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Blockchain, or “distributed ledger technology” (DLT), has been devised as an alternative to the law of finance. While it has become clear by now that regulation in the public interest is necessary—for example to avoid money laundering, drug dealing, or tax evasion—the particularly thorny issues of private law have been less discussed. These include, for instance, the right to reverse an erroneous transfer, the ownership of stolen coins, and the effects of succession or bankruptcy of a bitcoin holder. All of these questions require answers from a legal perspective because the technology does not answer them.
 </details>
 </div>
 
@@ -358,6 +383,18 @@ New technology is rapidly emerging to fight increasing cybercrime threats, howev
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 1, 2018
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Securing Vehicle Charging Infrastructure [HTML](https://archive-s.bsafes.com/docs/S/securing-vehicle-charging-infrastructure/)
+</p>
+<details>
+  <summary>Abstract</summary>
+As the US electrifies the transportation sector, cyber attacks targeting vehicle charging could bring consequences to electrical system infrastructure. This is a growing area of concern as charging stations increase power delivery and must communicate to a range of entities to authorize charging, sequence the charging process, and manage load (grid operators, vehicles, OEM vendors, charging network operators, etc.).
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June, 2018
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -366,6 +403,42 @@ June, 2018
 <details>
   <summary>Abstract</summary>
 With its increasing significance in real-world financial transactions, blockchain currency has risen to a level of significance that regulators and policymakers can no longer ignore. Cryptocurrency has developed so fast. It is outpacing the regulatory and legislative developments necessary to address the issues that it has stirred up. Although cryptocurrency regulations have been in place for the past several years, already, lawmakers have struggled to keep up with the increasing popularity and technical complexity of cryptocurrency market activity.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March, 2018
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• DOE/DHS/DOT Volpe Technical Meeting on Electric Vehicle and Charging Station Cybersecurity Report [HTML](https://archive-d.bsafes.com/docs/D/doe-dhs-dot-volpe-technical-meeting-on-electric-vehicle-and-charging-stations-cybersecurity-report/)
+</p>
+<details>
+  <summary>Abstract</summary>
+On November 29-30, 2017, the U.S. Department of Energy’s (DOE) Office of Policy (OP), in collaboration with DOE’s Vehicle Technology Office (VTO), the U.S. Department of Homeland Security’s (DHS) Science and Technology Directorate (S&T) Cyber Security Division (CSD), and the U.S. Department of Transportation’s (U.S. DOT) John A. Volpe National Transportation Systems Center (Volpe) held a technical meeting on key aspects of electric vehicle (EV) and electric vehicle supply equipment (EVSE) cybersecurity. This report summarizes key takeaways and discussion points.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September, 2017<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• National Plug-In Electric Vehicle Infrastructure Analysis [HTML](https://archive-n.bsafes.com/docs/N/national-plug-in-electric-vehicles-infrastructure-analysis/)
+</p>
+<details>
+  <summary>Abstract</summary>
+This report addresses the fundamental question of how much plug-in electric vehicle (PEV) charging infrastructure—also known as electric vehicle supply equipment (EVSE)—is needed in the United States to support both plug-in hybrid electric vehicles (PHEVs) and battery electric vehicles (BEVs). It complements ongoing EVSE initiatives by providing a comprehensive analysis of national PEV charging infrastructure requirements. The result is a quantitative estimate for a U.S. network of non-residential (public and workplace) EVSE that would be needed to support broader PEV adoption. The analysis provides guidance to public and private stakeholders who are seeking to provide nationwide charging coverage, improve the EVSE business case by maximizing station utilization, and promote effective use of private/public infrastructure investments.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October, 2016<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Cybersecurity Best Practices for Modern Vehicles [HTML](https://achive-c.bsafes.com/docs/C/cybersecurity-best-practices-for-modern-vehicles/)
+</p>
+<details>
+  <summary>Abstract</summary>
+This document describes the National Highway Traffic Safety Administration’s nonbinding guidance to the automotive industry for improving motor vehicle cybersecurity.
 </details>
 </div>
 
