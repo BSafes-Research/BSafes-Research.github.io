@@ -20,6 +20,18 @@ An estimated 35% of American workers have experienced bullying, and in 80% of th
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• CYBERSECURITY - CREATING A CYBERSECURITY CULTURE [HTML](https://archive-c.bsafes.com/docs/C/CYBERSECURITY-CREATING-A-CYBERSECURITY-CULTURE/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The government industry was one of three main industries where 95% of all records were breached (Milkovich, 2020).
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 28, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -44,6 +56,18 @@ In the United States, cyberbullying has become a major public health concern. In
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• An exploratory study of mode efficacy in cybersecurity training [HTML](https://archive-a.bsafes.com/docs/A/An-exploratory-study-of-mode-efficacy-in-cybersecurity-training/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity capabilities in organizations and governmental agencies continue to lag behind the threats.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July , 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -52,6 +76,18 @@ July , 2021<br>
 <details>
   <summary>Abstract</summary>
 This publication describes techniques that enable a developer of an operating system (OS) to protect a user(s) and/or an electronic device(s) (e.g., a smartphone) by detecting, disabling, and/or removing a third-party application(s) that may be a potentially harmful application (PHA).
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• How the Growth of Technology has Forced Accounting Firms to put an Emphasis on Cybersecurity [HTML](https://archive-h.bsafes.com/docs/H/how-the-growth-of-technology-has-forced-accounting-firms-to-put-an-emphasis-on-cybersecurity/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The advancement of technology has brought many changes to accounting firms. Computer applications such as Microsoft Excel have made calculators and physical spreadsheets obsolete.
 </details>
 </div>
 
@@ -100,6 +136,18 @@ May 1, 2021<br>
 <details>
   <summary>Abstract</summary>
 For much of the 21st century, the United States and China have been competing to determine which world superpower will have the upper-hand for decades to come.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• The European Union: Data Protection for Economic Competition and Regional Security [HTML](https://archive-t.bsafes.com/docs/T/the-european-union-data-protection-for-economic-competition-and-regional-security/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The collection and use of personal data is being increasingly scrutinized by governments and the European Union (EU) has been attempting to handle the development of data protection based progressive protections to protect its citizens data and right to privacy.
 </details>
 </div>
 
