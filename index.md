@@ -80,6 +80,18 @@ This publication describes techniques that enable a developer of an operating sy
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Effects of Social Technology on Older Adults in a Residential Living Facility [HTML](https://archive-e.bsafes.com/docs/E/Effects-of-Social-Technology-on-Older-Adults-in-a-Residential-Living-Facility/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Loneliness and social isolation impact physical and mental health negatively for older adults. Researchers noted an increased relevance of the need for social technology with the emergence of COVID-19.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 1, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -274,6 +286,18 @@ Dating apps are in growing popularity, with 48% of dating app users in the Unite
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• The District of Columbia Circuit Finds Article III Standing Based on the Risk of Future Identity Theft in In re U.S. Office of Personnel Management Data Security Breach Litigation [HTML](https://archive-t.bsafes.com/docs/T/the-district-of-columbia-circuit-finds-article-iii-standing-based-on-the-risk-of-future-identity-theft/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The effects of identity theft can haunt data breach victims for years. Some victims report the need to constantly shut down fraudulent accounts. Likewise, some report countless fraudulent inquiries on their credit reports. Some victims even report fraudulent tax returns filed in their names. Many consumers believe there is not much they can do to protect their data in the first place.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 1, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -334,6 +358,18 @@ In Industry of Anonymity: Inside the Business of Cybercrime, Jonathan Lusthaus a
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November, 2020
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Digital Identity: A Human-Centered Risk Awareness Study [HTML](https://archive-d.bsafes.com/docs/D/digital-identity-a-human-centered-risk-awareness-study/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity threats and compromises have been at the epicenter of media attention; their risk and effect on people’s digital identity is something not to be taken lightly. Though cyber threats have affected a great number of people in all age groups, this study focuses on 55 to 75-year-olds, as this age group is close to retirement or already retired. Therefore, a notable compromise impacting their digital identity can have a major impact on their life.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 27, 2020<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -390,6 +426,18 @@ July 8, 2020
 <details>
   <summary>Abstract</summary>
 Licensing is one of the essential means of exploiting the monetary value of a musical work, and yet it is an area fraught with many issues and transactional costs which make it a di cult process for individuals and organizations.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2020
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Construction Cybersecurity and Critical Infrastructure Protection: Significance, Overlaps, and Proposed Action Plan [HTML](https://archive-c.bsafes.com/docs/C/construction-cybersecurity-and-critical-infrastructure-protection-significance-overlaps-and-proposed-action-plan/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The umbrella concept for the current efforts to digitize construction is known as Construction 4.0. One of its key concepts is cyber-physical systems. The construction industry is not only creating increasingly valuable digital assets (in addition to physical ones) but also the buildings and built infrastructures are increasingly monitored and controlled using digital technology. Both make construction a vulnerable target of cyber-attacks.
 </details>
 </div>
 
@@ -474,6 +522,18 @@ September, 2017<br>
 <details>
   <summary>Abstract</summary>
 This report addresses the fundamental question of how much plug-in electric vehicle (PEV) charging infrastructure—also known as electric vehicle supply equipment (EVSE)—is needed in the United States to support both plug-in hybrid electric vehicles (PHEVs) and battery electric vehicles (BEVs). It complements ongoing EVSE initiatives by providing a comprehensive analysis of national PEV charging infrastructure requirements. The result is a quantitative estimate for a U.S. network of non-residential (public and workplace) EVSE that would be needed to support broader PEV adoption. The analysis provides guidance to public and private stakeholders who are seeking to provide nationwide charging coverage, improve the EVSE business case by maximizing station utilization, and promote effective use of private/public infrastructure investments.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August, 2017<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Securing Cyber Assets - Addressing Urgent Cyber Threats to Critical Infrastructure [HTML](https://archive-s.bsafes.com/docs/S/securing-cyber-assets-addressing-urgent-cyber-threats-to-critical-infrastructure/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Our review of hundreds of studies and interviews with 38 cyber and industry experts revealed an echo chamber, loudly reverberating what needs to be done to secure critical U.S. infrastructure against aggressive and targeted cyber attacks. Cyber is the sole arena where private companies are the front line of defense in a nation-state attack on U.S. infrastructure. When a cyber attack can deliver the same damage or consequences as a kinetic attack, it requires national leadership and close coordination of our collective resources, capabilities, and authorities.
 </details>
 </div>
 
