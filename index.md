@@ -188,6 +188,18 @@ Your absence has gone through me Like thread through a needle. Everything I do i
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Assessing the Credibility of Cyber Adversaries [HTML](https://archive-a.bsafes.com/docs/A/assessing-the-credibility-of-cyber-adversaries/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Online communications are ever increasing, and we are constantly faced with the challenge of whether online information is credible or not. Being able to assess the credibility of others was once the work solely of intelligence agencies.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 30, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -322,6 +334,18 @@ In Industry of Anonymity: Inside the Business of Cybercrime, Jonathan Lusthaus a
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2020<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Towards Increasing Trust In Expert Evidence Derived From Malware Forensic Tools [HTML](https://archive-t.bsafes.com/docs/T/towards-increasing-trust-in-expert-evidence-derived-from-malware-forensics-tools/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Following a series of high profile miscarriages of justice in the UK linked to questionable expert evidence, the post of the Forensic Science Regulator was created in 2008.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October, 2020<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -333,6 +357,17 @@ The US. Department of Energy’s (DOE’s) Alternative Fueling Station Locator c
 </details>
 </div>
 
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August, 2020
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Cryptography, Passwords, Privacy, and the Fifth Amendment [HTML](https://archive-c.bsafes.com/docs/C/cryptography-passwords-privacy-and-the-fifth-amendment/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Military-grade cryptography has been widely available at no cost for personal and commercial use since the early 1990s. Since the introduction of Pretty Good Privacy (PGP), more and more people encrypt files and devices, and we are now at the point where our smartphones are encrypted by default. While this ostensibly provides users with a high degree of privacy, compelling a user to provide a password has been interpreted by some courts as a violation of our Fifth Amendment protections, becoming an often insurmountable hurdle to law enforcement lawfully executing a search warrant. This paper will explore some of the issues around this complex legal and social issue, including the evolution in the use of digital cryptography and the evolving legal interpretations of privacy.
+</details>
+</div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August, 2020
@@ -466,3 +501,14 @@ This past year has seen continued activity in money laundering ("ML") regulation
 </details>
 </div>
 
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2014
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Subculture of Hackers in Russia, by Roman Dremliuga [HTML](https://archive-s.bsafes.com/docs/S/subculture-of-hackers-in-russia/)
+</p>
+<details>
+  <summary>Abstract</summary>
+This article observes the situation with hacker subculture in Russia. The author is analyzing the reasons why this subculture doesn’t need a lot of time to conquer Russian net society. He is proving that tremendous growth of popularity of hacker subculture in Russia is caused by easy acceptance of hacker’s ideology. Also, the author is studying modern functions of hacker subculture and researching why Russian society does not regard hackers as criminals.
+</details>
+</div>
