@@ -80,6 +80,18 @@ This publication describes techniques that enable a developer of an operating sy
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• INNOVATIVE PROCESSES IN THE MICROFINANCE SYSTEM [HTML](https://archive-i.bsafes.com/docs/I/INNOVATIVE-PROCESSES-IN-THE-MICROFINANCE-SYSTEM/)
+</p>
+<details>
+  <summary>Abstract</summary>
+This article examines the role of innovation in microfinance institutions, in particular the role of digital systems in banking and non-bank microfinance institutions in Uzbekistan.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 7, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
