@@ -134,6 +134,18 @@ This project investigates the use of cyber technology as a political tool throug
 May 7, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• Handle with Care: Domestic Violence Safety Planning in the Age of Data Privacy Laws [HTML](https://archive-h.bsafes.com/docs/H/handle-with-care-domestic-violence-safety-planning-in-the-age-of-data-privacy-law/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Domestic violence is a pervasive and persistent public health crisis endangering many within our own communities, affecting about one in four women and nearly one in ten men and incurring a lifetime economic cost of $3.6 trillion.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • How the Growth of Technology has Forced Accounting Firms to put an Emphasis on Cybersecurity [HTML](https://archive-h.bsafes.com/docs/H/how-the-growth-of-technology-has-forced-accounting-firms-to-put-an-emphasis-on-cybersecurity/)
 </p>
 <details>
@@ -227,6 +239,18 @@ Your absence has gone through me Like thread through a needle. Everything I do i
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Unfriending Tinker : The Third Circuit Holds Schools Cannot Regulate Off-Campus Social Media Speech [HTML](https://archive-u.bsafes.com/docs/U/unfriending-tinker-the-third-circuit-holds-schools-cannot-regulate-off-campus-social-media-speech/)
+</p>
+<details>
+  <summary>Abstract</summary>
+After coming across sexually explicit messages between sixteen-yearold Channing Smith and another male student, a peer shared the images to their public Instagram and Snapchat stories.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 5, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -247,6 +271,18 @@ April 5, 2021<br>
 <details>
   <summary>Abstract</summary>
 Online communications are ever increasing, and we are constantly faced with the challenge of whether online information is credible or not. Being able to assess the credibility of others was once the work solely of intelligence agencies.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• The Bumble Bill: A Critical Analysis on Texas’s New Law Taking Indecent Exposure Regulations Online [HTML](https://archive-t.bsafes.com/docs/T/the-bumble-bill-a-critical-analysis-on-texass-new-law-taking-indecent-exposure-regulations-online/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The year is 2021. Meeting people, dating, and talking to people online is not as frowned upon as it was years ago. Many find meeting others online— either for friendship or romantic relationships—is more convenient and less time-consuming than venturing into the real world for these initial connections.
 </details>
 </div>
 
@@ -407,6 +443,29 @@ Although there were almost 3.5 million reported information breaches of health c
 </details>
 </div>
 
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Repeal the Defend Trade Secret Act: Why Congress Can’t Rely on Trade Secret Law to Protect America’s Trade Secrets [HTML](https://archive-r.bsafes.com/docs/R/repeal-the-defend-trade-secret-act-whey-congress-cant-rely-on-trade-secret-law-to-protect-americas-trade-secrets/)
+</p>
+<details>
+  <summary>Abstract</summary>
+“[T]here are only ‘two categories’ of companies affected by trade secret theft — ‘[T]hose [sic] that know they’ve been compromised and those that don’t know yet.’”  Whether you imagine a cyber thief subverting a company’s network defenses or an employee selling secret information to a competitor, trade secret theft is a real threat. The epidemic has ballooned to such proportions- $600 billion –that combatting trade secret theft enjoys bipartisan congressional support. Despite Congress’s best efforts, there is no evidence the bleeding has slowed, much less stopped.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Israel’s Perspective on Key Legal and Practical Issues Concerning the Application of International Law to Cyber Operations [HTML](https://archive-i.bsafes.com/docs/I/israels-perspective-on-key-legal-and-practical-issues-concerning-the-application-of-international-law-to-cyber-operations/#contents)
+</p>
+<details>
+  <summary>Abstract</summary>
+I would like to present, here today, Israel’s perspective on key aspects of the application of international law in connection with cyber operations, with a particular emphasis on issues related to the use of force and armed conflicts.
+</details>
+</div>
 
 ## 2020
 
@@ -431,6 +490,18 @@ December, 2020
 <details>
   <summary>Abstract</summary>
 In Industry of Anonymity: Inside the Business of Cybercrime, Jonathan Lusthaus attempts to demystify the increasingly sophisticated business of cybercrime and examine how it has matured into a large, profit-driven industry. Through interviews with hundreds of subjects involved in the cybercrime industry in varying capacities, Lusthaus has sought to draw a map that, by showing how seemingly disparate elements in the industry relate to one another, can better explain how the cybercrime industry functions. In particular, Lusthaus strives to produce a better understanding of the people behind cybercrime and the contexts in which they operate. By doing so, the book endeavors to lift the veil of anonymity that has historically hidden cybercrime offenders and their activities from public view.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2020<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• The Internet Never Forgets: A Federal Solution to the Dissemination of Nonconsensual Pornography [HTML](https://archive-t.bsafes.com/docs/T/the-internet-never-forgets-a-federal-solution-to-the-dissemination-of-nonconsensual-pornography/)
+</p>
+<details>
+  <summary>Abstract</summary>
+As technology evolves, new outlets for interpersonal conflict and crime evolve with it. The law is notorious for its inability to keep pace with this evolution. This Comment focuses on one area that the law urgently needs to regulate—the dissemination of “revenge porn,” otherwise known as nonconsensual pornography. Currently, no federal law exists in the U.S. that criminalizes the dissemination of nonconsensual pornography. Most U.S. states have criminalized the offense, but with vastly different degrees of severity, resulting in legal inconsistencies and jurisdictional conflicts. This Comment proposes a federal solution to the dissemination of nonconsensual pornography that carefully balances the interests of victims with the variety of scenarios that may give rise to this crime.
 </details>
 </div>
 
@@ -623,6 +694,18 @@ February, 2020
 <details>
   <summary>Abstract</summary>
 In 1994, Don Tapscott coined the phrase, “the digital economy,” with his book of that title. It discussed how the Web and the Internet of information would bring important changes in business and society. Today the Internet of value creates profound new possibilities.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January, 2020
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• A Review on Emerging Threats and Vulnerabilities in Internet of Things and its Applications [HTML](https://archive-a.bsafes.com/docs/A/a-review-on-emerging-threats-and-vulnerabilities-in-internet-of-things-and-its-applications/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Nowadays, Internet of Things (IoT) plays a crucial part in the area of Information Technology (IT). At present, providing security to information has become one of the difficult tasks. Recently, the IoT and the devices connected on it have accepted a sizeable attention towards the research. The IoT is contemplated as the future of the Internet.
 </details>
 </div>
 
