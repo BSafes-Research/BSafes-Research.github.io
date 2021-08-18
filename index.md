@@ -7,6 +7,9 @@ permalink: /
 ---
 
 # Cybersecurity Research
+
+## 2021
+
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 Pending December 15, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
@@ -100,6 +103,30 @@ June 1, 2021<br>
 <details>
   <summary>Abstract</summary>
 This article examines the role of innovation in microfinance institutions, in particular the role of digital systems in banking and non-bank microfinance institutions in Uzbekistan.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• “Draw the Internet.” A visual exploration of how children think an everyday technology. [HTML](https://archive-d.bsafes.com/docs/D/draw-the-internet-a-visual-exploration-of-how-children-think-an-everyday-technology/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The Internet is today a significant part of children’s daily lives, and digital competences have been included as basic learning goals in many school systems worldwide.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Bridging the Realms Between Cyber and Physical - Approaching Cyberspace with an Interdisciplinary Lens [HTML](https://archive-b-v2.bsafes.com/docs/B/Bridging-the-Realms-Between-Cyber-and-Physical-Approaching-Cyberspace-with-an-Interdisciplinary-Lens/)
+</p>
+<details>
+  <summary>Abstract</summary>
+This project investigates the use of cyber technology as a political tool through the investigation of the following case studies: (1) The Sony Pictures Hack in the United States in 2014, (2) The Qatari News Hack in 2017, and (3) China’s enactment of the Hong Kong National Security Law in 2020. 
 </details>
 </div>
 
@@ -203,6 +230,18 @@ Your absence has gone through me Like thread through a needle. Everything I do i
 April 5, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• Cyberbullying: Its Social and Psychological Harms Among Schoolers [HTML](https://archive-c.bsafes.com/docs/C/cyberbullying-its-social-and-psychological-harms-among-schoolers/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Criminal justice around the world has prioritized the prevention and protection of bullying and its victims due to the rapid increases in peer violence.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Assessing the Credibility of Cyber Adversaries [HTML](https://archive-a.bsafes.com/docs/A/assessing-the-credibility-of-cyber-adversaries/)
 </p>
 <details>
@@ -235,6 +274,29 @@ The 9/11 terrorist attacks brought on financial losses that caused insurers and 
 </details>
 </div>
 
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+•  The Brick-and-Mortar Bank is Dead — COVID-19 Killed It [HTML](https://archive-t.bsafes.com/docs/T/the-brick-and-mortar-bank-is-dead-covid-19-killed-it/)
+</p>
+<details>
+  <summary>Abstract</summary>
+A rule of thumb is to strike while the iron is hot; for cybercriminals, that iron is a global pandemic. The novel coronavirus dubbed “COVID-19” is an infectious disease that was first identified in Wuhan, China in December 2019. In March 2020, the World Health Organization (“WHO”) officially declared the COVID-19 disease a pandemic following rapid global transmission. This pandemic brought the world to a screeching halt as governments frantically tried to “flatten the curve.” Indeed, COVID-19’s effects permeated nearly every layer
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+•  Jack Voltaic 3.0 Cyber Research Report [HTML](https://archive-j.bsafes.com/docs/J/jack-voltaic-3-0-cyber-research-report/)
+</p>
+<details>
+  <summary>Abstract</summary>
+During this period of strategic competition, nation-state competitors are attempting to gain strategic advantage by exploiting our Nation’s critical infrastructure sectors. Secure and resilient critical infrastructure is essential for economic and national security. Every day we depend on and take the basic services provided by these sectors for granted. Given the interdependencies of these services, a risk to one can be a risk to all, and our networks are only as strong as their weakest links.
+</details>
+</div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March, 2021<br>
@@ -313,6 +375,18 @@ Many online chat applications live in a grey area between the legitimate web and
 February, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• PREVALENCE OF CYBERBULLYING AMONG TRADITIONAL UNDERGRADUATE STUDENTS ATTENDING FAITH-BASED UNIVERSITIES: A CAUSAL-COMPARATIVE STUDY [HTML](https://archive-p.bsafes.com/docs/P/prevalence-of-cyberbullying-among-traditional-undergraduate-students-attending-faith-based-universities-a-causal-comparative-study/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberbullying among traditional undergraduate students is a relatively new issue that involves the safety of postsecondary students. The purpose of this study was to provide statistical data to faith-based universities that relate the prevalence of cyberbullying victimization experiences and the prevalence of cyberbullying offending experiences of traditional undergraduate students to biological gender (female/male) and level of religiosity (higher/lower), and to add to the small body of research conducted among this demographic.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Deterrence and Response Improvements for a Large-Scale Cyberterrorism Attack [HTML](https://archive-d.bsafes.com/docs/D/deterrence-and-response-improvements-for-large-scale-cyberterrorism-attack/)
 </p>
 <details>
@@ -332,6 +406,9 @@ February, 2021<br>
 Although there were almost 3.5 million reported information breaches of health care data in the first quarter of 2019, health care providers do not know the extent of digital and nondigital breaches of patient medical recordsi ...
 </details>
 </div>
+
+
+## 2020
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 16, 2020
@@ -430,6 +507,18 @@ Licensing is one of the essential means of exploiting the monetary value of a mu
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June, 2020
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Aspects of the Cybersecurity Ecosystem in the United States [HTML](https://archive-a.bsafes.com/docs/A/aspects-of-the-cybersecurity-ecosystem-in-the-united-states/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The field of cybersecurity with all its complexities has been steadily gaining in importance over the last decade – and now, due to the Coronavirus-induced heightened dependency on digital infrastructure this process is further accelerated. This country report shows that cybersecurity has evolved into a key national security issue and gives an overview of certain aspects of the U.S. cybersecurity landscape, by tracing policy developments from before the Covid-19 pandemic as well as current legislative considerations.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 10, 2020
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -438,6 +527,78 @@ May 10, 2020
 <details>
   <summary>Abstract</summary>
 The umbrella concept for the current efforts to digitize construction is known as Construction 4.0. One of its key concepts is cyber-physical systems. The construction industry is not only creating increasingly valuable digital assets (in addition to physical ones) but also the buildings and built infrastructures are increasingly monitored and controlled using digital technology. Both make construction a vulnerable target of cyber-attacks.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2020
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Cyber Mobs, Disinformation, and Death Videos: The Internet as It Is (and as It Should Be) [HTML](https://archive-c.bsafes.com/docs/C/cyber-mobs-disinformation-and-death-videos-the-internet-as-it-is-and-as-it-should-be/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Nick Drnaso’s1 graphic novel Sabrina provides a powerful snapshot of online norms. The picture is not pretty: A young woman goes missing. Her grief-stricken boyfriend cannot bear to stay in their home and escapes to a friend’s house. Her sister struggles with the pain of her loss. We learn that the woman’s neighbor, a misogynist loner, killed her and recorded the murder. Online, people clamor for the video.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May, 2020
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Cyber Security’s Influence on Modern Society [HTML](https://archive-c.bsafes.com/docs/C/cybersecuritys-influence-on-modern-society/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The world of cyber security is evolving every day, and cyber-criminals are trying to take advantage of it to gain as much money and power as possible. As the Internet continues to grow, more people around the world join the Internet. The purpose of this is to see how much of an importance cyber security has and how cyber-criminals are able to utilize the cyberworld for their own personal gain. Research has been done on how the cyberworld got where it is today. Additionally, individual research has been done in an effort to learn how to hack. A hack lab has been created and a study has been done to see if it is possible to hack into a cell phone within one month without obtaining any knowledge prior to the start of the study.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May, 2020<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Articulating the Cloud: Understanding Data Centers, Renewable Energy, and Public Policy [HTML](https://archive-a.bsafes.com/docs/A/articulating-the-cloud-understanding-data-centers-renewable-energy-and-public-policy/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts urge that drastic steps must be taken to reduce carbon dioxide emissions as the ongoing climate crisis worsens. Amid this, it is also important to understand the relationships between media infrastructures and the finite resources they require. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 17, 2020
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• A COPY OF A COPY OF A COPY: INTERNET MIMESIS AND THE COPYRIGHTABILITY OF MEMES [HTML](https://archive-a.bsafes.com/docs/A/a-copy-of-a-copy-of-a-copy-internet-mimesis-and-the-copyrightability-of-memes/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Memes have become a staple of Internet culture. They provide a crucial form of cultural interchange by allowing billions to communicate and commiserate about all facets of life through the sharing of amusing and relatable phenomena. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2020
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Internet Architecture and Disability [HTML](https://archive-i.bsafes.com/docs/I/internet-architecture-and-disability/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The Internet is essential for education, employment, information, and cultural and democratic participation. For tens of millions of people with disabilities in the United States, barriers to accessing the Internet—including the visual presentation of information to people who are blind or visually impaired, the aural presentation of information to people who are deaf or hard of hearing, and the persistence of Internet technology, interfaces, and content without regard to prohibitive cognitive load for people with cognitive and intellectual disabilities—collectively pose one of the most significant civil rights issues of the information age. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2020
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• The Networked Question in the Digital Era: How Do Networked, Bounded, and Limited Individuals Connect at Different Stages in the Life Course? [HTML](https://archive-t.bsafes.com/docs/T/the-networked-question-in-the-digital-era-how-do-networked-bounded-and-limited-individuals-connect-at-different-stages-in-the-life-course/)
+</p>
+<details>
+  <summary>Abstract</summary>
+We used in-depth interviews with 101 participants in the East York section of Toronto, Canada to understand how digital media affects social connectivity in general–and networked individualism in particular–for people at different stages of the life course. 
 </details>
 </div>
 
@@ -466,6 +627,21 @@ In 1994, Don Tapscott coined the phrase, “the digital economy,” with his boo
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January, 2020
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• The Internet as a Speech Machine and Other Myths Confounding Section 230 Reform [HTML](https://archive-t.bsafes.com/docs/T/the-internet-as-as-speech-machine-and-other-myths-confounding-section-230-reform/)
+</p>
+<details>
+  <summary>Abstract</summary>
+A robust public debate is currently underway about the responsibility of online platforms. We have long called for this discussion, but only recently has it been seriously taken up by legislators and the public. 
+</details>
+</div>
+
+
+## 2019
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 6, 2019
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -476,6 +652,8 @@ September 6, 2019
 New technology is rapidly emerging to fight increasing cybercrime threats, however, there is one important component of a cybercrime that technology cannot always impact and that is human behavior.
 </details>
 </div>
+
+## 2018
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 1, 2018
@@ -513,6 +691,8 @@ On November 29-30, 2017, the U.S. Department of Energy’s (DOE) Office of Polic
 </details>
 </div>
 
+## 2017
+
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September, 2017<br>
 {: .fs-4 .fw-700 .lh-0  }
@@ -537,6 +717,8 @@ Our review of hundreds of studies and interviews with 38 cyber and industry expe
 </details>
 </div>
 
+## 2016
+
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October, 2016<br>
 {: .fs-4 .fw-700 .lh-0  }
@@ -560,6 +742,8 @@ January, 2016<br>
 This past year has seen continued activity in money laundering ("ML") regulation and enforcement involving "cryptocurrency," terrorist finance ("TF"), and forfeiture law.
 </details>
 </div>
+
+## 2014
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 22, 2014
