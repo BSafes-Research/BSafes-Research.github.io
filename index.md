@@ -23,6 +23,18 @@ An estimated 35% of American workers have experienced bullying, and in 80% of th
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 9, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Whose Crisis Is It? Reconsidering the “Migrant Crisis” [HTML](https://archive-w.bsafes.com/docs/W/Whose-Crisis-Is-It-Reconsidering-the-Migrant-Crisis/)
+</p>
+<details>
+  <summary>Abstract</summary>
+In 2015, the world witnessed a “refugee crisis” when millions of Syrians, but also Afghans, Iraqis, Somalis, and others, fled their countries for Europe. That exodus continues today.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -110,6 +122,18 @@ This article examines the role of innovation in microfinance institutions, in pa
 June, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• Unilateral Economic Sanctions and Protecting U.S. National Security [HTML](https://archive-u.bsafes.com/docs/U/unilateral-economics-sanctions-and-protecting-us-national-security/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Terrorism remains the most important national security concern. Multi-national economic organizations around the world have increasingly established counter-terrorism commissions to assess the magnitude of the threat posed by terrorism.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • “Draw the Internet.” A visual exploration of how children think an everyday technology. [HTML](https://archive-d.bsafes.com/docs/D/draw-the-internet-a-visual-exploration-of-how-children-think-an-everyday-technology/)
 </p>
 <details>
@@ -127,6 +151,18 @@ May 22, 2021<br>
 <details>
   <summary>Abstract</summary>
 This project investigates the use of cyber technology as a political tool through the investigation of the following case studies: (1) The Sony Pictures Hack in the United States in 2014, (2) The Qatari News Hack in 2017, and (3) China’s enactment of the Hong Kong National Security Law in 2020. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Information Age Imperialism: China, ‘Race,’ and Neo-Colonialism in Africa and Latin America [HTML](https://archive-i.bsafes.com/docs/I/information-age-imperialism-china-race-and-neo-colonialism-in-africa-and-latin-america/)
+</p>
+<details>
+  <summary>Abstract</summary>
+There is little to no historical antipathy between China and Africa or China and Latin America. The issue is not merely whether China is a neo-colonial power (it is) but rather how colonial and post-colonial legacies facilitated China’s rise and continued welcomed presence in specific regions.
 </details>
 </div>
 
@@ -375,6 +411,18 @@ Artificial intelligence (AI) has been a widely used buzzword for the past couple
 Spring, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• Applying Usability Methods to Categorization of Phishing Emails [HTML](https://archive-a.bsafes.com/docs/A/applying-usability-methods-to-categorization-of-phishing-emails/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing emails are a continuing threat in today's society—this study aimed to unpeel the layers on why certain people are prone to phishing emails than others.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+Spring, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Dating App Facilitated Sexual Violence: The Prevalence and Mental Health Effects [HTML](https://archive-d.bsafes.com/docs/D/dating-app-facilitated-sexual-violence-the-prevalence-and-mental-health-effects/)
 </p>
 <details>
@@ -494,6 +542,18 @@ In Industry of Anonymity: Inside the Business of Cybercrime, Jonathan Lusthaus a
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2020<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Great Power Politics: The United States’ War on Disinformation with Consideration to Russian and Chinese Offensive Efforts [HTML](https://archive-g.bsafes.com/docs/G/great-power-politics-the-united-states-war-on-disinformation-with-consideration-to-russian-and-chinese-offensive-efforts/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The purpose of this thesis is to examine the growing national security threat posed by Russia and China’s willingness to exercise 21st century information warfare techniques against the United States and its areas of strategic interest. This study will describe the composition of these state’s foreign disinformation entities while providing several case studies that display their advanced capabilities and the direct effects that each poses on the general public both domestically and internationally.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 23, 2020<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -542,6 +602,18 @@ The US. Department of Energy’s (DOE’s) Alternative Fueling Station Locator c
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+Fall , 2020
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Defending Democracy: Taking Stock of the Global Fight Against Digital Repression, Disinformation, and Election Insecurity [HTML](https://archive-d.bsafes.com/docs/D/defending-democracy-taking-stock-of-the-global-fight-against-digital-repression-disinformation-and-election-insecurity/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Amidst the regular drumbeat of reports about Russian attempts to undermine U.S. democratic institutions from Twitter bots to cyber-attacks on Congressional candidates, it is easy to forget that the problem of election security is not isolated to the United States and extends far beyond safeguarding insecure voting machines. Consider Australia, which has long been grappling with repeated Chinese attempts to interfere with its political system. Yet Australia has taken a distinct approach in how it has sought to protect its democratic institutions, including reclassifying its political parties as “critical infrastructure,” a step that the U.S. government has yet to take despite repeated breaches at both the Democratic and Republican National Committees.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August, 2020
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -562,6 +634,18 @@ August, 2020
 <details>
   <summary>Abstract</summary>
 Since the 1990s, we have had an “Internet of Information” that allows us to seamlessly share information such as documents, images, emails, and videos over the Internet. While most Internet users do not need to understand the details of the technical protocols2 operating underneath user-friendly software interfaces, it is helpful to understand how they work at a high-level. With the “Internet of Information,” copies of information are routed.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2020
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Cyber Mercenaries: A New Threat to National Security [HTML](https://archive-c.bsafes.com/docs/C/cyber-mercenaries-a-new-threat-to-national-security/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The birth of the Internet on October 29, 1969, propelled the world into an era of rapid technological development and structural innovation that fundamentally altered the way individuals and governments interact.
 </details>
 </div>
 
@@ -736,6 +820,18 @@ New technology is rapidly emerging to fight increasing cybercrime threats, howev
 </details>
 </div>
 
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2019
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Cybersecurity in Elections - Models of Interagency Collaboration [HTML](https://archive-c.bsafes.com/docs/C/cybersecurity-in-elections/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Information and communication technologies are increasingly prevalent in electoral management and democratic processes. These technologies offer numerous new opportunities, but also new threats. Cybersecurity is currently one of the greatest electoral challenges, even for countries without any form of electronic voting. It involves a broad range of actors, including electoral management bodies, cybersecurity expert bodies and security agencies. Many countries have found that interagency collaboration is essential for defending elections against digital threats. In recent years significant advances have been made in organizing such collaboration at the domestic and international levels.
+</details>
+</div>
+
 ## 2018
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
@@ -797,6 +893,18 @@ August, 2017<br>
 <details>
   <summary>Abstract</summary>
 Our review of hundreds of studies and interviews with 38 cyber and industry experts revealed an echo chamber, loudly reverberating what needs to be done to secure critical U.S. infrastructure against aggressive and targeted cyber attacks. Cyber is the sole arena where private companies are the front line of defense in a nation-state attack on U.S. infrastructure. When a cyber attack can deliver the same damage or consequences as a kinetic attack, it requires national leadership and close coordination of our collective resources, capabilities, and authorities.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January, 2017<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Nation-State Hacking - Uniting Policy and Code to Limit the Threat [HTML](https://archive-n.bsafes.com/docs/N/nation-state-hacking-uniting-policy-and-code-to-limit-the-threat/)
+</p>
+<details>
+  <summary>Abstract</summary>
+This article examines nation-state hacking and analyzes some possible defenses against these attacks by combining policy and code level defense.
 </details>
 </div>
 
