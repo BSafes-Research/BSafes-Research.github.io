@@ -158,6 +158,18 @@ This project investigates the use of cyber technology as a political tool throug
 May 14, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• Privacy in the Public Eye - Frogs Boiling and the Right to Privacy [HTML](https://archive-p.bsafes.com/docs/P/Privacy-in-the-Public-Eye%20-Frogs-Boiling-and-the-Right-to-Privacy/)
+</p>
+<details>
+  <summary>Abstract</summary>
+This paper presents a qualitative study, consisting of six focus groups organized according to the age of participants, on public attitudes surrounding the right to privacy.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Information Age Imperialism: China, ‘Race,’ and Neo-Colonialism in Africa and Latin America [HTML](https://archive-i.bsafes.com/docs/I/information-age-imperialism-china-race-and-neo-colonialism-in-africa-and-latin-america/)
 </p>
 <details>
@@ -362,6 +374,18 @@ A rule of thumb is to strike while the iron is hot; for cybercriminals, that iro
 March, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• DIGITAL DOMINION: How the Syrian regime’s mass digital surveillance violates human rights [HTML](https://archive-d.bsafes.com/docs/D/digital-dominion-how-the-syrian-regimes-mass-digital-surveillance-violates-human-rights/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The Assad regime conducts mass electronic and digital monitoring of its people. Anyone who dares to voice opposition or fails to proclaim their loyalty is deemed dangerous and quickly falls under suspicion.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 •  Jack Voltaic 3.0 Cyber Research Report [HTML](https://archive-j.bsafes.com/docs/J/jack-voltaic-3-0-cyber-research-report/)
 </p>
 <details>
@@ -452,6 +476,18 @@ February 1, 2021<br>
 <details>
   <summary>Abstract</summary>
 Many online chat applications live in a grey area between the legitimate web and the dark net. The Telegram network in particular can aid criminal activities. Telegram hosts “chats” which consist of varied conversations and advertisements. These chats take place among automated “bots” and human users. Classifying legitimate activity from illegitimate activity can aid law enforcement in finding criminals. Social network analysis of Telegram chats presents a difficult problem. Users can change their username or create new accounts. Users involved in criminal activity often do this to obscure their identity. This makes establishing the unique identity behind a given username challenging. Thus we explored classifying users from their language usage in their chat messages.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Protecting Children in the Frontier of Surveillance Capitalism [HTML](https://archive-p.bsafes.com/docs/P/protecting-children-in-the-frontier-of-surveillance-capitalism/)
+</p>
+<details>
+  <summary>Abstract</summary>
+This article examines the ongoing technological revolution and its impact on today’s consumers. In particular, this article addresses the promulgation of the Children’s Online Privacy Protection Act (COPPA) in the context of “surveillance capitalism” and analyzes the harms associated with social media and data collection. Finally, this paper will argue that COPPA should be revamped to better regulate the Internet of 2020. A just society ought to protect children from the lurking perils of social media.
 </details>
 </div>
 
@@ -677,6 +713,18 @@ Licensing is one of the essential means of exploiting the monetary value of a mu
 June, 2020
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• A New Compact for Sexual Privacy [HTML](https://archive-a.bsafes.com/docs/A/a-new-compact-for-sexual-privacy/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Intimate life is under constant surveillance. Firms track people’s periods, hot flashes, abortions, sexual assaults, sex toy use, sexual fantasies, and nude photos. Individuals hardly appreciate the extent of the monitoring, and even if they did, little can be done to curtail it. What is big business for firms is a big risk for individuals. The handling of intimate data undermines the values that sexual privacy secures—autonomy, dignity, intimacy, and equality. It can imperil people’s job, housing, insurance, and other crucial opportunities. More often, women and minorities shoulder a disproportionate amount of the burden.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June, 2020
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Aspects of the Cybersecurity Ecosystem in the United States [HTML](https://archive-a.bsafes.com/docs/A/aspects-of-the-cybersecurity-ecosystem-in-the-united-states/)
 </p>
 <details>
@@ -841,6 +889,18 @@ July 19, 2019
 <details>
   <summary>Abstract</summary>
 Information and communication technologies are increasingly prevalent in electoral management and democratic processes. These technologies offer numerous new opportunities, but also new threats. Cybersecurity is currently one of the greatest electoral challenges, even for countries without any form of electronic voting. It involves a broad range of actors, including electoral management bodies, cybersecurity expert bodies and security agencies. Many countries have found that interagency collaboration is essential for defending elections against digital threats. In recent years significant advances have been made in organizing such collaboration at the domestic and international levels.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June, 2019
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Revenge Porn and the First Amendment - Should Nonconsensual Distribution of Sexually Explicit Images Receive Constitutional Protection? [HTML](https://archive-r.bsafes.com/docs/R/revenge-porn-and-the-first-amendmen/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Like many issues related to relationships and sexuality, “revenge porn” has become more complicated—and its consequences more sinister—thanks to twenty-first century technology. Revenge porn, often referred to as nonconsensual pornography, involves the publication or distribution of sexually explicit images without the subject’s consent. This may include images obtained without consent, as well as images initially obtained with consent—often within the context of an intimate relationship—but later shared broadly or used as blackmail. The issue received increased public attention after a 2014 incident in which a hacker accessed and leaked sexually explicit photos of several celebrities. But celebrities are far from the only victims: a 2016 study found that roughly one in twenty-five Americans have been threatened with or been the victim of nonconsensual image sharing.
 </details>
 </div>
 
