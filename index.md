@@ -821,6 +821,18 @@ Licensing is one of the essential means of exploiting the monetary value of a mu
 June, 2020
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• Impact of Social Media on Feminism [HTML](https://archive-i.bsafes.com/docs/I/impact-of-social-media-on-feminism/)
+</p>
+<details>
+  <summary>Abstract</summary>
+“A feminist assessment of social media, then, is an exploration of how communities form and interact in social media spaces as well as if values expressed via these participatory cultures align or misalign with feminist ethical criteria. Digital social media invite participation based on the values of openness, collaboration, and networking, which in theory align with feminist values such as access, cooperation, and inclusion. However, the opportunities social media platforms afford are increasingly shaped by the business models and algorithms behind them, not to mention the material biases users bring with them” (Ott, 2018)
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June, 2020
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • A New Compact for Sexual Privacy [HTML](https://archive-a.bsafes.com/docs/A/a-new-compact-for-sexual-privacy/)
 </p>
 <details>
@@ -850,6 +862,18 @@ May 10, 2020
 <details>
   <summary>Abstract</summary>
 The umbrella concept for the current efforts to digitize construction is known as Construction 4.0. One of its key concepts is cyber-physical systems. The construction industry is not only creating increasingly valuable digital assets (in addition to physical ones) but also the buildings and built infrastructures are increasingly monitored and controlled using digital technology. Both make construction a vulnerable target of cyber-attacks.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2020
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• The Red Swimsuit: Essays [HTML](https://archive-t.bsafes.com/docs/T/the-red-swimsuit-essays/)
+</p>
+<details>
+  <summary>Abstract</summary>
+JACQUELINE KNIRNSCHILD: This thesis is a collection of creative non-fiction essays that offers a collage of ethnography, reportage and memoir. The Red Swimsuit blurs the lines between what is considered social science, journalism and art. These essays will become part of a booklength work of creative non-fiction that will explore what it’s like to grow up as a woman in a globalized world wrought with social media, hookup culture and cross-cultural interactions. The Red Swimsuit provides first-hand experience, reflexive narration, and reflection on life as a member of Generation Z, also known as iGen. (Under the direction of Beth Ann Fennelly)
 </details>
 </div>
 
@@ -1027,6 +1051,18 @@ As the US electrifies the transportation sector, cyber attacks targeting vehicle
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 5, 2018
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Web Application Security [HTML](https://archive-w.bsafes.com/docs/W/web-app-security-report-from-dagstuhl-seminar-18321/)
+</p>
+<details>
+  <summary>Abstract</summary>
+This report documents the program and the outcomes of Dagstuhl Seminar 18321 “Web Application Security”. In this third seminar on the topic, a healthy mix of academics, practitioners and representatives of all major browser vendors reflected on the last decade of web security research and discussed the upcoming security challenges for the Web platform. In addition, for the first time, the list of attendees included several members of the human factors in security community, to enable broadening the web security topic towards this important facet of application security.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June, 2018
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -1127,3 +1163,18 @@ August 22, 2014
 This article observes the situation with hacker subculture in Russia. The author is analyzing the reasons why this subculture doesn’t need a lot of time to conquer Russian net society. He is proving that tremendous growth of popularity of hacker subculture in Russia is caused by easy acceptance of hacker’s ideology. Also, the author is studying modern functions of hacker subculture and researching why Russian society does not regard hackers as criminals.
 </details>
 </div>
+
+## 2012
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2012
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Web Application Security [HTML](https://archive-w.bsafes.com/docs/W/web-app-security-report-from-dagstuhl-seminar-12401/)
+</p>
+<details>
+  <summary>Abstract</summary>
+This report documents the program and the outcomes of Dagstuhl Seminar 12401 “Web Application Security”. The seminar brought 44 web security researchers together, coming from companies and research institutions across Europe and the US.
+</details>
+</div>
+
