@@ -23,6 +23,18 @@ An estimated 35% of American workers have experienced bullying, and in 80% of th
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• How U.S. Gender Policy for Post-Taliban Afghanistan Was Shaped [HTML](https://archive-h.bsafes.com/docs/H/How-U.S.-Gender-Policy-for-Post-Taliban-Afghanistan-Was-Shaped/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The United States invaded Afghanistan in 2001, shortly after the 9/11 terroristic attack by Al-Qaeda. Although the U.S. invaded to pursue the leader of Al-Qaeda, Osama Bin-Laden, women’s rights and freedoms in Afghanistan under the Taliban were at the heart of the Bush administration’s agenda of the “war on terror.” 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 9, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -95,6 +107,18 @@ This publication describes techniques that enable a developer of an operating sy
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• A Study of Recidivism among Online Sexual Predators [HTML](https://archive-a.bsafes.com/docs/A/A-Study-of-Recidivism-among-Online-Sexual-Predators/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Since the development of internet communication platforms and social media, the online sexual predation of minors has affected as much as an estimated 19 percent of the undereighteen-years-old population.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 14, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -115,6 +139,18 @@ June 1, 2021<br>
 <details>
   <summary>Abstract</summary>
 This article examines the role of innovation in microfinance institutions, in particular the role of digital systems in banking and non-bank microfinance institutions in Uzbekistan.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• The Factors Involved in the Exit from Sex Trafficking - A Review [HTML](https://archive-t.bsafes.com/docs/T/the-factors-involvoed-in-the-exit-from-sex-trafficking-a-review/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Sexual trafficking and exploitation are a worldwide phenomenon affecting a huge number of women. Many studies have examined the process of sex trafficking entering, but less have analyzed the exit process.
 </details>
 </div>
 
@@ -146,11 +182,35 @@ The Internet is today a significant part of children’s daily lives, and digita
 May 22, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• Media Consumption Effect on Therapuetic Aesthetics [HTML](https://archive-m.bsafes.com/docs/M/media-consumption-effect-on-therapuetic-aesthetics/)
+</p>
+<details>
+  <summary>Abstract</summary>
+This paper conceptualizes and proposes the current thesis topic: how does media consumption and screen time usage affect our therapeutic aesthetics?
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Bridging the Realms Between Cyber and Physical - Approaching Cyberspace with an Interdisciplinary Lens [HTML](https://archive-b-v2.bsafes.com/docs/B/Bridging-the-Realms-Between-Cyber-and-Physical-Approaching-Cyberspace-with-an-Interdisciplinary-Lens/)
 </p>
 <details>
   <summary>Abstract</summary>
 This project investigates the use of cyber technology as a political tool through the investigation of the following case studies: (1) The Sony Pictures Hack in the United States in 2014, (2) The Qatari News Hack in 2017, and (3) China’s enactment of the Hong Kong National Security Law in 2020. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Social Media Awareness: The Impact of Social Media on Mental Health [HTML](https://archive-s.bsafes.com/docs/S/social-media-awareness-the-impact-of-social-media-on-mental-health/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Communication technology, especially smartphones and the social media apps on them, has become a very large part of the modern world. People of all ages spend hours every day on social media either posting about their experiences or viewing other posts.
 </details>
 </div>
 
@@ -347,6 +407,18 @@ Kerala is a south Indian state, where the literacy rate is 100%. Kerala also has
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 5, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• The Threat of Social Media to Society and National Security: A Call for Social Media Policy and Legislation [HTML](https://archive-t.bsafes.com/docs/T/the-threat-of-social-media-to-society-and-national-security/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Social media is a growing existential threat. In the Constitution, We the People affirm ourselves to domestic tranquility, our common defense and general welfare to secure the blessings of Liberty.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 3, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -456,6 +528,18 @@ Dating apps are in growing popularity, with 48% of dating app users in the Unite
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Social Media User Relationship Framework (SMURF) [HTML](https://archive-s.bsafes.com/docs/S/social-media-user-relationship-framework/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The use of social media has spread through many aspects of society, allowing millions of individuals, corporate as well as government entities to leverage the opportunities it affords.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 3, 2021
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -543,6 +627,18 @@ Although there were almost 3.5 million reported information breaches of health c
 January, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• Gophish: Implementing a Real-World Phishing Exercise to Teach Social Engineering [HTML](https://archive-g.bsafes.com/docs/G/gophish-implementing-a-real-world-phishing-exercise-to-teach-social-engineering/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Social engineering is a large problem in our modern technological world, but while conceptually understood, it is harder to teach compared to traditional pen testing techniques. This research details a class project where students implemented a phishing exercise against real-world targets. Through cooperation with an external corporate partner, students learned the legal, technical, behavioral, analysis, and reporting aspects of social engineering. The outcome provided both usable data for a real-world corporation as well as valuable educational experience for the students.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Repeal the Defend Trade Secret Act: Why Congress Can’t Rely on Trade Secret Law to Protect America’s Trade Secrets [HTML](https://archive-r.bsafes.com/docs/R/repeal-the-defend-trade-secret-act-whey-congress-cant-rely-on-trade-secret-law-to-protect-americas-trade-secrets/)
 </p>
 <details>
@@ -574,6 +670,18 @@ December 16, 2020
 <details>
   <summary>Abstract</summary>
 In Industry of Anonymity: Inside the Business of Cybercrime, Jonathan Lusthaus attempts to demystify the increasingly sophisticated business of cybercrime and examine how it has matured into a large, profit-driven industry. Through interviews with hundreds of subjects involved in the cybercrime industry in varying capacities, Lusthaus has sought to draw a map that, by showing how seemingly disparate elements in the industry relate to one another, can better explain how the cybercrime industry functions. In particular, Lusthaus strives to produce a better understanding of the people behind cybercrime and the contexts in which they operate. By doing so, the book endeavors to lift the veil of anonymity that has historically hidden cybercrime offenders and their activities from public view.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December, 2020
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• PREVENTATIVE STEPS SOCIAL NETWORKS, SUCH AS FACEBOOK, TAKE AGAINST SEX TRAFFICKING [HTML](https://archive-p.bsafes.com/docs/P/preventative-steps-social-networks-such-as-facebook-take-against-sex-trafficking/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The increasing use of social media enables predators to seek out and recruit victims through social networking sites. The overall goal is outsmarting their manipulation on users by understanding and exposing their techniques to families and communities.
 </details>
 </div>
 
