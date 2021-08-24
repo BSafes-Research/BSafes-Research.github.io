@@ -239,6 +239,18 @@ There is little to no historical antipathy between China and Africa or China and
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Employment Status for “Essential Workers”: The Case for Gig Worker Parity [HTML](https://archive-e.bsafes.com/docs/E/employment-status-for-essential-workers-the-case-for-gig-worker-parity/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Gig workers have been on the frontlines of the coronavirus pandemic, providing essential services like grocery shopping, transportation, and food delivery.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 7, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -355,6 +367,18 @@ April 27, 2021<br>
 <details>
   <summary>Abstract</summary>
 After coming across sexually explicit messages between sixteen-yearold Channing Smith and another male student, a peer shared the images to their public Instagram and Snapchat stories.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Digitizing the ‘Ideal’ Latina Information Worker [HTML](https://archive-d.bsafes.com/docs/D/digitizing-the-ideal-latina-information-worker/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Recent examples of virtual assistant technologies designed as Latina information service workers are noteworthy objects of study for their potential to bridge analyses of Latinas’ labor history and information technology.
 </details>
 </div>
 
@@ -718,6 +742,18 @@ November 23, 2020<br>
 <details>
   <summary>Abstract</summary>
 As technology evolves, new outlets for interpersonal conflict and crime evolve with it. The law is notorious for its inability to keep pace with this evolution. This Comment focuses on one area that the law urgently needs to regulate—the dissemination of “revenge porn,” otherwise known as nonconsensual pornography. Currently, no federal law exists in the U.S. that criminalizes the dissemination of nonconsensual pornography. Most U.S. states have criminalized the offense, but with vastly different degrees of severity, resulting in legal inconsistencies and jurisdictional conflicts. This Comment proposes a federal solution to the dissemination of nonconsensual pornography that carefully balances the interests of victims with the variety of scenarios that may give rise to this crime.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November, 2020
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Why Women Leave White Nationalist Movements: Exploring the Deradicalization Process [HTML](https://archive-w.bsafes.com/docs/W/Why-Women-Leave-White-Nationalist-Movements-Exploring-the-Deradicalization-Process/)
+</p>
+<details>
+  <summary>Abstract</summary>
+This essay aims to explore primarily why women leave white nationalist movements, and the possible role of gender in the radicalization and deradicalization of white women in white nationalist movements.
 </details>
 </div>
 
