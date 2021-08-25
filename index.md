@@ -50,6 +50,18 @@ In 2015, the world witnessed a “refugee crisis” when millions of Syrians, bu
 August, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• CYBERSPACE SOLARIUM COMMISSION - 2021 Annual Report on Implementation [HTML](https://archive-c.bsafes.com/docs/C/CYBERSPACE-SOLARIUM-COMMISSION-2021-Annual-Report-on-Implementation/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The United States has a problem in cyberspace. The recent torrent of hacks, intrusions, breaches, ransomware, and shutdowns demonstrates that we have much more to do to secure Americans’ lives and livelihoods online. This is true for the private sector, where it is far past time for business leaders to proactively protect critical infrastructure and secure sensitive information.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • CYBERSECURITY - CREATING A CYBERSECURITY CULTURE [HTML](https://archive-c.bsafes.com/docs/C/CYBERSECURITY-CREATING-A-CYBERSECURITY-CULTURE/)
 </p>
 <details>
