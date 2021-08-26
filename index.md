@@ -50,6 +50,18 @@ In 2015, the world witnessed a “refugee crisis” when millions of Syrians, bu
 August, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• THE FAR RIGHT AND JANUARY 6, 2021: HOW CYBER AND REAL LIFE SPACES BECAME ONE AND THE IMAGERY THAT FACILITATED THE PROCESS [HTML](https://archive-t.bsafes.com/docs/T/THE-FAR-RIGHT-AND-JANUARY-6-2021-HOW-CYBER-AND-REAL-LIFE-SPACES-BECAME-ONE-AND-THE-IMAGERY-THAT-FACILITATED-THE-PROCESS/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The growing presence of the far right in both internet and physical spaces is of concern because of the associated violence and civil unrest. The presence of the far right on the internet is historical and persistent. It is used by the far right movement to engage, radicalize, fellowship, plan and execute events, some of which are violent. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • CYBERSPACE SOLARIUM COMMISSION - 2021 Annual Report on Implementation [HTML](https://archive-c.bsafes.com/docs/C/CYBERSPACE-SOLARIUM-COMMISSION-2021-Annual-Report-on-Implementation/)
 </p>
 <details>
