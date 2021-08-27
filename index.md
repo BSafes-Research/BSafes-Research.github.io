@@ -350,6 +350,19 @@ For much of the 21st century, the United States and China have been competing to
 May, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• John of Damascus’s Theological Methodology: An Effective Way to Answer Islamic Objections [HTML](https://archive-j.bsafes.com/docs/J/John-of-Damascus’s-Theological-Methodology-An-Effective-Way-to-Answer-Islamic-Objections/)
+</p>
+<details>
+  <summary>Abstract</summary>
+John of Damascus, who is considered one of the three pillars of the Eastern Orthodox church, was not
+known in the West for a long time. Few scholars studied his work in recent years and highlighted some aspects of his Summa, which is considered the first systematic theology work in the history of Christianity.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • The European Union: Data Protection for Economic Competition and Regional Security [HTML](https://archive-t.bsafes.com/docs/T/the-european-union-data-protection-for-economic-competition-and-regional-security/)
 </p>
 <details>
