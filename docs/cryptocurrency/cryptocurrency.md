@@ -5,6 +5,7 @@ nav_order: 672
 ---
 
 # Cryptocurrency 
+§ Pending December, 2021 [The Volatility Implications of the Chinese Cryptocurrency Ban](https://archive-t.bsafes.com/docs/T/The-Volatility-Implications-of-the-Chinese-Cryptocurrency-Ban/)  
 § May 1, 2021 [Evaluating Security in Cryptocurrency Wallets](https://archive-e.bsafes.com/docs/E/evaluating-security-in-cryptocurrency-wallets/)  
 § August, 2020 [Crypto and Blockchain Fundamentals](https://archive-c.bsafes.com/docs/C/crypto-and-blockchain-fundamentals/)  
 § July 8, 2020 [Blockchain-mediated Licensing](https://archive-b-v2.bsafes.com/docs/B/blockchain-mediated-licensing/)  

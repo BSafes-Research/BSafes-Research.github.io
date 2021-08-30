@@ -23,6 +23,19 @@ An estimated 35% of American workers have experienced bullying, and in 80% of th
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+Pending December, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• The Volatility Implications of the Chinese Cryptocurrency Ban [HTML](https://archive-t.bsafes.com/docs/T/The-Volatility-Implications-of-the-Chinese-Cryptocurrency-Ban/)
+</p>
+<details>
+  <summary>Abstract</summary>
+In this paper, I examine the effect of the May 18th, 2021 Chinese ban of cryptocurrency transactions on the overall volatility of the cryptocurrency market. To do this, I analyze, in both univariate and multivariate settings, range-based volatility in various event windows surrounding the event.
+</details>
+</div>
+
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 12, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
