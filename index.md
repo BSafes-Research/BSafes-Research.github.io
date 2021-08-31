@@ -460,6 +460,18 @@ Online communications are ever increasing, and we are constantly faced with the 
 April, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• We Will Outlive Them - Antisemitism in Modern America [HTML](https://archive-w.bsafes.com/docs/W/We-Will-Outlive-Them-Antisemitism-in-Modern-America/)
+</p>
+<details>
+  <summary>Abstract</summary>
+October 26th, 2018 was, for all intents and purposes, a perfectly normal Friday. That night I drove to my synagogue for weekly Shabbat services, schmoozed with my fellow congregants, and said my goodbyes. The next day, I awoke to a chilling headline declaring that 11 people had lost their lives in a synagogue shooting in Pittsburgh that very morning.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • The Bumble Bill: A Critical Analysis on Texas’s New Law Taking Indecent Exposure Regulations Online [HTML](https://archive-t.bsafes.com/docs/T/the-bumble-bill-a-critical-analysis-on-texass-new-law-taking-indecent-exposure-regulations-online/)
 </p>
 <details>
