@@ -168,6 +168,18 @@ Loneliness and social isolation impact physical and mental health negatively for
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Understanding Ransomware Trajectory to Create an Informed Prediction [HTML](https://archive-u.bsafes.com/docs/U/Understanding-Ransomware-Trajectory-to-Create-an-Informed-Prediction/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware is a form of extortion in which digital files are rendered inaccessible until a ransom payment is made. Modern ransomware emerged in 2006 and its destructive influence has been expanding ever since.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 1, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
