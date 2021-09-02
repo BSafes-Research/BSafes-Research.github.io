@@ -6,4 +6,5 @@ nav_order: 724
 
 # Humanitarian
 § August 12, 2021 [How U.S. Gender Policy for Post-Taliban Afghanistan Was Shaped](https://archive-h.bsafes.com/docs/H/How-U.S.-Gender-Policy-for-Post-Taliban-Afghanistan-Was-Shaped/)  
-§ August 9, 2021 [Whose Crisis Is It? Reconsidering the “Migrant Crisis”](https://archive-w.bsafes.com/docs/W/Whose-Crisis-Is-It-Reconsidering-the-Migrant-Crisis/)   
+§ August 9, 2021 [Whose Crisis Is It? Reconsidering the “Migrant Crisis”](https://archive-w.bsafes.com/docs/W/Whose-Crisis-Is-It-Reconsidering-the-Migrant-Crisis/)  
+§ September, 2020 [“The Jews love numbers”: Steven L. Anderson, Christian Conspiracists, and the Spiritual Dimensions of Holocaust Denial](https://archive-t.bsafes.com/docs/T/Spiritual-Dimensions-of-Holocaust-Denial/)   

@@ -868,6 +868,19 @@ The US. Department of Energy’s (DOE’s) Alternative Fueling Station Locator c
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September, 2020<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• “The Jews love numbers”: Steven L. Anderson, Christian Conspiracists, and the Spiritual Dimensions of Holocaust Denial [HTML](https://archive-t.bsafes.com/docs/T/Spiritual-Dimensions-of-Holocaust-Denial/)
+</p>
+<details>
+  <summary>Abstract</summary>
+From a once largely unknown preacher with a YouTube channel, Steven Anderson’s media presence has grown sizably in less than a decade. From his pulpit at Faithful Word Baptist Church in Tempe, Arizona (Independent Fundamental Baptist, or IFB), his vitriolic preaching on religious and social issues has garnered public attention.
+</details>
+</div>
+
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 Fall , 2020
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
