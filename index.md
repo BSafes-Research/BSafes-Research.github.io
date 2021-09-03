@@ -120,6 +120,18 @@ In the United States, cyberbullying has become a major public health concern. In
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 2, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Reshaping the Landscape of Future Manufacturing Software Defined Manufacturing [HTML](https://archive-r.bsafes.com/docs/R/Reshaping-the-Landscape-of-Future-Manufacturing-Software-Defined-Manufacturing/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The prosperity of the manufacturing sector is critical for the overall competitiveness of a nation/region. Most of the existing efforts focus on the modernization and digitization of each individual factory, which can only bring isolated performance improvements and cannot optimize the ecosystem as a whole. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
