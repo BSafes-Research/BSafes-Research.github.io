@@ -1028,6 +1028,18 @@ Nick Drnaso’s1 graphic novel Sabrina provides a powerful snapshot of online no
 May, 2020
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• Antisemitism Today and Its Relationship to Jewish Identity and Religious Denomination [HTML](https://archive-a.bsafes.com/docs/A/Antisemitism-Today-and-Its-Relationship-to-Jewish-Identity-and-Religious-Denomination/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The purpose of this research study was to answer the following three research questions: 1) What is the relationship between Jewish identity (religious and ethnic) and experiences of antisemitism? 2) What is the relationship between Jewish religious affiliation and experiences of antisemitism? 3) What, if any, type of antisemitism (e.g., ethnic or religiously based antisemitism or anti-Zionism) do Jewish individuals experience most often? 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May, 2020
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Cyber Security’s Influence on Modern Society [HTML](https://archive-c.bsafes.com/docs/C/cybersecuritys-influence-on-modern-society/)
 </p>
 <details>
