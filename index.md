@@ -108,6 +108,18 @@ His eyes met mine as he scoffed, “It’s just videos. It’s not like it’s r
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Deconstructing Sexual Shame - Implications for Clinical Counselors and Counselor Educators [HTML](https://archive-d.bsafes.com/docs/D/Deconstructing-Sexual-Shame-Implications-for-Clinical-Counselors-and-Counselor-Educators/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Although clients often seek treatment for sexuality-related concerns, counselors may lack the competence, comfort, and skills to adequately address these issues. Counselors may address these treatment barriers by developing a sex-affirming counseling framework. The following article outlines the importance of deconstructing sexual shame within clinical counseling settings and provides specific strategies to enhance the sexual empowerment of clients.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 7, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
