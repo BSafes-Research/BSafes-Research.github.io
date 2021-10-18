@@ -34,6 +34,17 @@ In this paper, I examine the effect of the May 18th, 2021 Chinese ban of cryptoc
 </details>
 </div>
 
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Proliferation of NFT Transactions Raises Numerous US Tax Questions [HTML](https://archive-p.bsafes.com//docs/P/Proliferation-of-NFT-Transactions-Raises-Numerous-US-Tax-Questions/)
+</p>
+<details>
+  <summary>Abstract</summary>
+With the market for nonfungible tokens (NFTs) exploding, NFTs attached to art, music, video clips, tweets and other digital collectibles have sold for significant sums: An NFT of an animated flying Pop-Tart cat sold for $600,000, and an NFT from the artist Beeple was auctioned for $69 million. Demand for such tokens does not appear to be slowing, and the Internal Revenue Service (IRS) and state tax authorities undoubtedly have (or will) take notice.
+</details>
+</div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 12, 2021<br>
