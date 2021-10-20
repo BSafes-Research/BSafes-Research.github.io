@@ -74,6 +74,18 @@ In 2015, the world witnessed a “refugee crisis” when millions of Syrians, bu
 August, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• Blockchain and Its Potential Real-World Applications-Implications on Disco on Discovery Procedures [HTML](https://archive-b-v2.bsafes.com/docs/B/Blockchain-and-Its-Potential-Real-World-Applications-Implications-on-Disco-on-Discovery-Procedures/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Bitcoin has become a ubiquitous household name in the past ten years. Its value has been wildly volatile. In December of 2017, Bitcoin hit nearly $20,000 a coin, making those who had the stomach to weather the storm fabulously rich (or richer). Just this past year, Bitcoin returned to its meteoric highs. Its success has launched it into the spotlight, sparking both fervent
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • THE FAR RIGHT AND JANUARY 6, 2021: HOW CYBER AND REAL LIFE SPACES BECAME ONE AND THE IMAGERY THAT FACILITATED THE PROCESS [HTML](https://archive-t.bsafes.com/docs/T/THE-FAR-RIGHT-AND-JANUARY-6-2021-HOW-CYBER-AND-REAL-LIFE-SPACES-BECAME-ONE-AND-THE-IMAGERY-THAT-FACILITATED-THE-PROCESS/)
 </p>
 <details>
