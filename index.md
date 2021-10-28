@@ -26,6 +26,18 @@ An estimated 35% of American workers have experienced bullying, and in 80% of th
 Pending December, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• Access Control and Authorization in Smart Homes: A Survey [HTML](https://archive-a.bsafes.com/docs/A/Access-Control-Authorization-in-Smart-Homes-A-Survey/)
+</p>
+<details>
+  <summary>Abstract</summary>
+With the rapid development of cyberspace and smart home technology, human life is changing to a new virtual dimension with several promises for improving its quality. Moreover, the heterogeneous, dynamic, and internet-connected nature of smart homes brings many privacy and security difficulties. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+Pending December, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • The Volatility Implications of the Chinese Cryptocurrency Ban [HTML](https://archive-t.bsafes.com/docs/T/The-Volatility-Implications-of-the-Chinese-Cryptocurrency-Ban/)
 </p>
 <details>
