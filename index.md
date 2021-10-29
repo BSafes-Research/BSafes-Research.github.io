@@ -47,10 +47,22 @@ In this paper, I examine the effect of the May 18th, 2021 Chinese ban of cryptoc
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 3, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Platforms and Tools used for Online Learning all over the World during Covid-19 - A Study [HTML](https://archive-p.bsafes.com/docs/P/Platforms-and-Tools-used-for-Online-Learning-all-over-the-World-during-Covid-A-Study/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The coronavirus disease (COVID-19) epidemic has wreaked havoc across the globe. In the realm of education, this pandemic has resulted in the widespread suspension of face-to-face operations at educational institutions in over 190 countries in order to limit the virus’s spread and reduce its effects. According to the United Nations Educational, Scientific, and Cultural Organization (UNESCO), more than 1.2 billion students at all levels of education have quit attending face-toface lectures by mid-May 2020. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 25, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-• Proliferation of NFT Transactions Raises Numerous US Tax Questions [HTML](https://archive-p.bsafes.com//docs/P/Proliferation-of-NFT-Transactions-Raises-Numerous-US-Tax-Questions/)
+• Proliferation of NFT Transactions Raises Numerous US Tax Questions [HTML](https://archive-p.bsafes.com/docs/P/Proliferation-of-NFT-Transactions-Raises-Numerous-US-Tax-Questions/)
 </p>
 <details>
   <summary>Abstract</summary>
