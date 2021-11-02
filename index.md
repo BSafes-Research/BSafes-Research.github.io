@@ -299,6 +299,18 @@ The Internet is today a significant part of children’s daily lives, and digita
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Dossier - Uyghur Women in China’s Genocide [HTML](https://archive-d.bsafes.com/docs/D/Dossier-Uyghur-Women-in-China’s-Genocide/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The aim of genocide is to intentionally destroy a group, in whole or in part, targeting the group as a race, ethnicity, religion, and/or culture, and not specifically in terms of gender. Like in many other cases, China’s genocide against the Uyghurs and other Turkic Muslims aims to destroy the group, in whole or in part.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 22, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
