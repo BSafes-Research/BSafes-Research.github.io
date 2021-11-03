@@ -335,6 +335,18 @@ This project investigates the use of cyber technology as a political tool throug
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Greater Security Cooperation - US Allies in Europe and East Asia [HTML](https://archive-g.bsafes.com/docs/G/Greater-Security-Cooperation-US-Allies-in-Europe-and-East-Asia/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Growing Sino-Russian coordination necessitates greater security cooperation between US Allies in Europe and East Asia. US Allies in both regions face remarkably similar threats requiring similar operational concepts, capabilities, and technologies. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 14, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
