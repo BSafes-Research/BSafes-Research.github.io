@@ -47,6 +47,18 @@ In this paper, I examine the effect of the May 18th, 2021 Chinese ban of cryptoc
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• The Intersectionality of Racism, Globalization, Climate Change, and Forced Migration [HTML](https://archive-t.bsafes.com/docs/T/The-Intersectionality-of-Racism-Globalization-Climate-Change-and-Forced-Migration/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The purpose of this paper was to contextualize the intersectionality of racism, globalization, climate change, and forced immigration. The paper focuses on conversations from numerous organizations and individuals working to deal with the aforementioned challenges.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 3, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
