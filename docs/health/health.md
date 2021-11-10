@@ -5,4 +5,5 @@ nav_order: 722
 ---
 
 # Health 
+§ September, 2021 [Interdisciplinary Health Care Professionals’ Perceptions of the Causes and Consequences of the Opioid Crisis - Developing Rural Community Partnerships to Increase Access to Naloxone](https://archive-i.bsafes.com/docs/I/Interdisciplinary-Health-Care-Professionals’-Perceptions-of-the-Causes-and-Consequences-of-the-Opioid-Crisis-Developing-Rural-Community-Partnerships-to-Increase-Access-to-Naloxone/)  
 § June 14, 2021 [Effects of Social Technology on Older Adults in a Residential Living Facility](https://archive-e.bsafes.com/docs/E/Effects-of-Social-Technology-on-Older-Adults-in-a-Residential-Living-Facility/)  

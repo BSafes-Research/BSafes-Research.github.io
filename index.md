@@ -71,6 +71,18 @@ The coronavirus disease (COVID-19) epidemic has wreaked havoc across the globe. 
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Interdisciplinary Health Care Professionals’ Perceptions of the Causes and Consequences of the Opioid Crisis - Developing Rural Community Partnerships to Increase Access to Naloxone [HTML](https://archive-i.bsafes.com/docs/I/Interdisciplinary-Health-Care-Professionals’-Perceptions-of-the-Causes-and-Consequences-of-the-Opioid-Crisis-Developing-Rural-Community-Partnerships-to-Increase-Access-to-Naloxone/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Opioid overdoses kill thousands of people each year, and overdose rates continue to increase. Community-university partnerships are desperately needed to provide the multipronged and multiagency responses demanded by the opioid crisis.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 25, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -973,6 +985,7 @@ October, 2020<br>
 The US. Department of Energy’s (DOE’s) Alternative Fueling Station Locator contains information on public and private non-residential alternative fueling stations in the United States and Canada and currently tracks ethanol (E85), biodiesel, compressed natural gas, electric vehicle (EV) charging, hydrogen, liquefied natural gas, and propane stations. Of these fuels, EV charging continues to experience rapidly changing technology and growing infrastructure. This report provides a snapshot of the state of EV charging infrastructure in the United States in the first calendar quarter of 2020 (Q1). Using data from the Station Locator, this report breaks down the growth of public and private charging infrastructure by charging level, network, and location. Additionally, this report measures the current state of charging infrastructure compared with the amount projected to meet charging demand for an estimated 15 million plug-in electric vehicles by 2030. This information is intended to help transportation planners, policymakers, researchers, infrastructure developers, and others understand the rapidly changing landscape for EV charging.
 </details>
 </div>
+
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September, 2020<br>
