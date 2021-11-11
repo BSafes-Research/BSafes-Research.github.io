@@ -71,6 +71,18 @@ The coronavirus disease (COVID-19) epidemic has wreaked havoc across the globe. 
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• DDoS - From Activist Event to Perpetual Crisis [HTML](https://archive-d.bsafes.com/docs/D/DDoS-From-Activist-Event-to-Perpetual-Crisis/)
+</p>
+<details>
+  <summary>Abstract</summary>
+From March to October 2016 recurring attempts were made at blocking access to the official website of the organisation Black Lives Matter. An Anonymous-affiliated team calling itself ‘Ghost Squad’ took responsibility for some of them, causing confusion on the part of commentators. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
