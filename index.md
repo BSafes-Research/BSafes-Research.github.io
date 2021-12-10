@@ -50,6 +50,18 @@ In this paper, I examine the effect of the May 18th, 2021 Chinese ban of cryptoc
 November, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• A REVIEW OF KNOWLEDGE RISK CONCEPTION [HTML](https://archive-a.bsafes.com/docs/A/A-REVIEW-OF-KNOWLEDGE-RISK-CONCEPTION/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Knowledge is regarded as a critical source of sustainable competitive advantage. However, knowledge has a negative aspect as well. Organizations face a variety of risks as a result of a lack of knowledge, its disappearance, incorrect application, or other consequences of knowledge-related use. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • BIG DATA - CUSTOMER CENTRICITY AND SUSTAINABILITY IN THE BANKING INDUSTRY [HTML](https://archive-b-v2.bsafes.com/docs/B/BIG-DATA-CUSTOMER-CENTRICITY-AND-SUSTAINABILITY-IN-THE-BANKING-INDUSTRY/)
 </p>
 <details>
