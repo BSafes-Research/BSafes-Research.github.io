@@ -23,7 +23,19 @@ An estimated 35% of American workers have experienced bullying, and in 80% of th
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-Pending December, 2021<br>
+December, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Readers’ Perception and Preferences for Online and Print Newspapers in the University Library [HTML](https://archive-r.bsafes.com/docs/R/Readers’-Perception-and-Preferences-for-Online-and-Print-Newspapers-in-the-University-Library/)
+</p>
+<details>
+  <summary>Abstract</summary>
+This study determines the readers’ perception and preferences for both online and print newspapers in the university library. The study employed quantitative approach, in which descriptive survey method was used to gather and analyze data from the students on Rhema University, Nigeria.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 • Access Control and Authorization in Smart Homes: A Survey [HTML](https://archive-a.bsafes.com/docs/A/Access-Control-Authorization-in-Smart-Homes-A-Survey/)
@@ -35,7 +47,7 @@ With the rapid development of cyberspace and smart home technology, human life i
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-Pending December, 2021<br>
+December, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 • The Volatility Implications of the Chinese Cryptocurrency Ban [HTML](https://archive-t.bsafes.com/docs/T/The-Volatility-Implications-of-the-Chinese-Cryptocurrency-Ban/)
