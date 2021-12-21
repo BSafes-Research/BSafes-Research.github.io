@@ -143,6 +143,18 @@ From March to October 2016 recurring attempts were made at blocking access to th
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Cyber security training strategy: dealing with maritime SCADA risks [HTML](https://archive-c.bsafes.com/docs/C/Cyber-security-training-strategy-dealing-with-maritime-SCADA-risks/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Control systems on board ships collect sensor measurements and data from various operational activities and display all the relevant information; they also facilitate relaying of control commands to local or remote equipment.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
