@@ -11,7 +11,7 @@ permalink: /
 ## 2021
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-Pending December 15, 2021<br>
+December 15, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 • Bullying in the C-Suite - A Nurse Leader Perspective [HTML](https://archive-b-v2.bsafes.com/docs/B/bullying-in-the-c-suite-a-nurse-leader-perspective/)
@@ -19,6 +19,18 @@ Pending December 15, 2021<br>
 <details>
   <summary>Abstract</summary>
 An estimated 35% of American workers have experienced bullying, and in 80% of those situations, the perpetrator was a supervisor or boss. However, the reality is that bullying can come from anyone in the workplace, including subordinates.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Undersea Cables - The Ultimate Geopolitical Chokepoint [HTML](https://archive-u.bsafes.com/docs/U/Undersea-Cables-The-Ultimate-Geopolitical-Chokepoint/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Countries globally are heavily dependent on undersea communication cables which are run by commercial companies and tend to be neglected by national governments.
 </details>
 </div>
 
