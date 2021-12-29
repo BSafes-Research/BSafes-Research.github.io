@@ -38,6 +38,18 @@ Countries globally are heavily dependent on undersea communication cables which 
 December, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• Factors affecting effective online teaching transition in Asian universities during COVID-19 [HTML](https://archive-f.bsafes.com/docs/F/Factors-affecting-effective-online-teaching-transition-in-Asian-universities-during-COVID-19/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Educational institutions, especially the higher education institutions in Asian countries such as Bangladesh and Thailand, have had to stop face-to-face educational activities during the period of COVID-19 pandemic. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Readers’ Perception and Preferences for Online and Print Newspapers in the University Library [HTML](https://archive-r.bsafes.com/docs/R/Readers’-Perception-and-Preferences-for-Online-and-Print-Newspapers-in-the-University-Library/)
 </p>
 <details>
