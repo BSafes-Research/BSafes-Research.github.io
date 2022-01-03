@@ -9,6 +9,17 @@ permalink: /
 # Cybersecurity Research
 
 ## 2021
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Ongoing Genocides and the Need for Healing - The Cases of Native and African Americans [HTML](https://archive-o.bsafes.com/docs/Ongoing-Genocides-and-the-Need-for-Healing-The-Cases-of-Native-and-African-Americans/)
+</p>
+<details>
+  <summary>Abstract</summary>
+In the US, racism and its traumatic outcomes are the most significant and far-reaching legacy of the slave trade, slavery, and the elimination of Native peoples. By 1865, the African slave trade and slavery were ended as social institutions. 
+</details>
+</div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 15, 2021<br>
