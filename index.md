@@ -9,6 +9,19 @@ permalink: /
 # Cybersecurity Research
 
 ## 2021
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 30, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• EVOLUTION OR REVOLUTION IN TELEHEALTH REGULATION [HTML](https://archive-e.bsafes.com/docs/E/EVOLUTION-OR-REVOLUTION-IN-TELEHEALTH-REGULATION/)
+</p>
+<details>
+  <summary>Abstract</summary>
+A frequently repeated adage, attributed to a wide range of authors and orators, holds that a serious crisis should never be allowed to go to waste. The moment in which we find ourselves renders this adage particularly timely.
+</details>
+</div>
+
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 21, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
