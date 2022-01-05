@@ -5,7 +5,7 @@ nav_order: 724
 ---
 
 # Humanitarian
-§ December 21, 2021 [Ongoing Genocides and the Need for Healing - The Cases of Native and African Americans](https://archive-o.bsafes.com/docs/Ongoing-Genocides-and-the-Need-for-Healing-The-Cases-of-Native-and-African-Americans/)  
+§ December 21, 2021 [Ongoing Genocides and the Need for Healing - The Cases of Native and African Americans](https://archive-o.bsafes.com/docs/O/Ongoing-Genocides-and-the-Need-for-Healing-The-Cases-of-Native-and-African-Americans/)  
 § October 12, 2021 [The Intersectionality of Racism, Globalization, Climate Change, and Forced Migration](https://archive-t.bsafes.com/docs/T/The-Intersectionality-of-Racism-Globalization-Climate-Change-and-Forced-Migration/)  
 § August 12, 2021 [How U.S. Gender Policy for Post-Taliban Afghanistan Was Shaped](https://archive-h.bsafes.com/docs/H/How-U.S.-Gender-Policy-for-Post-Taliban-Afghanistan-Was-Shaped/)  
 § August 9, 2021 [Whose Crisis Is It? Reconsidering the “Migrant Crisis”](https://archive-w.bsafes.com/docs/W/Whose-Crisis-Is-It-Reconsidering-the-Migrant-Crisis/)  
