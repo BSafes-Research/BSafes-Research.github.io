@@ -371,6 +371,18 @@ This publication describes techniques that enable a developer of an operating sy
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• From Bitcoin to Central Bank Digital Currencies: Making Sense of the Digital Money Revolution [HTML](https://www.mdpi.com/1999-5903/13/7/165)
+</p>
+<details>
+  <summary>Abstract</summary>
+We analyze the path from cryptocurrencies to official Central Bank Digital Currencies (CBDCs), to shed some light on the ultimate dematerialization of money. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 25, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
