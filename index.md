@@ -107,6 +107,18 @@ In this paper, I examine the effect of the May 18th, 2021 Chinese ban of cryptoc
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Broken Nest - Deterring China from Invading Taiwan [HTML](https://archive-b-v2.bsafes.com/docs/B/Broken-Nest-Deterring-China-from-Invading-Taiwan/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Deterring a Chinese invasion of Taiwan without recklessly threatening a great-power war is both possible and necessary through a tailored deterrence package that goes beyond either fighting over Taiwan or abandoning it. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
