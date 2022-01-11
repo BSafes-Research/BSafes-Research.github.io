@@ -5,6 +5,7 @@ nav_order: 722
 ---
 
 # Health 
+§ January 1, 2022 [Relevance of Internet of Things to Health Institutions in Clinical Data Management - Implication for Librarians](https://archive-r.bsafes.com/docs/R/Relevance-of-Internet-of-Things-to-Health-Institutions-in-Clinical-Data-Management-Implication-for-Librarians/)  
 § December 30, 2021 [EVOLUTION OR REVOLUTION IN TELEHEALTH REGULATION](https://archive-e.bsafes.com/docs/E/EVOLUTION-OR-REVOLUTION-IN-TELEHEALTH-REGULATION/)  
 § November, 2021 [Schizophrenia and Prison Life](https://archive-s.bsafes.com/docs/S/Schizophrenia-an-Prison-Life/)  
 § October 29, 2021 [Updated Assessment on COVID-19 Origins](https://archive-u.bsafes.com/docs/U/Updated-Assessment-on-COVID-19-Origins/)  

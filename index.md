@@ -7,6 +7,19 @@ permalink: /
 ---
 
 # Cybersecurity Research
+## 2022
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 1, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Relevance of Internet of Things to Health Institutions in Clinical Data Management - Implication for Librarians [HTML](https://archive-r.bsafes.com/docs/R/Relevance-of-Internet-of-Things-to-Health-Institutions-in-Clinical-Data-Management-Implication-for-Librarians/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The Internet of Things (IoT) is the internetworking of physical devices which consists of an embedded system with sensors, actuators and network connectivity that enable collection and exchange of data. 
+</details>
+</div>
 
 ## 2021
 
