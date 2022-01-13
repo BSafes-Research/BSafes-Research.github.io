@@ -10,6 +10,18 @@ permalink: /
 ## 2022
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Towards an ethical framework for the design and development of inclusive home-based smart technology for smart spaces for older adults and people with disabilities [HTML](https://archive-t.bsafes.com/docs/T/Towards-an-ethical-framework-for-the-design-and-development-of-inclusive-home-based-smart-technology-for-smart-spaces-for/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Unique ethical, privacy and safety implications arise for people who are reliant on home-based smart technology due to health conditions or disabilities. As a result we need to carefully reflect on our approaches to ethical issues over the life cycle of smart home technology design and the wider living context for end users and relevant stakeholders. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 1, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
