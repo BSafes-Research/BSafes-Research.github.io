@@ -87,6 +87,18 @@ Countries globally are heavily dependent on undersea communication cables which 
 December, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• Approaches to Implementing Virtual Reality for All [HTML](https://archive-a.bsafes.com/docs/A/Approaches-to-Implementing-Virtual-Reality-for-All/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The potential of using virtual reality (VR) in education has been discussed for many years, but there are still several barriers that prevent educators in both the K-12 and higher education levels from implementing VR in their courses.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Factors affecting effective online teaching transition in Asian universities during COVID-19 [HTML](https://archive-f.bsafes.com/docs/F/Factors-affecting-effective-online-teaching-transition-in-Asian-universities-during-COVID-19/)
 </p>
 <details>
