@@ -1446,6 +1446,18 @@ A robust public debate is currently underway about the responsibility of online 
 </div>
 
 
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+2020
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Reducing College Student Burnout - Predictive Factors, Harmful Effects, and Preventative Strategies [HTML](https://archive-r.bsafes.com/docs/R/Reducing-College-Student-Burnout-Predictive-Factors-Harmful-Effects-and-Preventativ-Strategies/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Academic burnout is defined as experiencing emotional exhaustion, having cynical attitudes toward other people and one’s studies, and feeling unable to achieve one’s academic goals (Schaufeli et al., 2002b).
+</details>
+</div>
+
 ## 2019
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
