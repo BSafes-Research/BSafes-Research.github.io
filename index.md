@@ -33,6 +33,18 @@ The Internet of Things (IoT) is the internetworking of physical devices which co
 </details>
 </div>
 
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Survey on Security Issues and Measures in Different Layers of Internet of Things (IoT) [HTML](https://archive-s.bsafes.com/docs/S/Survey-on-Security-Issues-and-Measures-in-Different-Layers-of-Internet-of-Things-(IoT)/)
+</p>
+<details>
+  <summary>Abstract</summary>
+In general perspective, Internet of things is defined as a network of physical objects by connecting” things to things” through the sensors, actuators and processors, to communicate and exchange data and information among each other along with other related devices and systems spread over different locations, without human-to-human or human-to-computer interactions. 
+</details>
+</div>
+
 ## 2021
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
