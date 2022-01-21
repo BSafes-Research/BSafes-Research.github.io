@@ -22,6 +22,18 @@ Unique ethical, privacy and safety implications arise for people who are reliant
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• On the Horizon - Nanosatellite Constellations Will Revolutionize the Internet of Things (IoT) [HTML](https://archive-o.bsafes.com/docs/O/On-the-Horizon-Nanosatellite-Constellations-Will-Revolutionize-the-Internet-of-Things-(IoT)/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The Internet of Things (IoT) has experienced exponential growth and use across the globe with 25.1 billion devices currently in use.1 Until recently, the functionality of the IoT was dependent on secure data flow between internet terrestrial stations and the IoT devices. Now, a new alternative path of data flow is on the horizon. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 1, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
