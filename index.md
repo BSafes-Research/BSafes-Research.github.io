@@ -49,6 +49,18 @@ The Internet of Things (IoT) is the internetworking of physical devices which co
 January, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• Digital Financial Literacy Skills among Library and Information Science Professionals in Northeast India - A Study [HTML](https://archive-d.bsafes.com/docs/D/Digital-Financial-Literacy-Skills-among-Library-and-Information-Science-Professionals-in-Northeast-India-A-Study/)
+</p>
+<details>
+  <summary>Abstract</summary>
+In the present digital age, digital financial literacy is likely to become an increasingly main aspect of education. Ability to understand and effectively use various financial skills, like budgeting, investing and personal financial management through online. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Survey on Security Issues and Measures in Different Layers of Internet of Things (IoT) [HTML](https://archive-s.bsafes.com/docs/S/Survey-on-Security-Issues-and-Measures-in-Different-Layers-of-Internet-of-Things-(IoT)/)
 </p>
 <details>
