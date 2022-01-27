@@ -49,6 +49,18 @@ The Internet of Things (IoT) is the internetworking of physical devices which co
 January, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• Should Dogs Have a Seat in the Classroom - The Effects of Canine Assisted Education on College Student Mental Health [HTML](https://archive-s.bsafes.com/docs/S/Should-Dogs-Have-a-Seat-in-the-Classroom-The-Effects-of-Canine-Assisted-Education-on-College-Student-Mental-Health/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Students continue to face an increase in mental health concerns related to their role of being college students, including increased academic expectations; organizational and time management demands; and, often, a transition to an independent living situation. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Digital Financial Literacy Skills among Library and Information Science Professionals in Northeast India - A Study [HTML](https://archive-d.bsafes.com/docs/D/Digital-Financial-Literacy-Skills-among-Library-and-Information-Science-Professionals-in-Northeast-India-A-Study/)
 </p>
 <details>
