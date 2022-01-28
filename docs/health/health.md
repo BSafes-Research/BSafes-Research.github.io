@@ -6,6 +6,7 @@ nav_order: 722
 
 # Health 
 § January 1, 2022 [Relevance of Internet of Things to Health Institutions in Clinical Data Management - Implication for Librarians](https://archive-r.bsafes.com/docs/R/Relevance-of-Internet-of-Things-to-Health-Institutions-in-Clinical-Data-Management-Implication-for-Librarians/)  
+§ January, 2022 [Less Stress, More Satisfaction with Online Learning During the COVID-19 Pandemic - The Moderating Role of Academic Resilience](https://archive-l.bsafes.com/docs/L/Less-Stress-More-Satisfaction-with-Online-Learning-During-the-COVID-19-Pandemic-The-Moderating-Role-of-Academic-Resilience/)  
 § January, 2022 [Should Dogs Have a Seat in the Classroom - The Effects of Canine Assisted Education on College Student Mental Health](https://archive-s.bsafes.com/docs/S/Should-Dogs-Have-a-Seat-in-the-Classroom-The-Effects-of-Canine-Assisted-Education-on-College-Student-Mental-Health/)  
 § December 30, 2021 [EVOLUTION OR REVOLUTION IN TELEHEALTH REGULATION](https://archive-e.bsafes.com/docs/E/EVOLUTION-OR-REVOLUTION-IN-TELEHEALTH-REGULATION/)  
 § November, 2021 [Schizophrenia and Prison Life](https://archive-s.bsafes.com/docs/S/Schizophrenia-an-Prison-Life/)  

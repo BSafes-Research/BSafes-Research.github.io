@@ -49,6 +49,18 @@ The Internet of Things (IoT) is the internetworking of physical devices which co
 January, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• Less Stress, More Satisfaction with Online Learning During the COVID-19 Pandemic - The Moderating Role of Academic Resilience [HTML](https://archive-l.bsafes.com/docs/L/Less-Stress-More-Satisfaction-with-Online-Learning-During-the-COVID-19-Pandemic-The-Moderating-Role-of-Academic-Resilience/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The COVID-19 outbreak triggered a sudden transformation in all aspects of life. Inevitably, educational environments were also affected. Previous studies found a sharp drop in student satisfaction and a simultaneous corresponding increase in academic stress when online learning was instituted due to the pandemic.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Should Dogs Have a Seat in the Classroom - The Effects of Canine Assisted Education on College Student Mental Health [HTML](https://archive-s.bsafes.com/docs/S/Should-Dogs-Have-a-Seat-in-the-Classroom-The-Effects-of-Canine-Assisted-Education-on-College-Student-Mental-Health/)
 </p>
 <details>
