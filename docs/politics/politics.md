@@ -8,6 +8,7 @@ nav_order: 802
 § December 13, 2021 [Undersea Cables - The Ultimate Geopolitical Chokepoint](https://archive-u.bsafes.com/docs/U/Undersea-Cables-The-Ultimate-Geopolitical-Chokepoint/)  
 § November 17, 2021 [Broken Nest - Deterring China from Invading Taiwan](https://archive-b-v2.bsafes.com/docs/B/Broken-Nest-Deterring-China-from-Invading-Taiwan/)  
 § August, 2021 [THE FAR RIGHT AND JANUARY 6, 2021: HOW CYBER AND REAL LIFE SPACES BECAME ONE AND THE IMAGERY THAT FACILITATED THE PROCESS](https://archive-t.bsafes.com/docs/T/THE-FAR-RIGHT-AND-JANUARY-6-2021-HOW-CYBER-AND-REAL-LIFE-SPACES-BECAME-ONE-AND-THE-IMAGERY-THAT-FACILITATED-THE-PROCESS/)  
+§ June, 2021 [The Digital Yuan and the BeiDou Satellite System - China’s Increasing Structural Power in an Interdependent World](https://archive-t.bsafes.com/docs/T/The-Digital-Yuan-and-the-BeiDou-Satellite-System/)  
 § June, 2021 [Unilateral Economic Sanctions and Protecting U.S. National Security](https://archive-u.bsafes.com/docs/U/unilateral-economics-sanctions-and-protecting-us-national-security/)  
 § May 22, 2021 [Bridging the Realms Between Cyber and Physical - Approaching Cyberspace with an Interdisciplinary Lens](https://archive-b-v2.bsafes.com/docs/B/Bridging-the-Realms-Between-Cyber-and-Physical-Approaching-Cyberspace-with-an-Interdisciplinary-Lens/)   
 § May 18, 2021 [Greater Security Cooperation - US Allies in Europe and East Asia](https://archive-g.bsafes.com/docs/G/Greater-Security-Cooperation-US-Allies-in-Europe-and-East-Asia/)  
