@@ -22,6 +22,18 @@ Unique ethical, privacy and safety implications arise for people who are reliant
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 7, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Crafted for the Male Gaze - Gender Discrimination in the K-Pop Industry [HTML](https://archive-c.bsafes.com/docs/C/Crafted-for-the-Male-Gaze-Gender-Discrimination-in-the-K-Pop-Industry/)
+</p>
+<details>
+  <summary>Abstract</summary>
+This paper explores the ways in which the Korean popular music industry has maintained and promoted pre-existing cultural patriarchy. The discussion highlights how seeming opportunity for women to enter the industry has resulted in increased objectification and legitimacy of the domination of the “male gaze.”
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 19, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
