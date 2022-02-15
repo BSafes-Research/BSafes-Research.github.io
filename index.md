@@ -34,6 +34,18 @@ This paper explores the ways in which the Korean popular music industry has main
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Negotiating Sexual Harassment - Experiences of Women Academic Leaders in Pakistan [HTML](https://archive-n.bsafes.com/docs/N/Negotiating-Sexual-Harassment-Experiences-of-Women-Academic-Leaders-in-Pakistan/)
+</p>
+<details>
+  <summary>Abstract</summary>
+This paper endeavors to explore sexual harassment encountered by women leaders in Pakistani academia. An in-depth interview method was used to gain insight from women academic administrators working in coeducational universities in two cities of Pakistan.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 19, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
