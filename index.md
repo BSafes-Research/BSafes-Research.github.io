@@ -34,6 +34,18 @@ This paper explores the ways in which the Korean popular music industry has main
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 4, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Russia and Ukraine - What to Know from a Historian [HTML](https://archive-r.bsafes.com/docs/R/Russia-and-Ukraine-What-to-Know-from-a-Historian/)
+</p>
+<details>
+  <summary>Abstract</summary>
+“In trying to understand how the past influences events today, one must understand the history of the region.”
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
