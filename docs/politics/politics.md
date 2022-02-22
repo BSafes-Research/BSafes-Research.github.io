@@ -5,7 +5,8 @@ nav_order: 802
 ---
 
 # Politics
-§ February 4, 2022 [Russia and Ukraine - What to Know from a Historian](https://archive-r.bsafes.com/docs/R/Russia-and-Ukraine-What-to-Know-from-a-Historian/)  
+§ February 4, 2022 [Russia and Ukraine - What to Know from a Historian](https://archive-r.bsafes.com/docs/R/Russia-and-Ukraine-What-to-Know-from-a-Historian/)   
+§ February, 2022 [Secrets and Cooperation - The Role of Intelligence in International Relations Theory](https://archive-s.bsafes.com/docs/S/Secrets-and-Cooperation-The-Role-of-Intelligence-in-International-Relations-Theory/)   
 § December 13, 2021 [Undersea Cables - The Ultimate Geopolitical Chokepoint](https://archive-u.bsafes.com/docs/U/Undersea-Cables-The-Ultimate-Geopolitical-Chokepoint/)  
 § November 17, 2021 [Broken Nest - Deterring China from Invading Taiwan](https://archive-b-v2.bsafes.com/docs/B/Broken-Nest-Deterring-China-from-Invading-Taiwan/)  
 § August, 2021 [THE FAR RIGHT AND JANUARY 6, 2021: HOW CYBER AND REAL LIFE SPACES BECAME ONE AND THE IMAGERY THAT FACILITATED THE PROCESS](https://archive-t.bsafes.com/docs/T/THE-FAR-RIGHT-AND-JANUARY-6-2021-HOW-CYBER-AND-REAL-LIFE-SPACES-BECAME-ONE-AND-THE-IMAGERY-THAT-FACILITATED-THE-PROCESS/)  

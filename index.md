@@ -49,6 +49,18 @@ February 4, 2022<br>
 February, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• Secrets and Cooperation - The Role of Intelligence in International Relations Theory [HTML](https://archive-s.bsafes.com/docs/S/Secrets-and-Cooperation-The-Role-of-Intelligence-in-International-Relations-Theory/)
+</p>
+<details>
+  <summary>Abstract</summary>
+he role of intelligence in achieving military, economic, or other forms of objectives is not a new concept. Sun Tzu was an ancient Chinese military general and strategist, scholar, and philosopher who lived 2,500 years ago during the Zhou Dynasty.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Negotiating Sexual Harassment - Experiences of Women Academic Leaders in Pakistan [HTML](https://archive-n.bsafes.com/docs/N/Negotiating-Sexual-Harassment-Experiences-of-Women-Academic-Leaders-in-Pakistan/)
 </p>
 <details>
