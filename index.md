@@ -49,6 +49,18 @@ February 4, 2022<br>
 February, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• A Taxonomy of Cyberattacks against Critical Infrastructure [HTML](https://archive-a.bsafes.com/docs/A/A-Taxonomy-of-Cyberattacks-against-Critical-Infrastructur/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The current study proposes a taxonomy to organize existing knowledge on cybercrimes against critical infrastructure such as power plants, water treatment facilities, dams, and nuclear facilities. Routine Activity Theory is used to inform a three-dimensional taxonomy with the following dimensions: hacker motivation (likely offender), cyber, physical, and cyber-physical components of any cyber-physical system (suitable target), and security (capable guardian). 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Secrets and Cooperation - The Role of Intelligence in International Relations Theory [HTML](https://archive-s.bsafes.com/docs/S/Secrets-and-Cooperation-The-Role-of-Intelligence-in-International-Relations-Theory/)
 </p>
 <details>
