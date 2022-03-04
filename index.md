@@ -588,6 +588,18 @@ Ransomware is a form of extortion in which digital files are rendered inaccessib
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 6, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Strategic Relationships, Risk, and Proxy War [HTML](https://archive-s.bsafes.com/docs/S/Strategic-Relationships–Risk-and-Proxy-War/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Proxy wars dominate modern war fighting. Despite the frequency of proxy wars on today’s battle field, the strategic studies community lacks sufficient models and strategic theories to frame proxy wars from the strategic level. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 1, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
