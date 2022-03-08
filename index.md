@@ -10,6 +10,18 @@ permalink: /
 ## 2022
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Bullying Victimization as a Predictor of Suicidality among South Dakota Adolescents - A Secondary Data Analysis Using the 2015 Youth Risk Behavior Survey [HTML](https://archive-b-v2.bsafes.com/docs/B/Bullying-Victimization-as-a-Predictor-of-Suicidality-among-South-Dakota-Adolescents-A-Secondary-Data-Analysis-Using-the-2015-Youth-Risk-Behavior-Survey/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Bullying is a form of peer victimization with a well-established link to suicidality among adolescents in the United States (Holt et al. 2015). Few studies focus explicitly on examining bullying at the state-level, including South Dakota. We argue that state-level data are valuable for policymakers wishing to better understand adolescent bullying and suicidality at a local level.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 18, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
