@@ -219,6 +219,18 @@ Countries globally are heavily dependent on undersea communication cables which 
 December, 2021<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• A Risk based Approach to Cybersecurity - A Case Study of Financial Messaging Networks Data Breaches [HTML](https://archive-a.bsafes.com/docs/A/A-Risk-based-Approach-to-Cybersecurity-ACase-Study-of-Financial-Messaging-Networks-Data-Breaches/)
+</p>
+<details>
+  <summary>Abstract</summary>
+With banking becoming increasingly global and largely digital, a magnitude of data breach incidents resulted from cyberattacks have been observed and can be frequently traced to ineffective security practices and procedures. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December, 2021<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Approaches to Implementing Virtual Reality for All [HTML](https://archive-a.bsafes.com/docs/A/Approaches-to-Implementing-Virtual-Reality-for-All/)
 </p>
 <details>
