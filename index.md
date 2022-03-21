@@ -34,6 +34,18 @@ Unique ethical, privacy and safety implications arise for people who are reliant
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Selling Antitrust [HTML](https://archive-s.bsafes.com/docs/S/SELLING-ANTITRUST/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Antitrust’s promoters have never done a particularly good job selling their field to the public. That is not entirely their fault. Antitrust is inherently technical, and a less engaging discipline to most people than, say, civil rights or criminal law.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 9, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

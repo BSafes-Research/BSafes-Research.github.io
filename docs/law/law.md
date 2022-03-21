@@ -5,6 +5,7 @@ nav_order: 760
 ---
 
 # Law 
+§ February 10, 2022 [Selling Antitrust](https://archive-s.bsafes.com/docs/S/SELLING-ANTITRUST/)  
 § May 7, 2021 [Handle with Care: Domestic Violence Safety Planning in the Age of Data Privacy Laws](https://archive-h.bsafes.com/docs/H/handle-with-care-domestic-violence-safety-planning-in-the-age-of-data-privacy-law/)   
 § April 27, 2021 [Unfriending Tinker : The Third Circuit Holds Schools Cannot Regulate Off-Campus Social Media Speech](https://archive-u.bsafes.com/docs/U/unfriending-tinker-the-third-circuit-holds-schools-cannot-regulate-off-campus-social-media-speech/)  
 § April, 2021 [The Bumble Bill: A Critical Analysis on Texas’s New Law Taking Indecent Exposure Regulations Online](https://archive-t.bsafes.com/docs/T/the-bumble-bill-a-critical-analysis-on-texass-new-law-taking-indecent-exposure-regulations-online/)   
