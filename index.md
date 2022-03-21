@@ -34,6 +34,18 @@ Unique ethical, privacy and safety implications arise for people who are reliant
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 9, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Data Privacy Is Not Meta: Why Facebook’s Foray Into the Metaverse Could Be Flawed From the Start [HTML](https://archive-d.bsafes.com/docs/D/Data-Privacy-Is-Not-Meta-Why-Facebook’s-Foray-Into-the-Metaverse-Could-Be-Flawed-From-the-Start/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook, now Meta,[1] has recently released its plans to develop and release its so-called metaverse: an immersive digital environment wherein users will be able to interact, play virtual games, buy things in virtual stores, go to virtual concerts, or attend virtual meetings.[2] While Facebook initially planned to release the metaverse through its Oculus VR platform, it claims that it is currently developing advanced body sensors that people will wear to interact in the company’s digital world.[3]
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 7, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
