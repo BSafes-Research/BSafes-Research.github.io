@@ -10,6 +10,18 @@ permalink: /
 ## 2022
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 2, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Religious Soft Power in Russian Foreign Policy - Constitutional Change and the Russian Orthodox Church [HTML](https://archive-r.bsafes.com/docs/R/Religious-Soft-Power-in-Russian-Foreign-Policy-Constitutional-Change-and-the-Russian-Orthodox-Church/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The Kremlin continues to deepen its reliance on the Russian Orthodox Church-Moscow Patriarchate (ROC) as a lever of soft power in Russian foreign policy. Constitutional amendments ratified in July 2020 suggest that this church-state partnership is poised to grow stronger in the coming years. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
