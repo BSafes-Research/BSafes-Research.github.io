@@ -97,6 +97,18 @@ February 4, 2022<br>
 February, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• When Love Hurts - How romance depictions in film contribute to relationship abuse [HTML](https://archive-w.bsafes.com/docs/W/When-Love-Hurts-How-romance-depictions-in-film-contribute-to-relationship-abuse/)
+</p>
+<details>
+  <summary>Abstract</summary>
+There is a strong relationship between media and the belief systems we hold. The film industry, for example, has great influence on ideals, perceptions, and expectations of human life. While the effects of film content are widespread, it is especially important to examine the specific implications film has on our ideas about relationships.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • A Taxonomy of Cyberattacks against Critical Infrastructure [HTML](https://archive-a.bsafes.com/docs/A/A-Taxonomy-of-Cyberattacks-against-Critical-Infrastructur/)
 </p>
 <details>
