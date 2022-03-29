@@ -10,6 +10,18 @@ permalink: /
 ## 2022
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Fault Lines In The Application Of International Humanitarian Law To Cyberwarfare [HTML](https://archive-f.bsafes.com/docs/F/Fault-Lines-In-The-Application-Of-International-Humanitarian-Law-To-Cyberwarfare/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The dynamics of warfare have changed from the conventional wars fought on the battlefield to virtual warfare as states have been involved in the cyber arms race. From simple distributed denial-of-service (DDoS) attacks to the potent Stuxnet and Flame the cyberweapons vary in their potential human cost.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 2, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -5,6 +5,7 @@ nav_order: 802
 ---
 
 # Politics
+§ March 24, 2022 [Fault Lines In The Application Of International Humanitarian Law To Cyberwarfare](https://archive-f.bsafes.com/docs/F/Fault-Lines-In-The-Application-Of-International-Humanitarian-Law-To-Cyberwarfare/)  
 § February 4, 2022 [Russia and Ukraine - What to Know from a Historian](https://archive-r.bsafes.com/docs/R/Russia-and-Ukraine-What-to-Know-from-a-Historian/)   
 § February, 2022 [Secrets and Cooperation - The Role of Intelligence in International Relations Theory](https://archive-s.bsafes.com/docs/S/Secrets-and-Cooperation-The-Role-of-Intelligence-in-International-Relations-Theory/)   
 § December 13, 2021 [Undersea Cables - The Ultimate Geopolitical Chokepoint](https://archive-u.bsafes.com/docs/U/Undersea-Cables-The-Ultimate-Geopolitical-Chokepoint/)  
