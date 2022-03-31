@@ -12,4 +12,4 @@ nav_order: 760
 § January, 2021 [Repeal the Defend Trade Secret Act: Why Congress Can’t Rely on Trade Secret Law to Protect America’s Trade Secrets](https://archive-r.bsafes.com/docs/R/repeal-the-defend-trade-secret-act-whey-congress-cant-rely-on-trade-secret-law-to-protect-americas-trade-secrets/) 
 § January, 2021 [Israel’s Perspective on Key Legal and Practical Issues Concerning the Application of International Law to Cyber Operations](https://archive-i.bsafes.com/docs/I/israels-perspective-on-key-legal-and-practical-issues-concerning-the-application-of-international-law-to-cyber-operations/#contents)  
 § November 23, 2020 [The Internet Never Forgets: A Federal Solution to the Dissemination of Nonconsensual Pornography](https://archive-t.bsafes.com/docs/T/the-internet-never-forgets-a-federal-solution-to-the-dissemination-of-nonconsensual-pornography/)
- 
+§ January, 2017 [Russia - Eurasia](https://archive-r.bsafes.com/docs/R/Russia-Eurasia/#russia---eurasia)  

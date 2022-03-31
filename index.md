@@ -7,7 +7,10 @@ permalink: /
 ---
 
 # Cybersecurity Research
+{: .no_toc}
+
 ## 2022
+{: .no_toc}
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 24, 2022<br>
@@ -224,6 +227,9 @@ January, 2022<br>
 In general perspective, Internet of things is defined as a network of physical objects by connecting” things to things” through the sensors, actuators and processors, to communicate and exchange data and information among each other along with other related devices and systems spread over different locations, without human-to-human or human-to-computer interactions. 
 </details>
 </div>
+
+1. TOC
+{:toc}
 
 ## 2021
 
@@ -1797,6 +1803,18 @@ August, 2017<br>
 <details>
   <summary>Abstract</summary>
 Our review of hundreds of studies and interviews with 38 cyber and industry experts revealed an echo chamber, loudly reverberating what needs to be done to secure critical U.S. infrastructure against aggressive and targeted cyber attacks. Cyber is the sole arena where private companies are the front line of defense in a nation-state attack on U.S. infrastructure. When a cyber attack can deliver the same damage or consequences as a kinetic attack, it requires national leadership and close coordination of our collective resources, capabilities, and authorities.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January, 2017<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Russia - Eurasia [HTML](https://archive-r.bsafes.com/docs/R/Russia-Eurasia/#russia---eurasia)
+</p>
+<details>
+  <summary>Abstract</summary>
+This article discusses significant international legal developments in corporate law, arbitration law, energy law, data privacy, and religious freedom in Russia, Kazakhstan, Belarus, and Ukraine.
 </details>
 </div>
 
