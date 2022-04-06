@@ -13,6 +13,18 @@ permalink: /
 {: .no_toc}
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Protection of Online Gender-Based Violence Victims - A Feminist Legal Analysis [HTML](https://archive-p.bsafes.com/docs/P/Protection-of-Online-Gender-Based-Violence-Victims-A-Feminist-Legal-Analysis/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The COVID-19 pandemic has led to a rise in cases of online gender-based violence (OGBV). However, this issue has not yet received attention in the realm of Indonesian law, especially when it comes to protecting the rights of the victims. This paper examines how the current legal framework in Indonesia handles OGBV cases and whether it is sufficient to provide protection for victims. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 24, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

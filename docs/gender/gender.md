@@ -5,6 +5,7 @@ nav_order: 712
 ---
 
 # Gender 
+§ March 30, 2022 [Protection of Online Gender-Based Violence Victims - A Feminist Legal Analysis](https://archive-p.bsafes.com/docs/P/Protection-of-Online-Gender-Based-Violence-Victims-A-Feminist-Legal-Analysis/)  
 § February 7, 2022 [Crafted for the Male Gaze - Gender Discrimination in the K-Pop Industry](https://archive-c.bsafes.com/docs/C/Crafted-for-the-Male-Gaze-Gender-Discrimination-in-the-K-Pop-Industry/)  
 § November, 2020 [Why Women Leave White Nationalist Movements: Exploring the Deradicalization Process](https://archive-w.bsafes.com/docs/W/Why-Women-Leave-White-Nationalist-Movements-Exploring-the-Deradicalization-Process/)  
 § June, 2020 [Impact of Social Media on Feminism](https://archive-i.bsafes.com/docs/I/impact-of-social-media-on-feminism/)  
