@@ -16,6 +16,18 @@ permalink: /
 April, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• Surviving Child Pornography - Fifty Years On [HTML](https://archive-s.bsafes.com/docs/S/Surviving-Child-Pornography-Fifty-Years-On/)
+</p>
+<details>
+  <summary>Abstract</summary>
+FIFTY YEARS AGO, I suffered and survived home-based “production” of child pornography. The products from this type of abuse are now called “child sexual abuse material”—CSAM. The making of child sexual abuse material does not begin to describe what many survivors experience. For me, my father—the child rapist, pedophile—sought to dehumanize, silence, torture, and control my mind and body. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Performance Comparison of Operations in the File System and in Embedded Key-Value Databases [HTML](https://archive-p.bsafes.com/docs/P/Performance-Comparison-of-Operations-in-the-File-System-and-in-Embedded-Key-Value-Databases/)
 </p>
 <details>
