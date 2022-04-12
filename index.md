@@ -52,6 +52,18 @@ The COVID-19 pandemic has led to a rise in cases of online gender-based violence
 March 24, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• PROTECTING VIOLENT FREE SPEECH AND COMBATTING TRUE HOMICIDAL THREATS IN CYBERSPACE [HTML](https://archive-p.bsafes.com/docs/P/PROTECTING-VIOLENT-FREE-SPEECH-AND-COMBATTING-TRUE-HOMICIDAL-THREATS-IN-CYBERSPACE/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Recent phenomena like the global COVID-19 pandemic and evolving trends toward the increasing digitization of everyday and criminal activities have created unique and unprecedented challenges for the United States criminal justice system. Experts have argued that the internet has transformed criminal behavior by changing the landscape of risks and opportunities, citing creative and rapidly escalating uses of digital technology in crimes like homicide, sexual assault, mass murder, and cannibalism.   
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Fault Lines In The Application Of International Humanitarian Law To Cyberwarfare [HTML](https://archive-f.bsafes.com/docs/F/Fault-Lines-In-The-Application-Of-International-Humanitarian-Law-To-Cyberwarfare/)
 </p>
 <details>
