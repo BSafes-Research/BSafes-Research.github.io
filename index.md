@@ -16,6 +16,18 @@ permalink: /
 April, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• Anxiety sensitivity, uncertainty and recursive thinking - A continuum on Cyberchondria conditions during the Covid Outbreak [HTML](https://archive-a.bsafes.com/docs/A/Anxiety-sensitivity-uncertainty-and-recursive-thinking-A-continuum-on-Cyberchondria-conditions-during-the-Covid-Outbreak/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberchondria is a term used to refer to excessive surfing the web looking for health care information, excessive checking behavior being related to health-related anxiety. This period of quarantine for the Covid-19 pandemic is increasing the pathological use of the internet, and the excessive surfing the web looking for health care information. Another dimension related to the Covid-19 outbreak refers to uncertainty intolerance, for this reason being necessary for the healthcare professionals to provide clear and linear information.  
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Surviving Child Pornography - Fifty Years On [HTML](https://archive-s.bsafes.com/docs/S/Surviving-Child-Pornography-Fifty-Years-On/)
 </p>
 <details>
