@@ -16,6 +16,18 @@ permalink: /
 April, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• Cyberpolicing in Canada - A Scoping Review [HTML](https://archive-c.bsafes.com/docs/C/Cyberpolicing-in-Canada-A-Scoping-Review/)
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent stream of government efforts have surfaced in an attempt to tackle cybercrime in Canada and improve law enforcement responses to cybercrime, such as funding, actionable intelligence, and the creation of new policing response units. However, we know little of ‘what works’ with respect to cyberpolicing, meaning that these endeavours, and policymakers and funding organizations, are operating without such insights.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Anxiety sensitivity, uncertainty and recursive thinking - A continuum on Cyberchondria conditions during the Covid Outbreak [HTML](https://archive-a.bsafes.com/docs/A/Anxiety-sensitivity-uncertainty-and-recursive-thinking-A-continuum-on-Cyberchondria-conditions-during-the-Covid-Outbreak/)
 </p>
 <details>
