@@ -11,28 +11,15 @@ permalink: /
 
 ## 2022
 {: .no_toc}
-
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April, 2022<br>
+May, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-• Cyberpolicing in Canada - A Scoping Review [HTML](https://archive-c.bsafes.com/docs/C/Cyberpolicing-in-Canada-A-Scoping-Review/)
+• Sex With Robots and Human-Machine Sexualities - Encounters Between Human-Machine Communication and Sexuality Studies [HTML](https://archive-s.bsafes.com/docs/S/Sex-With-Robots-and-Human-Machine-Sexualities-Encounters-Between-Human-Machine-Communication-and-Sexuality-Studies/)
 </p>
 <details>
   <summary>Abstract</summary>
-A recent stream of government efforts have surfaced in an attempt to tackle cybercrime in Canada and improve law enforcement responses to cybercrime, such as funding, actionable intelligence, and the creation of new policing response units. However, we know little of ‘what works’ with respect to cyberpolicing, meaning that these endeavours, and policymakers and funding organizations, are operating without such insights.
-</details>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April, 2022<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-• Anxiety sensitivity, uncertainty and recursive thinking - A continuum on Cyberchondria conditions during the Covid Outbreak [HTML](https://archive-a.bsafes.com/docs/A/Anxiety-sensitivity-uncertainty-and-recursive-thinking-A-continuum-on-Cyberchondria-conditions-during-the-Covid-Outbreak/)
-</p>
-<details>
-  <summary>Abstract</summary>
-Cyberchondria is a term used to refer to excessive surfing the web looking for health care information, excessive checking behavior being related to health-related anxiety. This period of quarantine for the Covid-19 pandemic is increasing the pathological use of the internet, and the excessive surfing the web looking for health care information. Another dimension related to the Covid-19 outbreak refers to uncertainty intolerance, for this reason being necessary for the healthcare professionals to provide clear and linear information.  
+Sex robots are a controversial topic. Understood as artificial-intelligence enhanced humanoid robots designed for use in partnered and solo sex, sex robots offer ample opportunities for theorizing from a Human-Machine Communication (HMC) perspective. This comparative literature review conjoins the seemingly disconnected literatures of HMC and sexuality studies (SeS) to explore questions surrounding intimacy, love, desire, sex, and sexuality among humans and machines.
 </details>
 </div>
 
@@ -69,18 +56,6 @@ March 30, 2022<br>
 <details>
   <summary>Abstract</summary>
 The COVID-19 pandemic has led to a rise in cases of online gender-based violence (OGBV). However, this issue has not yet received attention in the realm of Indonesian law, especially when it comes to protecting the rights of the victims. This paper examines how the current legal framework in Indonesia handles OGBV cases and whether it is sufficient to provide protection for victims. 
-</details>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2022<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-• PROTECTING VIOLENT FREE SPEECH AND COMBATTING TRUE HOMICIDAL THREATS IN CYBERSPACE [HTML](https://archive-p.bsafes.com/docs/P/PROTECTING-VIOLENT-FREE-SPEECH-AND-COMBATTING-TRUE-HOMICIDAL-THREATS-IN-CYBERSPACE/)
-</p>
-<details>
-  <summary>Abstract</summary>
-Recent phenomena like the global COVID-19 pandemic and evolving trends toward the increasing digitization of everyday and criminal activities have created unique and unprecedented challenges for the United States criminal justice system. Experts have argued that the internet has transformed criminal behavior by changing the landscape of risks and opportunities, citing creative and rapidly escalating uses of digital technology in crimes like homicide, sexual assault, mass murder, and cannibalism.   
 </details>
 </div>
 

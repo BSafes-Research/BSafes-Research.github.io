@@ -5,6 +5,7 @@ nav_order: 830
 ---
 
 # Sex 
+§ May, 2022 [Sex With Robots and Human-Machine Sexualities - Encounters Between Human-Machine Communication and Sexuality Studies](https://archive-s.bsafes.com/docs/S/Sex-With-Robots-and-Human-Machine-Sexualities-Encounters-Between-Human-Machine-Communication-and-Sexuality-Studies/)  
 § April, 2022 [Surviving Child Pornography - Fifty Years On](https://archive-s.bsafes.com/docs/S/Surviving-Child-Pornography-Fifty-Years-On/)  
 § February, 2022 [Negotiating Sexual Harassment - Experiences of Women Academic Leaders in Pakistan](https://archive-n.bsafes.com/docs/N/Negotiating-Sexual-Harassment-Experiences-of-Women-Academic-Leaders-in-Pakistan/)  
 § July 12, 2021 [Deconstructing Sexual Shame - Implications for Clinical Counselors and Counselor Educators](https://archive-d.bsafes.com/docs/D/Deconstructing-Sexual-Shame-Implications-for-Clinical-Counselors-and-Counselor-Educators/)  
