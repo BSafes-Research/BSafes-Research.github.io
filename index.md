@@ -15,6 +15,18 @@ permalink: /
 May, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• The Symptom of Ethics - Rethinking Ethics in the Face of the Machine [HTML](https://archive-t.bsafes.com/docs/T/The-Symptom-of-Ethics-Rethinking-Ethics-in-the-Face-of-the-Machine/)
+</p>
+<details>
+  <summary>Abstract</summary>
+This essay argues that it is the machine that constitutes the symptom of ethics— “symptom” understood as that excluded “part that has no part” in the system of moral consideration. Ethics, which has been historically organized around a human or at least biological subject, needs the machine to define the proper limits of the moral community even if it simultaneously excludes such mechanisms from any serious claim on moral consideration. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Sex With Robots and Human-Machine Sexualities - Encounters Between Human-Machine Communication and Sexuality Studies [HTML](https://archive-s.bsafes.com/docs/S/Sex-With-Robots-and-Human-Machine-Sexualities-Encounters-Between-Human-Machine-Communication-and-Sexuality-Studies/)
 </p>
 <details>
