@@ -11,6 +11,19 @@ permalink: /
 
 ## 2022
 {: .no_toc}
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Dalit Women - Narratives of Vulnerability Violence and a Culture of Impunity [HTML](https://archive-d.bsafes.com/docs/D/Dalit-Women-Narratives-of-Vulnerability-Violence-and-a-Culture-of-Impunity/)
+</p>
+<details>
+  <summary>Abstract</summary>
+India, a mosaic of ethnic, religious, linguistic, and social factions, exhibits unity in diversity. As a result, Indian women come from diverse cultures, terrains, religions, and classes. They perform diverse social roles and have varied lived experiences, which augment assorted issues. Consequently, a review of the literature on Indian feminism highlights its complicacy.
+</details>
+</div>
+
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
