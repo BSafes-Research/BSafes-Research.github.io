@@ -16,6 +16,18 @@ permalink: /
 May, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• Putin’s Invasion of Ukraine in 2022 - Implications for Strategic Studies [HTML](https://archive-p.bsafes.com/docs/P/Putin’s-Invasion-of-Ukraine-in-2022-Implications-for-Strategic-Studies/)
+</p>
+<details>
+  <summary>Abstract</summary>
+This special commentary examines critical issues for the field of strategic studies raised by Russia’s invasion of Ukraine, including the waning of major war, strategic coercion, and “War Amongst the People.” Drawing on previous scholarship and current events, this commentary considers the questions raised by the first major war of the twenty-first century. It provides recommendations for scholars and senior leaders on how to work together to address the questions of strategy and policy that have and continue to arise as the war progresses.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Dalit Women - Narratives of Vulnerability Violence and a Culture of Impunity [HTML](https://archive-d.bsafes.com/docs/D/Dalit-Women-Narratives-of-Vulnerability-Violence-and-a-Culture-of-Impunity/)
 </p>
 <details>
