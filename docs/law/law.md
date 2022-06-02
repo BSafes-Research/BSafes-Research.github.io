@@ -5,6 +5,7 @@ nav_order: 760
 ---
 
 # Law
+§ June, 2022 [Comment - The Necessary Evolution of State Data Breach Notification Laws - Keeping Pace with New Cyber Threats Quantum Decryption and the Rapid Expansion of Technology](https://archive-c.bsafes.com/docs/C/Comment-The-Necessary-Evolution-of-State-Data-Breach-Notification-Laws-Keeping-Pace-with-New-Cyber-Threats-Quantum-Decryption-and-the-Rapid-Expansion-of-Technology/)  
 § April, 2022 [Cyberpolicing in Canada - A Scoping Review](https://archive-c.bsafes.com/docs/C/Cyberpolicing-in-Canada-A-Scoping-Review/)  
 § March 24, 2022 [PROTECTING VIOLENT FREE SPEECH AND COMBATTING TRUE HOMICIDAL THREATS IN CYBERSPACE](https://archive-p.bsafes.com/docs/P/PROTECTING-VIOLENT-FREE-SPEECH-AND-COMBATTING-TRUE-HOMICIDAL-THREATS-IN-CYBERSPACE/)  
 § February 10, 2022 [Selling Antitrust](https://archive-s.bsafes.com/docs/S/SELLING-ANTITRUST/)  

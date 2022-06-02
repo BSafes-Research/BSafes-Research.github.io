@@ -13,6 +13,18 @@ permalink: /
 {: .no_toc}
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Comment - The Necessary Evolution of State Data Breach Notification Laws - Keeping Pace with New Cyber Threats Quantum Decryption and the Rapid Expansion of Technology [HTML](https://archive-c.bsafes.com/docs/C/Comment-The-Necessary-Evolution-of-State-Data-Breach-Notification-Laws-Keeping-Pace-with-New-Cyber-Threats-Quantum-Decryption-and-the-Rapid-Expansion-of-Technology/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The legal framework that was built almost two decades ago now struggles to keep pace with the rapid expansion of technology, including quantum computing and artificial intelligence, and an ever-evolving cyber threat landscape. In 2002, California passed the first data breach notification law, with all fifty states following suit to require notice of unauthorized access to and acquisition of an individual’s personal information.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
