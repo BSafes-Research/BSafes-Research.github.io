@@ -11,6 +11,17 @@ permalink: /
 
 ## 2022
 {: .no_toc}
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Reskilling and Upskilling - To Stay Relevant in Today’s Industry [HTML](https://archive-r.bsafes.com/docs/R/Reskilling-and-Upskilling-To-Stay-Relevant-in-Today’s-Industry/)
+</p>
+<details>
+  <summary>Abstract</summary>
+As stated in the report on the future of jobs by the World Economic Forum in 2018, around 75 million jobs will be lost in 20 major economies by the turn of the coming year. At the same time, all of these technological advancements and ongoing digital transformation are predicted to result in the creation of 133 million new jobs. Companies that rely heavily on operations have come into a new era of automation and digitization. 
+</details>
+</div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June, 2022<br>
