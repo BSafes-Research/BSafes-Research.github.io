@@ -11,6 +11,19 @@ permalink: /
 
 ## 2022
 {: .no_toc}
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Are You Really Muted? - A Privacy Analysis of Mute Buttons in Video Conferencing Apps [HTML](https://archive-a.bsafes.com/docs/A/Are-You-Really-Muted-A-Privacy-Analysis-of-Mute-Buttons-in-Video-Conferencing-Apps/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Video conferencing apps (VCAs) make it possible for previously private spaces — bedrooms, living rooms, and kitchens — into semi-public extensions of the office. For the most part, users have accepted these apps in their personal space without much thought about the permission models that govern the use of their private data during meetings. 
+</details>
+</div>
+
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 1, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
