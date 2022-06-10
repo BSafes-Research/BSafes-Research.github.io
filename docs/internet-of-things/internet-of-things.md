@@ -5,6 +5,7 @@ nav_order: 734
 ---
 
 # Internet of Things
+§ March, 2022 [A study on IoT-related security issues, challenges, and solutions.](https://archive-a.bsafes.com/docs/A/A-study-on-IoT-related-security-issues-challenges-and-solutions/)  
 § January 19, 2022 [On the Horizon - Nanosatellite Constellations Will Revolutionize the Internet of Things (IoT)](https://archive-o.bsafes.com/docs/O/On-the-Horizon-Nanosatellite-Constellations-Will-Revolutionize-the-Internet-of-Things-(IoT)/)  
 § January, 2022 [Survey on Security Issues and Measures in Different Layers of Internet of Things (IoT)](https://archive-s.bsafes.com/docs/S/Survey-on-Security-Issues-and-Measures-in-Different-Layers-of-Internet-of-Things-(IoT)/)  
 § December, 2021 [Access Control and Authorization in Smart Homes: A Survey](https://archive-a.bsafes.com/docs/A/Access-Control-Authorization-in-Smart-Homes-A-Survey/)  

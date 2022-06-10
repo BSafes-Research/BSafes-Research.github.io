@@ -160,6 +160,18 @@ The Kremlin continues to deepen its reliance on the Russian Orthodox Church-Mosc
 March, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• A study on IoT-related security issues, challenges, and solutions. [HTML](https://archive-a.bsafes.com/docs/A/A-study-on-IoT-related-security-issues-challenges-and-solutions/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The Internet of Things is now being developed to be the most cutting-edge and user-centric technology in the works. Raising both an individual's and society's level of life is the goal of this endeavor. When a technology advances, it always acquires certain flaws, which are always open to being attacked and taken advantage of in some manner. In this work, the problems posed by the Internet of Things (IoT) based on the fundamental security principles of confidentiality, integrity,
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Bullying Victimization as a Predictor of Suicidality among South Dakota Adolescents - A Secondary Data Analysis Using the 2015 Youth Risk Behavior Survey [HTML](https://archive-b-v2.bsafes.com/docs/B/Bullying-Victimization-as-a-Predictor-of-Suicidality-among-South-Dakota-Adolescents-A-Secondary-Data-Analysis-Using-the-2015-Youth-Risk-Behavior-Survey/)
 </p>
 <details>
