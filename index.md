@@ -40,6 +40,18 @@ As stated in the report on the future of jobs by the World Economic Forum in 201
 June, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• Strategy in an Uncertain Domain: Threat and Response in Cyberspace [HTML](https://archive-s.bsafes.com/docs/S/Strategy-in-an-Uncertain-Domain-Threat-and-Response-in-Cyberspace/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Over the last decade, "cyber power" has become an increasingly prominent concept and instrument of national strategy. This article explores the nature of contemporary cyber power, focusing on how states should respond to "cyber uncertainty." Cases of cyber operations against Estonia, Georgia, and Ukraine, as well as cyber operations conducted (and suffered) by the United States, highlight the evolving role of cyber operations as an instrument of statecraft. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Comment - The Necessary Evolution of State Data Breach Notification Laws - Keeping Pace with New Cyber Threats Quantum Decryption and the Rapid Expansion of Technology [HTML](https://archive-c.bsafes.com/docs/C/Comment-The-Necessary-Evolution-of-State-Data-Breach-Notification-Laws-Keeping-Pace-with-New-Cyber-Threats-Quantum-Decryption-and-the-Rapid-Expansion-of-Technology/)
 </p>
 <details>
