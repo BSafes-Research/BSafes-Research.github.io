@@ -25,6 +25,18 @@ Video conferencing apps (VCAs) make it possible for previously private spaces �
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Experiencing mundane AI futures [HTML](https://archive-e.bsafes.com/docs/E/Experiencing-mundane-AI-futures/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Whilst popular visions of Artificial Intelligence (AI) are often presented through the lens of sentient machines, our lived experience of AI is more mundane and exemplified by so-called ‘smart’ products and services. Whilst this mundane reality is often presented using design approaches that make their operation appear simple and innocuous, these smart systems, and the data they use and collect, can challenge and even disrupt ordinary expectations. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 1, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
