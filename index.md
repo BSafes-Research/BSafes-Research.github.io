@@ -1788,6 +1788,18 @@ We used in-depth interviews with 101 participants in the East York section of To
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March, 2020
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• WHAT DO WE TALK ABOUT WHEN WE TALK ABOUT AI? [HTML](https://archive-w.bsafes.com/docs/W/WHAT-DO-WE-TALK-ABOUT-WHEN-WE-TALK-ABOUT-AI/)
+</p>
+<details>
+  <summary>Abstract</summary>
+While the gap between rich and poor increases in the world, Latin America remains the region where wealth is distributed more unequally. According to the Economic Commission for Latin America and the Caribbean (ECLAC), there are marked imbalances between different socioeconomic levels in aspects such as life expectancy, infant mortality, illiteracy rate and access to water inside homes. The very high inequali- ty levels that plague the continent directly influence the development possibilities of its inhabitants and the exercise of their fundamental rights.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 7 , 2020
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
