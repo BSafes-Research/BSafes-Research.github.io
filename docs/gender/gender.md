@@ -5,6 +5,7 @@ nav_order: 712
 ---
 
 # Gender 
+§ June, 2022 [The Killing Machine of Juarez: A Literature Review on the Maquiladora Industry and Femicide in the City](https://archive-t.bsafes.com/docs/T/The-Killing-Machine-of-Juarez-A-Literature-Review-on-the-Maquiladora-Industry-and-Femicide-in-the-City/)  
 § March 30, 2022 [Protection of Online Gender-Based Violence Victims - A Feminist Legal Analysis](https://archive-p.bsafes.com/docs/P/Protection-of-Online-Gender-Based-Violence-Victims-A-Feminist-Legal-Analysis/)  
 § February 7, 2022 [Crafted for the Male Gaze - Gender Discrimination in the K-Pop Industry](https://archive-c.bsafes.com/docs/C/Crafted-for-the-Male-Gaze-Gender-Discrimination-in-the-K-Pop-Industry/)  
 § November, 2020 [Why Women Leave White Nationalist Movements: Exploring the Deradicalization Process](https://archive-w.bsafes.com/docs/W/Why-Women-Leave-White-Nationalist-Movements-Exploring-the-Deradicalization-Process/)  

@@ -52,6 +52,18 @@ As stated in the report on the future of jobs by the World Economic Forum in 201
 June, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• The Killing Machine of Juarez: A Literature Review on the Maquiladora Industry and Femicide in the City [HTML](https://archive-t.bsafes.com/docs/T/The-Killing-Machine-of-Juarez-A-Literature-Review-on-the-Maquiladora-Industry-and-Femicide-in-the-City/)
+</p>
+<details>
+  <summary>Abstract</summary>
+In Ciudad Juarez, Mexico, since 1993, more than 400 women have been killed, a conservative estimate due to the hundreds more that are still missing (Fernández et al., 2008). These women were often employees at tariff and duty-free factories in the area. The factories, also known as maquiladoras, contribute to the economy of the city after they were implemented in the Border Industrialization Program. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Strategy in an Uncertain Domain: Threat and Response in Cyberspace [HTML](https://archive-s.bsafes.com/docs/S/Strategy-in-an-Uncertain-Domain-Threat-and-Response-in-Cyberspace/)
 </p>
 <details>
