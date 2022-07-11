@@ -11,6 +11,17 @@ permalink: /
 
 ## 2022
 {: .no_toc}
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Cyber-Silencing the Community - YouTube, Divino Group, and Reimagining Section 230 [HTML](https://archive-c.bsafes.com/docs/C/Cyber-Silencing-the-Community-YouTube-Divino-Group-and-Reimagining-Section-230/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Social media platforms, once simple messaging boards, have grown to colossal size. They are now a vital source of communication and connection, particularly for marginalized groups such as the LGBTQ+ community. Social media holds incredible sway over the news, political discourse, and entertainment that we consume, and the platforms we use are now able to sculpt conversations simply by allowing or disallowing (i.e., moderating) specific types of speech or content.
+</details>
+</div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July, 2022<br>
