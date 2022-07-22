@@ -12,6 +12,18 @@ permalink: /
 ## 2022
 {: .no_toc}
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Crafting an Innovation Ecosystem That Works for Working People [HTML](https://archive-c.bsafes.com/docs/C/Crafting-an-Innovation-Ecosystem-That-Works-for-Working-People/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The rapid pace and expanding scope of technological change is reshaping work and the workplace. These innovations can benefit workers by improving safety, reducing physical or repetitive burdens, or creating new types of jobs. But automation and new technologies can also eliminate workers, deskill occupations, reduce autonomy and job satisfaction, and erode economic stability for working families that contribute to the rising economic and racial inequality.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 1, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
