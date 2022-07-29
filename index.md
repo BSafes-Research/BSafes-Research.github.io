@@ -39,6 +39,18 @@ Social media platforms, once simple messaging boards, have grown to colossal siz
 July, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• COUNTERING CHINA’S “TRIDENT” STRATEGY - Frustrating China’s Aims in the East and South China Seas and the Indian Ocean [HTML](https://archive-c.bsafes.com/docs/C/COUNTERING-CHINA’S-“TRIDENT”-STRATEGY-Frustrating-China’s-Aims-in-the-East-and-South-China-Seas-and-the-Indian-Ocean/)
+</p>
+<details>
+  <summary>Abstract</summary>
+In Greek mythology, the god Poseidon dominated the sea with a three-pronged spear—a trident—that became a symbol of naval power.1 China now is trying to construct its own trident-like, three-pronged naval strategy for the People’s Liberation Army Navy (PLAN) to dominate the country’s near seas and deny U.S. forces freedom of action in the western Pacific Ocean.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Are You Really Muted? - A Privacy Analysis of Mute Buttons in Video Conferencing Apps [HTML](https://archive-a.bsafes.com/docs/A/Are-You-Really-Muted-A-Privacy-Analysis-of-Mute-Buttons-in-Video-Conferencing-Apps/)
 </p>
 <details>
