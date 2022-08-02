@@ -12,6 +12,18 @@ permalink: /
 ## 2022
 {: .no_toc}
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Exploring Dating as an Occupation for Young Heterosexual Women in Ireland [HTML](https://archive-e.bsafes.com/docs/E/Exploring-dating-as-an-occupation-for-young-heterosexual-women-in-Ireland/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Purpose – Dating is a meaningful occupation for many single people. The occupation of dating has transformed considerably in Ireland due to recent changes in Irish culture and the advent of online dating technology. The purpose of this study was to explore the complexities and intricacies of dating in an Irish context.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 10, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
