@@ -12,6 +12,18 @@ permalink: /
 ## 2022
 {: .no_toc}
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Logged In Zoomed Out-Creating & Maintaining Virtual Engagement for Counselor Education Students [HTML](https://archive-l.bsafes.com/docs/L/Logged-In-Zoomed-Out-Creating-&-Maintaining-Virtual-Engagement-for-Counselor-Education-Students/)
+</p>
+<details>
+  <summary>Abstract</summary>
+Distance learning has significantly changed the face of counselor education and has greatly enhanced the learning process, becoming more prominent since the national pandemic of COVID-19. However, experiential learning, a primary component for counselor education students, can be particularly challenging for some instructors as they may struggle with developing key learning competencies and experiences via distance formats (Schreiber et al., 2021). 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 14, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

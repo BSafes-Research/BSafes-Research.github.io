@@ -5,6 +5,7 @@ nav_order: 690
 ---
 
 # Education 
+§ August, 2022 [Logged In Zoomed Out-Creating & Maintaining Virtual Engagement for Counselor Education Students](https://archive-l.bsafes.com/docs/L/Logged-In-Zoomed-Out-Creating-&-Maintaining-Virtual-Engagement-for-Counselor-Education-Students/)  
 § December, 2021 [Factors affecting effective online teaching transition in Asian universities during COVID-19](https://archive-f.bsafes.com/docs/F/Factors-affecting-effective-online-teaching-transition-in-Asian-universities-during-COVID-19/)  
 § November, 2021 [A REVIEW OF KNOWLEDGE RISK CONCEPTION](https://archive-a.bsafes.com/docs/A/A-REVIEW-OF-KNOWLEDGE-RISK-CONCEPTION/)  
 § October 3, 2021 [Platforms and Tools used for Online Learning all over the World during Covid-19 - A Study](https://archive-p.bsafes.com/docs/P/Platforms-and-Tools-used-for-Online-Learning-all-over-the-World-during-Covid-A-Study/)  
