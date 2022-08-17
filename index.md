@@ -15,6 +15,18 @@ permalink: /
 August, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• Financial Incentives and Healthcare - A Critique of Michael Sandel [HTML](https://archive-f.bsafes.com/docs/F/Financial-Incentives-and-Healthcare-A-Critique-of-Michael-Sandel/)
+</p>
+<details>
+The use of monetary incentives to induce people to behave in salubrious ways abounds, though it is as controversial as it is ubiquitous (Brown, 2017). Few will have been surprised at offers of money since 2021 to increase rates of vaccination against COVID-19.
+</details>
+</div>
+
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Logged In Zoomed Out-Creating & Maintaining Virtual Engagement for Counselor Education Students [HTML](https://archive-l.bsafes.com/docs/L/Logged-In-Zoomed-Out-Creating-&-Maintaining-Virtual-Engagement-for-Counselor-Education-Students/)
 </p>
 <details>
