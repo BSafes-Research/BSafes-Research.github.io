@@ -2135,3 +2135,17 @@ This report documents the program and the outcomes of Dagstuhl Seminar 12401 “
 </details>
 </div>
 
+## 1971
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+1971
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• WIRETAPPING-THE RIGHT TO PRIVACY-MINIMIZATION OF NONPERTINENT COMMUNICATIONS REQUIRED BY NEW JERSEY STATUTE [HTML](https://archive-w.bsafes.com/docs/W/WIRETAPPING-THE-RIGHT-TO-PRIVACY-MINIMIZATION-OF-NONPERTINENT-COMMUNICATIONS-REQUIRED-BY-NEW-JERSEY-STATUTE/)
+</p>
+<details>
+  <summary>Abstract</summary>
+The New Jersey State Police “monitors,” in order that they be proficient in their work, are “specially trained.” 1 They first undergo the standard training program to which all state police officers are exposed. Then they are versed in the nuances of investigating organized crime and gambling operations. 2 Lastly, they are trained, by statutory mandate,3 in what has been called the “dirty business”4 of wiretapping.
+</details>
+</div>
+

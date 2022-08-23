@@ -5,6 +5,7 @@ nav_order: 808
 ---
 
 # Privacy 
+1971 [WIRETAPPING-THE RIGHT TO PRIVACY-MINIMIZATION OF NONPERTINENT COMMUNICATIONS REQUIRED BY NEW JERSEY STATUTE](https://archive-w.bsafes.com/docs/W/WIRETAPPING-THE-RIGHT-TO-PRIVACY-MINIMIZATION-OF-NONPERTINENT-COMMUNICATIONS-REQUIRED-BY-NEW-JERSEY-STATUTE/)  
 § July, 2022 [Are You Really Muted? - A Privacy Analysis of Mute Buttons in Video Conferencing App](https://archive-a.bsafes.com/docs/A/Are-You-Really-Muted-A-Privacy-Analysis-of-Mute-Buttons-in-Video-Conferencing-Apps/)  
 § May 14, 2021 [Privacy in the Public Eye - Frogs Boiling and the Right to Privacy](https://archive-p.bsafes.com/docs/P/Privacy-in-the-Public-Eye%20-Frogs-Boiling-and-the-Right-to-Privacy/)   
 § March, 2021 [DIGITAL DOMINION: How the Syrian regime’s mass digital surveillance violates human rights](https://archive-d.bsafes.com/docs/D/digital-dominion-how-the-syrian-regimes-mass-digital-surveillance-violates-human-rights/)   
