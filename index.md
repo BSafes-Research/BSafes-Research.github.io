@@ -12,6 +12,17 @@ permalink: /
 ## 2022
 {: .no_toc}
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Kerberoasting: Case Studies of an Attack on a Cryptographic Authentication Technology [HTML](https://archive-k.bsafes.com/docs/K/Kerberoasting-Case-Studies-of-an-Attack-on-a-Cryptographic-Authentication-Technology/)
+</p>
+<details>
+Kerberoasting, an attack vector aimed at the Kerberos authentication protocol, can be used as part of an adversary’s attack arsenal. Kerberos is a type of network authentication protocol that allows a client and server to conduct a mutual verification before providing the requested resource to the client. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
