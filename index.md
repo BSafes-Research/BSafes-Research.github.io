@@ -12,6 +12,17 @@ permalink: /
 ## 2022
 {: .no_toc}
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Meeting the US Military’s Manpower Challenges [HTML](https://archive-m.bsafes.com/docs/M/Meeting%20the%20US%20Military’s%20Manpower%20Challenges/)
+</p>
+<details>
+Concerns raised over the impact of changing demographics, domestic polarization, and the return of near-peer competition on US military manpower challenges are overstated. Drawing on open-source materials and interviews, this article discusses factors often neglected in conversations on this topic and provides leadership and policymakers with a scholarly overview of an important yet understudied issue facing the US armed forces.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 22, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
