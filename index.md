@@ -34,6 +34,17 @@ Kerberoasting, an attack vector aimed at the Kerberos authentication protocol, c
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• US military existence in Iraq - tasks and challenges [HTML](https://archive-u.bsafes.com/docs/U/US-military-existence-in-Iraq-tasks-and-challenges/)
+</p>
+<details>
+The US military presence in Iraq has a peculiarity that differs from what is found in other countries of the Middle East, as this presence began after the US occupation of Iraq in April 2003 and passed through various stages dictated by the repercussions of the war on Iraq and the developments of security and political events that contributed to crystallizing the nature and extent of this The presence from one stage to another, unlike the US military presence in the rest of the countries that arose based on treaties and agreements between the United States of America and each of these countries separately according to the request of their governments and was not a result of the use of force and war, as is the case in Iraq.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
