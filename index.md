@@ -15,6 +15,17 @@ permalink: /
 August 25, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+• The Cuban Missile Crisis – Miscalculation - Nuclear Risks and the Human Dimension [HTML](https://archive-t.bsafes.com/docs/T/The-Cuban-Missile-Crisis-Miscalculation-Nuclear-Risks-and-the-Human-Dimension/)
+</p>
+<details>
+Nuclear weapons have vastly raised the stakes and potential costs of crisis, making leadership and related human qualities of judgment and temperament crucial. This article analyzes in depth one exceptionally dangerous US-Soviet confrontation, which barely averted war. Military and policy professionals will see how understanding the perspectives, incentives, and limitations of opponents is important in every conflict—and vital when facing crisis situations like nuclear war.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 • Meeting the US Military’s Manpower Challenges [HTML](https://archive-m.bsafes.com/docs/M/Meeting%20the%20US%20Military’s%20Manpower%20Challenges/)
 </p>
 <details>
