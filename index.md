@@ -12,6 +12,17 @@ permalink: /
 ## 2022
 {: .no_toc}
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• 9/11 Culture War and the Pitfalls of History [HTML](https://archive-c.bsafes.com/docs/C/Culture%20War%20and%20the%20Pitfalls%20of%20History/)
+</p>
+<details>
+9/11, the most traumatic single event of U. S. history, still continues to shape the national psyche but offers useful insights into the law of unintended consequences, the role fear plays in public life, and the pangs of modernity.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 25, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
