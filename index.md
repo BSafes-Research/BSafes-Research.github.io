@@ -12,6 +12,17 @@ permalink: /
 ## 2022
 {: .no_toc}
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Therapeutic servicescapes, COVID stress, and customer revisit intention in the hospitality industry post-lockdown [HTML](https://archive-t.bsafes.com/docs/T/Therapeutic-Servicescapes-COVID-Stress-and-Customer-Revisit-Intention-in-the-Hospitality-Industry-Post-Lockdown/)
+</p>
+<details>
+As the post-pandemic era gradually dawns upon us, the hospitality industry seems to be slow in recovery, partly due to the continuous stress over being infected in public and hospitality places. Scholars have recommended that hospitality establishments seriously consider the potential benefits of artificial intelligence, social distancing, and cleanliness to fast-track the industry’s recovery post-lockdown.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 11, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
