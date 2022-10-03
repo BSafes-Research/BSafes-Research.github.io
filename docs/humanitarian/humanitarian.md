@@ -5,6 +5,7 @@ nav_order: 724
 ---
 
 # Humanitarian
+§ October 3, 2022 [It Takes the University to Close the Equity Gap](https://archive-i.bsafes.com/docs/I/It-Takes-the-University-to-Close-the-Equity-Gap/)  
 § May, 2022 [Dalit Women - Narratives of Vulnerability Violence and a Culture of Impunity](https://archive-d.bsafes.com/docs/D/Dalit-Women-Narratives-of-Vulnerability-Violence-and-a-Culture-of-Impunity/)  
 § December 21, 2021 [Ongoing Genocides and the Need for Healing - The Cases of Native and African Americans](https://archive-o.bsafes.com/docs/O/Ongoing-Genocides-and-the-Need-for-Healing-The-Cases-of-Native-and-African-Americans/)  
 § October 12, 2021 [The Intersectionality of Racism, Globalization, Climate Change, and Forced Migration](https://archive-t.bsafes.com/docs/T/The-Intersectionality-of-Racism-Globalization-Climate-Change-and-Forced-Migration/)  

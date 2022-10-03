@@ -12,6 +12,17 @@ permalink: /
 ## 2022
 {: .no_toc}
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 3, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• It Takes the University to Close the Equity Gap [HTML](https://archive-i.bsafes.com/docs/I/It-Takes-the-University-to-Close-the-Equity-Gap/)
+</p>
+<details>
+Measured as the difference in performance outcomes between domestic students of color and domestic white students, the equity gap is rooted in systemic racism and a lack of educational opportunities. The equity gap has ramifications for all stakeholders in higher education, especially for domestic students of color. In this paper, we explore the causes of the equity gap and why it requires a university-wide effort to close it. Potential solutions in closing it are offered based on our experiences at Minnesota State University, Mankato.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 14, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
