@@ -23,6 +23,17 @@ Measured as the difference in performance outcomes between domestic students of 
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Contributing or Clocking In - A Study of Work Engagement [HTML](https://archive-c.bsafes.com/docs/C/Contributing-or-Clocking-In-A-Study-of-Work-Engagement/)
+</p>
+<details>
+While organizations benefit from lower operating costs resulting from higher quality and quantity of work when employees are engaged in their work, (Risher, 2018). This study used the Utrecht Work Engagement Scale (Schuafeli & Bakker, 2004) to uncover the work engagement levels of county extension agents at one University. Findings suggest Extension agents report Florida Extension agents reported possessing high levels of self-perceived work engagement.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 14, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
