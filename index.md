@@ -12,6 +12,17 @@ permalink: /
 ## 2022
 {: .no_toc}
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• A Relationship of Pivots - Philippine-US Cooperation in a Changing World [HTML](https://archive-a.bsafes.com/docs/A/A-Relationship-of-Pivots-Philippine-US-Cooperation-in-a-Changing-World/)
+</p>
+<details>
+As one of the few nations in the world (and the only one in the vicinity of China) to be a former colony of the United States, the Philippines is in a unique position on the world stage. This article delineates the history of the complex relationship between the Philippines and the United States since the Spanish-American war while placing an emphasis on modern relations.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 3, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
