@@ -5,6 +5,7 @@ nav_order: 700
 ---
 
 # Finance 
+§ November 22, 2022 [Financial Literacy and Investing Habits of Generation Z as it Pertains to Financial Marketing](https://archive-f.bsafes.com/docs/F/Financial-Literacy-and-Investing-Habits-of-Generation-Z-as-it-Pertains-to-Financial-Marketing/)  
 § August, 2022 [Financial Incentives and Healthcare - A Critique of Michael Sandel](https://archive-f.bsafes.com/docs/F/Financial-Incentives-and-Healthcare-A-Critique-of-Michael-Sandel/)  
 § January, 2022 [Digital Financial Literacy Skills among Library and Information Science Professionals in Northeast India - A Study](https://archive-d.bsafes.com/docs/D/Digital-Financial-Literacy-Skills-among-Library-and-Information-Science-Professionals-in-Northeast-India-A-Study/)  
 § December, 2021 [A Risk based Approach to Cybersecurity - A Case Study of Financial Messaging Networks Data Breaches](https://archive-a.bsafes.com/docs/A/A-Risk-based-Approach-to-Cybersecurity-ACase-Study-of-Financial-Messaging-Networks-Data-Breaches/)  

@@ -12,6 +12,17 @@ permalink: /
 ## 2022
 {: .no_toc}
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Financial Literacy and Investing Habits of Generation Z as it Pertains to Financial Marketing [HTML](https://archive-f.bsafes.com/docs/F/Financial-Literacy-and-Investing-Habits-of-Generation-Z-as-it-Pertains-to-Financial-Marketing/)
+</p>
+<details>
+As technology boomed at the end of the 20th Century and into the 21st Century, the methods young adults use to manage their finances have also evolved. Between moving financial investing and banking to the internet, robo-advising apps, college debt, and the generational reaction to the 2008 Financial Crisis, the world of investing has taken a drastic turn when it comes to young investors. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 26, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
