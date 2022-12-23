@@ -12,6 +12,17 @@ permalink: /
 ## 2022
 {: .no_toc}
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 23, 2022<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• The Dynamic Negotiated Exchange Model of Heroism and Heroic Leadership: Lessons From the COVID-19 Pandemic [HTML](https://archive-t.bsafes.com/docs/T/the-dynamic-negotiated-exchange-model-of-heroism-and-heroic-leadership-lessons-from-the-covid-19-pandemic/)
+</p>
+<details>
+Like four million other U.S. nurses, Cassandra Alexander was ill-prepared for the COVID19 pandemic when legions of infected people slammed her San Francisco Bay area hospital in March 2020. The shortage of personal protective equipment (PPE) spurred the Centers for Disease Control and Prevention to recommend that health care workers craft inferior homemade masks from materials such as bandanas and scarves (Hashimoto 2020). As her hospital became overrun with patients, Alexander was so emotionally overwhelmed that she became suicidal, was diagnosed with PTSD, and resigned from the hospital. “This job is fucking hard, and most of us do it without complaint,” she recalled, “but it was already baseline stressful, pre-covid, and we were all already burnt” (Alexander 2021, 9). Most telling was Alexander’s response to nurses being labeled “heroes” by the public in various media platforms. To her, the term “hero” rang hollow and cruel, prompting her to describe the pandemic as the time when “America pretended healthcare workers were heroes and then made us feel disposable” (5).
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 22, 2022<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

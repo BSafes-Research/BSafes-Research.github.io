@@ -5,6 +5,7 @@ nav_order: 722
 ---
 
 # Health 
+§ December 23, 2022 [The Dynamic Negotiated Exchange Model of Heroism and Heroic Leadership: Lessons From the COVID-19 Pandemic](https://archive-t.bsafes.com/docs/T/the-dynamic-negotiated-exchange-model-of-heroism-and-heroic-leadership-lessons-from-the-covid-19-pandemic/)  
 § September 14, 2022 [Therapeutic servicescapes, COVID stress, and customer revisit intention in the hospitality industry post-lockdown](https://archive-t.bsafes.com/docs/T/Therapeutic-Servicescapes-COVID-Stress-and-Customer-Revisit-Intention-in-the-Hospitality-Industry-Post-Lockdown/)  
 § April, 2022 [Anxiety sensitivity, uncertainty and recursive thinking - A continuum on Cyberchondria conditions during the Covid Outbreak](https://archive-a.bsafes.com/docs/A/Anxiety-sensitivity-uncertainty-and-recursive-thinking-A-continuum-on-Cyberchondria-conditions-during-the-Covid-Outbreak/)  
 § January 1, 2022 [Relevance of Internet of Things to Health Institutions in Clinical Data Management - Implication for Librarians](https://archive-r.bsafes.com/docs/R/Relevance-of-Internet-of-Things-to-Health-Institutions-in-Clinical-Data-Management-Implication-for-Librarians/)  
