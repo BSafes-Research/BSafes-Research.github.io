@@ -5,6 +5,7 @@ nav_order: 802
 ---
 
 # Politics
+§ February 10, 2023 [Global Security: Russia, Ukraine, and What Comes Next](https://archive-g.bsafes.com/docs/G/Global-Security-Russia-Ukraine-and-What-Comes-Next/)  
 § October 26, 2022 [A Relationship of Pivots - Philippine-US Cooperation in a Changing World](https://archive-a.bsafes.com/docs/A/A-Relationship-of-Pivots-Philippine-US-Cooperation-in-a-Changing-World/)  
 § July, 2022 [COUNTERING CHINA’S “TRIDENT” STRATEGY - Frustrating China’s Aims in the East and South China Seas and the Indian Ocean](https://archive-c.bsafes.com/docs/C/COUNTERING-CHINA’S-“TRIDENT”-STRATEGY-Frustrating-China’s-Aims-in-the-East-and-South-China-Seas-and-the-Indian-Ocean/)  
 § May, 2022 [Putin’s Invasion of Ukraine in 2022 - Implications for Strategic Studies](https://archive-p.bsafes.com/docs/P/Putin’s-Invasion-of-Ukraine-in-2022-Implications-for-Strategic-Studies/)  

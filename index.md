@@ -9,6 +9,19 @@ permalink: /
 # Cybersecurity Research
 {: .no_toc}
 
+## 2023
+{: .no_toc}
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2023<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Global Security: Russia, Ukraine, and What Comes Next [HTML](https://archive-g.bsafes.com/docs/G/Global-Security-Russia-Ukraine-and-What-Comes-Next/)
+</p>
+<details>
+February 24, 2022, changed the lives of all Ukrainians. People throughout the country woke up to the sounds of bombings in the cities, and all soon knew that the fullscale war had begun. 1 That morning Ukrainians realized that Russians could never become “brothers and sisters” again. Russia is a terrorist state that is continuing to commit war crimes.2 Crimes against peace, and crimes against humanity. Russia has now challenged the entire world with bombings, murder, and acts against civilians - including women and children. 3 However, these unthinkable circumstances now allow Ukraine to change the situation together with the rest of the liberal world by creating a new model of defense and security.
+</details>
+</div>
+
 ## 2022
 {: .no_toc}
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
