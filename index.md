@@ -12,6 +12,17 @@ permalink: /
 ## 2023
 {: .no_toc}
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2023<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• Leadership is needed for ethical ChatGPT: Character, assessment, and learning using artificial intelligence (AI) [HTML](https://archive-l.bsafes.com/docs/L/Leadership-is-needed-for-ethical-ChatGPT/)
+</p>
+<details>
+The OpenAI’s ChatGPT-3, or Chat Generative Pre-Trained Transformer was released in November 2022 without significant warning, and has taken higher education by storm since. The artificial intelligence (AI)- powered chatbot has caused alarm for practitioners seeking to detect authenticity of student work. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 10, 2023<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
