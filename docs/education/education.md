@@ -5,6 +5,7 @@ nav_order: 690
 ---
 
 # Education 
+§ April 26, 2023 [On Becoming Online Educators: Developing Hybrid LearningCentered Pedagogy](https://archive-o.bsafes.com/docs/O/On-Becoming-Online-Educators-Developing-Hybrid-Learning-Centered-Pedagogy/) 
 § August, 2022 [Logged In Zoomed Out-Creating & Maintaining Virtual Engagement for Counselor Education Students](https://archive-l.bsafes.com/docs/L/Logged-In-Zoomed-Out-Creating-&-Maintaining-Virtual-Engagement-for-Counselor-Education-Students/)  
 § December, 2021 [Factors affecting effective online teaching transition in Asian universities during COVID-19](https://archive-f.bsafes.com/docs/F/Factors-affecting-effective-online-teaching-transition-in-Asian-universities-during-COVID-19/)  
 § November, 2021 [A REVIEW OF KNOWLEDGE RISK CONCEPTION](https://archive-a.bsafes.com/docs/A/A-REVIEW-OF-KNOWLEDGE-RISK-CONCEPTION/)  

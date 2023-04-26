@@ -12,6 +12,17 @@ permalink: /
 ## 2023
 {: .no_toc}
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2023<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+• On Becoming Online Educators: Developing Hybrid LearningCentered Pedagogy [HTML](https://archive-o.bsafes.com/docs/O/On-Becoming-Online-Educators-Developing-Hybrid-Learning-Centered-Pedagogy/)
+</p>
+<details>
+Recent global events pushed in-person learning to online formats. As K-12 teachers struggled with shifting from in-person to online teaching while adapting and adjusting instruction, and higher education prepared to do the same, two faculty members in a TESOL teacher preparation program joined forces to question assumptions about online teaching, reflect on praxis, and revisit pedagogy and practices through a critical autoethnographic study. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 31, 2023<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
